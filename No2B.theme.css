@@ -10,7 +10,7 @@
 }
 .guilds-wrapper .guilds .friends-icon {
     background-image: url(TBD);
-    background-color: rgb(200,200,200);
+    background-color: rgb(200,200,200) !important;
 }
 
 /*ChannelList*/
