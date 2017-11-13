@@ -2,6 +2,13 @@
     background-image: url(https://i.imgur.com/6danWo3.png) !Important; 
     background-size:cover !important;
 }
+.scroller-fzNley {
+    background-color: rgba(0,0,0,0.25);
+}
+.guilds-wrapper .guilds {
+   background-color: rgba(35,35,35,1); 
+}
+
 /*ChannelList*/
 .nameDefaultText-QoumjC, .nameDefaultVoice-1swZoh, .nameLockedText-2fGz07, .nameLockedVoice-wNOMNa {
     color: rgba(0, 0, 0, 1); /*This changes the color of none selected, none hovered channels*/	
