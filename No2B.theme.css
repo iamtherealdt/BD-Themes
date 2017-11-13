@@ -8,10 +8,6 @@
 .guilds-wrapper .guilds {
    background-color: rgba(35,35,35,1); 
 }
-.guilds-wrapper .guilds .friends-icon {
-    background-image: url(TBD);
-    background-color: rgb(200,200,200) !important;
-}
 
 /*ChannelList*/
 .nameDefaultText-QoumjC, .nameDefaultVoice-1swZoh, .nameLockedText-2fGz07, .nameLockedVoice-wNOMNa {
