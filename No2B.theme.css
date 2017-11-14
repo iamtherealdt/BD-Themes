@@ -16,6 +16,9 @@
     background-color: transparent;
     
 }
+.theme-dark .inner-3if5cm {
+    background-color: hsla(230, 0%, 10%, 0.8);
+}
 .theme-dark .message-group .comment .markup {
     color: rgba(255, 255, 255, 1) !important;
 }
