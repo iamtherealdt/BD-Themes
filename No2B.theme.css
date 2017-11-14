@@ -23,7 +23,7 @@
     background-color: rgb(35,35,35);
 }
 .guilds-wrapper .guilds {
-    background-color: rgb(35,35,35);
+    background-color: rgba(35,35,35,0.8);
 }
 .guild-inner {
     background-color: transparent !important;
