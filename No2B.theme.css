@@ -20,7 +20,8 @@
     color: #ffffff;
 }
 .ui-standard-sidebar-view .sidebar-region .sidebar-region-scroller {
-    background-color: rgb(35,35,35);
+    background-color: transparent !important;
+    background: -webkit-linear-gradient(left, rgba(0,0,0,0.8) 30%,rgba(125,185,232,0) 100%); 
 }
 .guilds-wrapper .guilds {
     background-color: transparent !important;
