@@ -70,3 +70,9 @@
     -webkit-flex-shrink: 0!important;
     line-height:16px!important;
 }
+#bd-customcss-detach-container {
+    background-color: transparent;
+}
+.chat .scroller {
+    background-color: rgba(0,0,0,0.6);
+}
