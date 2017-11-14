@@ -16,6 +16,9 @@
     background-color: transparent;
     
 }
+.theme-dark .message-group .comment .markup {
+    color: rgba(255, 255, 255, 1) !important;
+}
 .platform-win .container-2oOGIt {
     padding-top: 0px;
     top: -150px;
