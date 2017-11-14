@@ -8,6 +8,29 @@
 .guilds-wrapper .guilds {
    background-color: rgba(35,35,35,1); 
 }
+.typeWindows-15E0Ys, titleBar-3_fDwJ horizontalReverse-k5PqxT flex-3B1Tl4 directionRowReverse-2eZTxP justifyStart-2yIZo0 alignStretch-1hwxMa { 
+    margin: 0px;
+    height: 20px;
+    background-color: rgba(0,0,0,0.8);
+}
+.autocompleteInner-N7OQf1 {
+    background: rgba(35, 35, 35,1);
+    border: 1px solid var(--M-Colour);
+}
+.theme-dark .autocomplete-1TnWNR,
+.autocomplete-1TnWNR {
+    background: rgba(0, 0, 0, 0.23);
+}
+.theme-dark .message-group .comment .markup code.inline,
+.theme-dark .message-group .comment .markup pre code {
+    background: rgba(0,0,0,0.2) !important;
+    border-radius: 2px;
+}
+.theme-dark .message-group .comment .markup pre {
+    background: rgb(35,35,35);
+    border-color: rgb(205,205,205);
+    border-radius: 2px;
+}
 
 /*ChannelList*/
 .nameDefaultText-QoumjC, .nameDefaultVoice-1swZoh, .nameLockedText-2fGz07, .nameLockedVoice-wNOMNa {
