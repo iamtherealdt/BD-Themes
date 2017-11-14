@@ -31,6 +31,39 @@
     border-color: rgb(205,205,205);
     border-radius: 2px;
 }
+.message-group:not(.compact) .avatar-large[style*="99190297551994880"] ~ .comment .message h2 span.username-wrapper::after {
+    content: "Theme Dev"!important;
+    color: #ffffff!important;
+    border-radius: 3px!important;
+    border: 1px solid #ffffff!important;
+    background: rgba(255, 255, 255, 0.0980392)!important;
+    margin-left: 6px!important;
+    font-size: 10px!important;
+    font-weight: 600!important;
+    text-transform: uppercase!important;
+    vertical-align: bottom!important;
+    padding: 1px 4px!important;
+    line-height: 14px!important;
+    flex-shrink: 0!important;
+    -webkit-flex-shrink: 0!important;
+}
+.channel-members .member .avatar-small[style*="99190297551994880"] ~ .member-inner .member-username .member-username-inner::after {
+    content: "Theme Dev"!important;
+    color: #ffffff!important;
+    border-radius: 3px!important;
+    border: 1px solid #ffffff!important;
+    background: rgba(255, 255, 255, 0.0980392)!important;
+    margin-left: 6px!important;
+    font-size: 10px!important;
+    font-weight: 600!important;
+    text-transform: uppercase!important;
+    vertical-align: bottom!important;
+    padding: 1px 0px!important;
+    line-height: 14px!important;
+    flex-shrink: 0!important;
+    -webkit-flex-shrink: 0!important;
+    line-height:16px!important;
+}
 
 /*ChannelList*/
 .nameDefaultText-QoumjC, .nameDefaultVoice-1swZoh, .nameLockedText-2fGz07, .nameLockedVoice-wNOMNa {
