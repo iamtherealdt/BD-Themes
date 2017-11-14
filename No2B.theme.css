@@ -6,7 +6,7 @@
     background-color: rgba(0,0,0,0.25);
 }
 .guilds-wrapper .guilds {
-    background-color: rgba(35,35,35,1);
+    background-color: rgb(35,35,35);
 }
 .guild-inner {
     background-color: transparent !important;
