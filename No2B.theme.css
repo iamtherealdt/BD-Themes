@@ -10,6 +10,12 @@
     background-color: transparent;
     
 }
+.theme-dark .message-group h2 strong {
+    border-radius: 2px !important;
+}
+.theme-dark .message-group h2 span {
+    color: #ffffff;
+}
 .ui-standard-sidebar-view .sidebar-region .sidebar-region-scroller {
     background-color: rgb(35,35,35)
 }
