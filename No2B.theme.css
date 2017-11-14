@@ -10,6 +10,9 @@
     background-color: transparent;
     
 }
+.private-channels .channel .avatar-small {
+    border-radius: 2px;
+}
 .theme-dark .message-group h2 strong {
     border-radius: 2px !important;
 }
