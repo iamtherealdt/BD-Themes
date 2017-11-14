@@ -16,6 +16,27 @@
     background-color: transparent;
     
 }
+.platform-win .container-2oOGIt {
+    padding-top: 0px;
+    top: -150px;
+    height: 400px;
+    width: 300px;
+    margin-left: 700px;
+    margin-top: 350px;
+    background-color: transparent;
+    background: -webkit-linear-gradient(top, rgba(0,0,0,0.85) 70%,rgba(125,185,232,0) 100%);
+}
+.content-3dsgDG {
+    text-align: center;
+    margin-bottom: 120px;
+}
+.links-3m0VgL {
+    color: white;
+}
+.scroller-fzNley {
+    background-color: transparent;
+    background: -webkit-linear-gradient(top, rgba(0,0,0,0.8) 35%,rgba(125,185,232,0) 100%);
+}
 .private-channels .channel .avatar-small {
     border-radius: 2px;
 }
