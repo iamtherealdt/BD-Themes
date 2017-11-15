@@ -173,6 +173,7 @@ a {
     padding-top: 8px;
 }
 .container-iksrDt {
+    border-radius: 5px;
     background: rgba(0,3,6,0.6);
 }
 .theme-dark .search .search-bar {
