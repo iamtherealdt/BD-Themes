@@ -13,6 +13,11 @@
     margin-left: 9px;
     background-color: transparent;
 }
+.theme-dark .chat .has-more button {
+    background: black;
+    border: 1px solid #ffffff;
+    color: white;
+}
 .theme-dark .headerBar-cxbhPD {
     background: black;
 }
