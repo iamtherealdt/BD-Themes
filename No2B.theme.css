@@ -13,6 +13,21 @@
     margin-left: 9px;
     background-color: transparent;
 }
+#friends .friends-table .friends-table-body {
+    overflow-x: hidden;
+    padding-bottom: 20px;
+    padding-top: 2px;
+    background-color: transparent;
+    background: -webkit-linear-gradient(top, rgba(0,0,0,0.8) 22%,rgba(125,185,232,0) 100%);
+}
+.theme-dark #friends .friends-table .friends-table-header {
+    background: -webkit-linear-gradient(top, rgba(0,0,0,0) 0.1%,rgba(0,0,0,1) 100%);
+    padding-top: 0px;
+    border-color: white;
+}
+.theme-dark #friends .friends-table .friends-table-header .friends-column {
+    color: white;
+}
 .theme-dark .chat .has-more button {
     background: black;
     border: 1px solid #ffffff;
