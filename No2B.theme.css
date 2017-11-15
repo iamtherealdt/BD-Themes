@@ -16,6 +16,13 @@
     background-color: transparent;
     
 }
+.private-channels .channel.selected a {
+    margin-left: 0px;
+    border-radius: 0px;
+}
+.ui-standard-sidebar-view .content-region-scroller {
+    background: transparent;
+}
 .theme-dark .inner-3if5cm {
     background-color: hsla(230, 0%, 10%, 0.8);
 }
