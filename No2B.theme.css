@@ -102,7 +102,7 @@
 .message-group:not(.compact) .avatar-large[style*="99190297551994880"] ~ .comment .message h2 span.username-wrapper::after {
     content: "Theme Dev"!important;
     color: #ffffff!important;
-    border-radius: 3px!important;
+    border-radius: 0px!important;
     border: 1px solid #ffffff!important;
     background: rgba(255, 255, 255, 0.0980392)!important;
     margin-left: 6px!important;
@@ -118,7 +118,7 @@
 .channel-members .member .avatar-small[style*="99190297551994880"] ~ .member-inner .member-username .member-username-inner::after {
     content: "Theme Dev"!important;
     color: #ffffff!important;
-    border-radius: 3px!important;
+    border-radius: 0px!important;
     border: 1px solid #ffffff!important;
     background: rgba(255, 255, 255, 0.0980392)!important;
     margin-left: 6px!important;
