@@ -16,6 +16,22 @@
 .theme-dark .headerBar-cxbhPD {
     background: black;
 }
+.theme-dark .headerBar-cxbhPD {
+    background: black;
+}
+#bd-customcss-detach-container #bd-customcss-attach-controls {
+    background: black;
+    color: #FFF;
+    border: none;
+    box-shadow: 0px 1px 0px 0px #36393f inset;
+}
+.checkbox .checkbox-inner input[type=checkbox]:checked+span {
+    background-color: white;
+    border-color: grey;
+}
+.checkbox .checkbox-inner input[type=checkbox]:checked+span:after {
+    border-color: grey;
+}
 .private-channels .status {
     border-radius: 0px;
     padding-right: 21px;
