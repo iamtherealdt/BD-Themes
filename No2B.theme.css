@@ -22,6 +22,10 @@
 .theme-dark .title-qAcLxz {
     background-color: rgba(0,0,0,1);
 }
+.channels-3g2vYe [class*=scroller-]>[class*=container-]>div:first-of-type>[class*=container], .channels-wrap [class*=scroller-]>[class*=container-]>div:first-of-type>[class*=container],
+.channels-wrap [class*=scroller-]>[class*=container-]>[class*=container]:first-of-type, .channels-3g2vYe [class*=scroller-]>[class*=container-]>[class*=container]:first-of-type {
+    padding-top: 8px;
+}
 .container-iksrDt {
     background: rgba(0,3,6,0.6);
 }
