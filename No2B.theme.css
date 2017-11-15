@@ -20,6 +20,10 @@
     margin-left: 0px;
     border-radius: 0px;
 }
+.search-bar input {
+  border-radius: 0px;
+  background: rgba(255, 255, 255,0.3) !important;
+}
 .ui-standard-sidebar-view .content-region-scroller {
     background: transparent;
 }
