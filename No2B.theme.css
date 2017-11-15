@@ -8,6 +8,9 @@
 .private-channels .search-bar {
     background-color: rgba(0,0,0,1);
 }
+.private-channels .status {
+    border-radius: 2px;
+}
 .theme-dark .title-qAcLxz {
     background-color: rgba(0,0,0,1);
 }
