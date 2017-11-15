@@ -13,6 +13,9 @@
     margin-left: 9px;
     background-color: transparent;
 }
+.cm-s-material .CodeMirror-linenumber {
+    color: #ffffff;
+}
 .private-channels .channel a:hover,
 .private-channels .channel .channel-name:hover{
     border-radius: 0px;
