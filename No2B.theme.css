@@ -8,6 +8,14 @@
 .private-channels .search-bar {
     background-color: rgba(0,0,0,1);
 }
+.channel-members .member.member-status-offline .avatar-small {
+    border-radius: 2px;
+    background-color: transparent;
+}
+.channel-members .avatar-small {
+    border-radius: 2px;
+    background-color: transparent;
+} 
 .private-channels .status {
     border-radius: 2px;
 }
