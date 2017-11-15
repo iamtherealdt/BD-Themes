@@ -47,6 +47,7 @@
     background: transparent;
 }
 .theme-dark .inner-3if5cm {
+    border-radius: 2px;
     background-color: hsla(230, 0%, 10%, 0.8);
 }
 .theme-dark .message-group .comment .markup {
