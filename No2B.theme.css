@@ -17,6 +17,9 @@
 .container-iksrDt {
     background: rgba(0,3,6,0.6);
 }
+.theme-dark .search .search-bar {
+    border-radius: 2px;
+}
 .theme-dark .channel-members {
     background-color: transparent;
     background:-webkit-linear-gradient(top, rgba(0,0,0,0.8) 35%,rgba(125,185,232,0) 100%);
@@ -43,8 +46,8 @@
     border-radius: 0px;
 }
 .search-bar input {
-  border-radius: 0px;
-  background: rgba(255, 255, 255,0.3) !important;
+  border-radius: 2px;
+  background-color: hsla(0,0%,100%,.1); !important;
 }
 .ui-standard-sidebar-view .content-region-scroller {
     background: transparent;
