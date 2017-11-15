@@ -73,9 +73,10 @@
 .private-channels .status {
     border-radius: 0px;
     padding-right: 21px;
-    margin-bottom: -7px;
+    margin-bottom: 0px;
     margin-right: 2px;
     border: none;
+    height: 6px;
 }
 .private-channels .channel .avatar-small {
     border-radius: 0px;
