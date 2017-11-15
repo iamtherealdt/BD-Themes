@@ -343,7 +343,7 @@ a {
 .guilds-wrapper .guilds-add:hover {
     border-color: hsla(0,0%,100%,.75);
     color: hsla(0,0%,100%,.75);
-    transition: 1.5s;
+    transition: 0.5s;
     -webkit-animation: neon2 1.5s ease-in-out infinite alternate;
     text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #fff, 0 0 20px #228DFF, 0 0 35px #228DFF, 0 0 40px #228DFF, 0 0 50px #228DFF, 0 0 75px #228DFF;
 }
