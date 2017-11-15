@@ -13,6 +13,9 @@
     margin-left: 9px;
     background-color: transparent;
 }
+.theme-dark .message-group .comment .message-send-failed .markup{
+    color: red !important;
+}
 .theme-dark .message-group:not(.has-divider) {
     margin-bottom: 10px;
     border-radius: 2px;
