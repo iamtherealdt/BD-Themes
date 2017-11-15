@@ -67,9 +67,6 @@ a {
 .channel-members .avatar-small {
     border-radius: 2px;
     background-color: transparent;
-} 
-.private-channels .status {
-    border-radius: 2px;
 }
 .theme-dark .title-qAcLxz {
     background-color: rgba(0,0,0,1);
