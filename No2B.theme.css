@@ -13,6 +13,11 @@
     margin-left: 9px;
     background-color: transparent;
 }
+.guilds-wrapper .guilds .friends-online {
+    color: #ffffff;
+    font-size: 12px;
+    font-weight: 100;
+}
 .cm-s-material .CodeMirror-linenumber {
     color: #ffffff;
 }
