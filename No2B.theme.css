@@ -8,6 +8,14 @@
 .private-channels .search-bar {
     background-color: rgba(0,0,0,1);
 }
+.theme-dark .premium-settings .premium-header.splash {
+    background-color: rgba(0,0,0,0.6);
+    border-radius: 5px;
+}
+.premium-settings .premium-feature {
+    background-color: rgba(0,0,0,0.6);
+    border-radius: 5px;
+}
 .channel-members .member.member-status-offline .avatar-small {
     border-radius: 2px;
     background-color: transparent;
