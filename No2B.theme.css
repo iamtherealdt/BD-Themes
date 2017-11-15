@@ -44,7 +44,7 @@
 .private-channels .channel .channel-name:hover {
     color: white;
     transition: 0.3s;
-    background color: transparent;
+    background-color: transparent;
 }
 .cm-s-material .CodeMirror-linenumber {
     color: #ffffff;
