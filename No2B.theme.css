@@ -13,6 +13,9 @@
     margin-left: 9px;
     background-color: transparent;
 }
+.nameUnreadText-1pxldj, .nameUnreadVoice-QK4gxH {
+    color: #ffffff !important;
+}
 .guilds-wrapper .guilds .friends-online {
     color: #ffffff;
     font-size: 12px;
