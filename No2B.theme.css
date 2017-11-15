@@ -221,8 +221,12 @@ a {
     background-color: transparent !important;
     background: -webkit-linear-gradient(top, rgba(0,0,0,0.8) 30%,rgba(125,185,232,0) 100%);
 }
-.guild-inner {
-    background-color: transparent !important;
+.guilds-wrapper .guild-inner a {
+    color: #fff;
+    display: block;
+    height: 50px;
+    width: 50px;
+    background: -webkit-radial-gradient(center, ellipse cover, rgba(153,153,153,0.01) 0%,rgba(153,153,154,0.5) 1%,rgba(125,185,232,0) 80%);
 }
 .guilds-wrapper .guilds .friends-icon {
     background-image: url(https://i.imgur.com/9NQdLVQ.png) !important;
