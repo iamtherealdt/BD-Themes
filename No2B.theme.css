@@ -11,6 +11,17 @@
 .user-settings-account .user-info-viewing {
     background-color: rgba(0,0,0,0.6);
 }
+.ui-standard-sidebar-view #editor-detached button {
+    background:white;
+    color:black;
+}
+#bd-settings-sidebar .ui-tab-bar-item.selected {
+    color: black;
+    background-color: white;
+}
+a {
+  color: white;  
+}
 .buttonBrandFilledDefault-2Rs6u5 {
     background-color: white;
     color: black;
