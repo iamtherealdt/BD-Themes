@@ -13,6 +13,11 @@
     margin-left: 9px;
     background-color: transparent;
 }
+.theme-dark .message-group:not(.has-divider) {
+    margin-bottom: 10px;
+    border-radius: 2px;
+    background-color: rgba(0,0,0,0.15);
+}
 .nameUnreadText-1pxldj, .nameUnreadVoice-QK4gxH {
     color: #ffffff !important;
 }
