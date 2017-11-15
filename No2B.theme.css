@@ -8,6 +8,13 @@
 .private-channels .search-bar {
     background-color: rgba(0,0,0,1);
 }
+.user-settings-account .user-info-viewing {
+    background-color: rgba(0,0,0,0.6);
+}
+.buttonBrandFilledDefault-2Rs6u5 {
+    background-color: white;
+    color: black;
+}
 .theme-dark .premium-settings .premium-header.splash {
     background-color: rgba(0,0,0,0.6);
     border-radius: 5px;
