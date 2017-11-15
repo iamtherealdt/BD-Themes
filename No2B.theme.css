@@ -16,6 +16,10 @@
 .cm-s-material .CodeMirror-linenumber {
     color: #ffffff;
 }
+.bd-detached-css-editor #bd-customcss-attach-controls button {
+    background: #ffffff;
+    color: black;
+}
 .private-channels .channel a:hover,
 .private-channels .channel .channel-name:hover{
     border-radius: 0px;
