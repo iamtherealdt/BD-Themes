@@ -20,6 +20,20 @@
 .headerNormal-1cioxU {
     background-color: rgba(56, 56, 56, 0.9);
 }
+#user-profile-modal .header {
+    background-color: transparent;
+    background-image: url(https://i.imgur.com/AkniZGA.png) !important;
+    background-position: center;
+    background-size: cover;
+}
+#user-profile-modal .header:after {
+    background: rgba(0,0,0,0)
+}
+#user-profile-modal .header .header-info .header-info-inner .discord-tag,
+#user-profile-modal .header .header-info .header-info-inner .discord-tag .discriminator{
+    color: rgba(246, 246, 247, 0.75) !important;
+    font-size: 16px;
+}
 #friends .friends-table .friends-row .friends-column-name .avatar-small {
     width: 70px;
     height: 70px;
