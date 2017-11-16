@@ -33,7 +33,7 @@
     border-radius: 10px !important;
 }
 .popout-open .header-1tSljs {
-    background-color: rgba(0, 0, 0, 0.80);
+    background-color: rgba(0, 0, 0, 0.8);
 }
 .header-1tSljs {
     background-color: rgba(0, 0, 0, 0.8);
@@ -197,12 +197,6 @@ a {
 .theme-dark .chat form {
     background-color: transparent;
 }
-.header-1tSljs:hover {
-    background-color: rgba(0,0,0,.1);
-}
-.header-1tSljs {
-    background-color: rgba(35,35,35,1)
-}
 .contentSelectedText-3j5CXt {
     border-radius: 0px;
 }
@@ -214,9 +208,6 @@ a {
 .private-channels .channel.selected a {
     margin-left: 0px;
     border-radius: 0px;
-}
-.popout-open .header-1tSljs {
-    background-color: rgba(0, 0, 0, 0.8);
 }
 .private-channels .channel:hover a {
     border-radius: 0px;
