@@ -246,7 +246,7 @@ a {
     border-radius: 0px;
     margin-left: 0px;
     transition: 0.1s;
-    background-color: rgb(79,84,92)
+    background-color: rgb(79,84,92);
 }
 .search-bar input {
   border-radius: 2px;
