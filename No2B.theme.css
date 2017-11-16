@@ -15,7 +15,7 @@
     top: 20px;
 }
 #user-profile-modal .tab-bar-container {
-    padding-left: 20px
+    padding-left: 20px;
 }
 .headerNormal-1cioxU {
     background-color: rgba(56, 56, 56, 0.9);
@@ -27,7 +27,7 @@
     background-size: cover;
 }
 #user-profile-modal .header:after {
-    background: rgba(0,0,0,0)
+    background: rgba(0,0,0,0);
 }
 #user-profile-modal .header .header-info .header-info-inner .discord-tag,
 #user-profile-modal .header .header-info .header-info-inner .discord-tag .discriminator{
