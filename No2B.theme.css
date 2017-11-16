@@ -12,12 +12,15 @@
     background-color: rgba(56, 56, 56, 0.9);
 }
 #friends .friends-table .friends-row .friends-column-name .avatar-small {
-    border-radius: 2px;
     width: 70px;
     height: 70px;
     background-size: 70px 70px;
     margin-left: 9px;
+}
+.avatar-large, .avatar-profile, .avatar-small, .avatar-xlarge, .avatar-xsmall, .avatar-xxlarge {
+    background-clip: padding-box;
     background-color: transparent;
+    border-radius: 10px;
 }
 .theme-dark .message-group .comment .message-send-failed .markup{
     color: red !important;
