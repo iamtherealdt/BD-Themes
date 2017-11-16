@@ -5,6 +5,9 @@
 .scroller-fzNley {
     background-color: rgba(0,0,0,0.25);
 }
+.friends-table {
+    margin-top: 0px !important;
+}
 #friends .friends-table .friends-row .friends-column-name .avatar-small {
     border-radius: 2px;
     width: 70px;
