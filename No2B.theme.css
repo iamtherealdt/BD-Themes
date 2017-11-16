@@ -8,14 +8,14 @@
 .friends-table {
     margin-top: 0px !important;
 }
-#user-profile-modal .tab-bar-container {
-    padding-left: 20px;
-}
 #user-profile-modal .avatar-wrapper {
     background-color: rgba(255, 255, 255, 0);
     left: 20px;
     position: absolute;
     top: 20px;
+}
+#user-profile-modal .tab-bar-container {
+    padding-left: 20px
 }
 .headerNormal-1cioxU {
     background-color: rgba(56, 56, 56, 0.9);
