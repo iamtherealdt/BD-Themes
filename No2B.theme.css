@@ -438,3 +438,61 @@ a {
     text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #fff, 0 0 20px #228DFF, 0 0 35px #228DFF, 0 0 40px #228DFF, 0 0 50px #228DFF, 0 0 75px #228DFF;
   }
 }
+/* Thanks To uri#0002 For This Code */
+.channels-3g2vYe > div:last-child{
+	position: relative;
+	overflow: visible;
+}
+
+.channels-3g2vYe > div:last-child > div:last-child{
+	width: 35px;
+	height: 35px;
+	background-color: rgba(0,0,0,0.4)!important;
+	border-radius: 10px!important;
+	margin: 0;
+	padding: 0 0 40px 0;
+	position: absolute;
+	bottom: 5px;
+	right: 10px;
+	display: flex;
+	flex-flow: column;
+	align-items: center;
+	justify-content: center;
+	transition: background-color 200ms;
+	z-index: 3;
+	box-sizing: border-box;
+    transition: 0.02s;
+}
+
+.channels-3g2vYe > div:last-child:hover > div:last-child:hover{
+	height: 140px;
+}
+
+.channels-3g2vYe > div:last-child > div:last-child:before{
+	content: "";
+	width: 20px;
+	height: 20px;
+	background-image: url(https://i.imgur.com/sgrRZEk.png);
+	background-size: cover;
+	background-position: center;
+	position: absolute;
+	right: 7px;
+	bottom: 9px;
+	opacity: 0.2;
+	transition: opacity 200ms;
+}
+
+.channels-3g2vYe > div:last-child:hover > div:last-child:before{
+	opacity: 0.5;
+}
+
+.channels-3g2vYe > div:last-child > div:last-child > div *{
+	left: 0;
+	display: none;
+}
+
+.channels-3g2vYe > div:last-child:hover > div:last-child:hover > div *{
+	display: block;
+}
+
+/* Thanks To uri#0002 For This Code */
