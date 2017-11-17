@@ -416,6 +416,13 @@
     color: white;
 }
 /*setting alot of color white at once2 END */
+/*Typping stuff*/
+.typing span {
+    background-color: rgba(0,0,0,0.6);
+    border-radius: 2px;
+    transition: 0.6s;
+}
+/*Typing stuff END*/
 /* Thanks To uri#0002 For This Code */
 .channels-3g2vYe > div:last-child{
 	position: relative;
