@@ -5,6 +5,13 @@
 .scroller-fzNley {
     background-color: rgba(0,0,0,0.25);
 }
+/*making top bars allign to theme at once */
+.private-channels .search-bar,
+.theme-dark .title-qAcLxz,
+.theme-dark .headerBar-cxbhPD {
+    background: rgba(0, 0, 0, 0.8);
+}
+/*making the topbars allign to theme at once end*/
 /* little user profile main changes*/
 .avatar-1BXaQj {
     -web-flex-negative: 0;
@@ -140,9 +147,6 @@
     background: black;
     border: 1px solid #ffffff;
     color: white;
-}
-.theme-dark .headerBar-cxbhPD {
-    background: rgba(0, 0, 0, 0.8);
 }
 #bd-customcss-detach-container #bd-customcss-attach-controls {
     background: black;
