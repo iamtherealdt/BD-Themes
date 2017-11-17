@@ -465,6 +465,26 @@ a {
     text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #fff, 0 0 20px #228DFF, 0 0 35px #228DFF, 0 0 40px #228DFF, 0 0 50px #228DFF, 0 0 75px #228DFF;
   }
 }
+.channel-members-wrap::before{
+    margin-right: -277px;
+    transition-delay: 1s;
+    content: url(https://i.imgur.com/AWSym9h.png);
+}
+.channel-members-wrap{
+    opacity: 0.8;
+    margin-right: -240px;
+    transition: 0.7s;
+}
+.channel-members-wrap:hover{
+    margin-right: 0px;
+    transition-delay: 0.3s;
+}
+.channel-members-wrap:hover::before{
+    opacity: 0;
+    margin-left: -43px;
+    transition: 0.2s;
+    transition-delay: 0.3s;
+}
 /* Thanks To uri#0002 For This Code */
 .channels-3g2vYe > div:last-child{
 	position: relative;
