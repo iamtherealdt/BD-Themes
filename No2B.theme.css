@@ -20,6 +20,9 @@
 .headerNormal-1cioxU {
     background-color: rgba(56, 56, 56, 0.9);
 }
+.theme-dark #friends .friends-table .friends-table-header {
+    background: -webkit-linear-gradient(top, rgba(0, 0, 0, 0.8) 0.1%,rgba(0, 0, 0, 0.8) 100%) !important;
+}
 #user-profile-modal .header {
     padding-left: 390px;
     background-color: transparent;
