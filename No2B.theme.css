@@ -443,7 +443,6 @@ a {
 	position: relative;
 	overflow: visible;
 }
-
 .channels-3g2vYe > div:last-child > div:last-child{
 	width: 35px;
 	height: 35px;
@@ -463,11 +462,9 @@ a {
 	box-sizing: border-box;
     transition: 0.02s;
 }
-
 .channels-3g2vYe > div:last-child:hover > div:last-child:hover{
 	height: 140px;
 }
-
 .channels-3g2vYe > div:last-child > div:last-child:before{
 	content: "";
 	width: 20px;
@@ -481,18 +478,14 @@ a {
 	opacity: 0.2;
 	transition: opacity 200ms;
 }
-
 .channels-3g2vYe > div:last-child:hover > div:last-child:before{
 	opacity: 0.5;
 }
-
 .channels-3g2vYe > div:last-child > div:last-child > div *{
 	left: 0;
 	display: none;
 }
-
 .channels-3g2vYe > div:last-child:hover > div:last-child:hover > div *{
 	display: block;
 }
-
 /* Thanks To uri#0002 For This Code */
