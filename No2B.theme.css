@@ -129,10 +129,7 @@
     color: white;
 }
 .theme-dark .headerBar-cxbhPD {
-    background: black;
-}
-.theme-dark .headerBar-cxbhPD {
-    background: black;
+    background: rgba(0, 0, 0, 0.8);
 }
 #bd-customcss-detach-container #bd-customcss-attach-controls {
     background: black;
