@@ -460,7 +460,6 @@ a {
 	transition: background-color 200ms;
 	z-index: 3;
 	box-sizing: border-box;
-    transition: 0.02s;
 }
 .channels-3g2vYe > div:last-child:hover > div:last-child:hover{
 	height: 140px;
