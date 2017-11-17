@@ -375,26 +375,31 @@
     text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #fff, 0 0 20px #228DFF, 0 0 35px #228DFF, 0 0 40px #228DFF, 0 0 50px #228DFF, 0 0 75px #228DFF;
   }
 }
+/*Really thanks for the fix spthiel*/
 .channel-members-wrap::before{
-    margin-right: -277px;
-    transition-delay: 1s;
-    content: url(https://i.imgur.com/AWSym9h.png);
+    content: ' ';
+    min-width: 44px;
+    background: url(https://i.imgur.com/OUChXsg.png);
+    transition-delay: 0.3s;
+    transition: 0.4s;
 }
 .channel-members-wrap{
     opacity: 0.8;
-    margin-right: -240px;
+    width: 44px;
+    min-width: 0px;
     transition: 0.7s;
 }
 .channel-members-wrap:hover{
-    margin-right: 0px;
-    transition-delay: 0.3s;
+    width: 240px;
+    transition:1s;
 }
+
 .channel-members-wrap:hover::before{
-    opacity: 0;
-    margin-left: -43px;
-    transition: 0.2s;
+    min-width: 0;
+    transition: 0.5s;
     transition-delay: 0.3s;
 }
+/*Really thanks for the fix spthiel END*/
 /*setting alot of white and black colors at once*/
 .bd-detached-css-editor #bd-customcss-attach-controls button, .ui-standard-sidebar-view #editor-detached button {
     background:white;
