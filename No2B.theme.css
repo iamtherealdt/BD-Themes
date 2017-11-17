@@ -8,6 +8,23 @@
 .theme-dark .title-qAcLxz {
     background-color: rgba(0, 0, 0, 0.8);
 }
+.avatar-1BXaQj {
+    -web-flex-negative: 0;
+    border-radius: 10px;
+}
+.mask-2vyqAW {
+ -webkit-mask: none !important; 
+ -webkit-mask-size: none !important; 
+ mask: none !important; 
+ mask-size: 100%;
+ mask-type: luminance;
+}
+.avatarHint-2i5XWK {
+    border-radius: 10px;
+}
+.image-EVRGPw {
+    border-radius:10px;
+}
 .friends-table {
     margin-top: 0px !important;
 }
