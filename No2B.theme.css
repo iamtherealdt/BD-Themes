@@ -86,9 +86,9 @@
 }
 .theme-dark .message-group:not(.has-divider),
 .theme-dark .message-group {
-    margin-bottom: 10px;
+    margin-bottom: 0px;
     border-radius: 2px;
-    background-color: rgba(0,0,0,0.15);
+    background-color: rgba(0,0,0,0.5);
 }
 .nameUnreadText-1pxldj, .nameUnreadVoice-QK4gxH {
     color: white !important;
