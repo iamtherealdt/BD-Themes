@@ -476,6 +476,15 @@
 }
 /* Thanks To uri#0002 For This Code */
 /*Recently implemented TBD*/
+.theme-dark .messages-wrapper .messages .divider.divider-red>span {
+    color: rgba(0,0,0,1);
+    background-color: white !important;
+    border-radius: 2px;
+}
+.messages .divider.divider-red::before,
+.theme-dark .messages-wrapper .messages .divider.divider-red>div{
+    background-color: rgba(255,255,255,1) !important;
+}
 .channelTextArea-os01xC {
     margin: 0 0 30px;
 }
