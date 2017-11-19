@@ -84,7 +84,8 @@
 .theme-dark .message-group .comment .message-send-failed .markup{
     color: red !important;
 }
-.theme-dark .message-group:not(.has-divider) {
+.theme-dark .message-group:not(.has-divider),
+.theme-dark .message-group {
     margin-bottom: 10px;
     border-radius: 2px;
     background-color: rgba(0,0,0,0.15);
