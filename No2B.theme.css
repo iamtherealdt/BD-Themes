@@ -27,7 +27,7 @@
 }
 /* Little user profile main changes end */
 /* setting all border-radius to 10px at once */
-.avatar-profile, .avatar-small, .avatar-large, .avatar-xlarge, .avatar-xsmall, .avatar-xxlarge, .avatar-1BXaQj,
+.avatar-profile, .avatar-large, .avatar-xlarge, .avatar-xsmall, .avatar-xxlarge, .avatar-1BXaQj,
 .avatarHint-2i5XWK, .container-3lnMWU,guilds-wrapper .guilds .guild .guild-inner a, .image-EVRGPw, .channels-3g2vYe > div:last-child > div:last-child {
     background-clip: padding-box;
     background-color: transparent;
