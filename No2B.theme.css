@@ -506,9 +506,9 @@
     background-color: rgba(51, 54, 66, 0.52);
 }
 .theme-dark .private-channel-call {
-    background-color: rgba(0, 0, 0, 0.8);
+    background: -webkit-linear-gradient(bottom, rgba(0,0,0,0.8) 20%,rgba(125,185,232,0) 100%);;
 }
 .ui-video {
     background-color: Transparent;
-} 
+}
 /*Recently implemented TBD END*/
