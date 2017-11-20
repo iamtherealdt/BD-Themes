@@ -424,7 +424,7 @@
 /*setting alot of white and black colors at once END*/
 /*setting alot of color white at once2 */
 .theme-dark #friends .friends-table .friends-table-header .friends-column, a, .links-3m0VgL, .theme-dark .message-group h2 span, .cm-s-material .CodeMirror-linenumber {
-    color: white;
+    color: white !important;
 }
 /*setting alot of color white at once2 END */
 /*Typping stuff*/
