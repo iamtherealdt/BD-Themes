@@ -498,4 +498,11 @@
 .channelTextArea-os01xC {
     margin: 0 0 30px;
 }
+.need-help-modal.deprecated a {
+    color: rgba(244, 0, 122, 0.8);
+    text-shadow: 0px 0px 6px black;
+} 
+.need-help-modal.deprecated .header {  
+    background-color: rgba(51, 54, 66, 0.52);
+}
 /*Recently implemented TBD END*/
