@@ -237,10 +237,12 @@
     margin-left: 0px;
     border-radius: 0px;
 }
+.private-channels .channel a {
+    transition: 0.1s;
+}
 .private-channels .channel:hover a {
     border-radius: 0px;
     margin-left: 0px;
-    transition: 0.1s;
     background-color: rgb(79,84,92);
 }
 .search-bar input {
