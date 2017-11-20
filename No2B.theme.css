@@ -494,4 +494,8 @@
 .channelTextArea-os01xC {
     margin: 0 0 30px;
 }
+.theme-dark #friends .friends-table .friends-table-header { 
+    border-color: rgba(255, 255, 255, 0.51);
+    padding-top: 8px;
+} 
 /*Recently implemented TBD END*/
