@@ -1,5 +1,5 @@
 .app {
-    background-image: url(https://i.imgur.com/Cc1fSXx.jpg) !important; 
+    background-image: url(https://images8.alphacoders.com/838/838104.jpg) !important; 
     background-size:cover !important;
 }
 .scroller-fzNley {
@@ -239,6 +239,7 @@
 .chat .avatar-large {
     border-radius: 2px;
     background-color: transparent;
+    -webkit-filter: drop-shadow(8px 8px 10px red);
 }
 .private-channels .channel.selected a {
     margin-left: 0px;
@@ -261,7 +262,8 @@
 }
 .theme-dark .inner-3if5cm {
     border-radius: 2px;
-    background-color: hsla(230, 0%, 10%, 0.8);
+    background-color: hsla(0, 0%, 10%, 0.18);
+    box-shadow: 6px 3px 18px 2px #a90202;
 }
 .theme-dark .message-group .comment .markup {
     text-shadow: 3px 1px 1px black;
@@ -449,12 +451,12 @@
 	background-color: rgba(0,0,0,0.4) !important;
 	border-radius: 10px !important;
 	margin: 0;
-	padding: 0 0 40px 0;
+	padding: 20px 30px 20px 0 !important;
+	flex-flow: row !important;
 	position: absolute;
 	bottom: 5px;
 	right: 10px;
 	display: flex;
-	flex-flow: column;
 	align-items: center;
 	justify-content: center;
 	transition: background-color 200ms;
@@ -462,7 +464,8 @@
 	box-sizing: border-box;
 }
 .channels-3g2vYe > div:last-child:hover > div:last-child:hover{
-	height: 140px;
+	height: 40px !important;
+        width: 130px;
 }
 .channels-3g2vYe > div:last-child > div:last-child:before{
 	content: "";
@@ -502,14 +505,14 @@
     margin: 0 0 30px;
 }
 .need-help-modal.deprecated a {
-    color: rgba(244, 0, 122, 0.8);
-    text-shadow: 0px 0px 6px black;
+    color: rgba(244, 0, 122, 0.78);
+    text-shadow: 2px 1px 10px #e81e1e;
 } 
 .need-help-modal.deprecated .header {  
     background-color: rgba(51, 54, 66, 0.52);
 }
 .theme-dark .private-channel-call {
-    background: -webkit-linear-gradient(bottom, rgba(0,0,0,0.8) 20%,rgba(125,185,232,0) 100%);;
+    background: -webkit-linear-gradient(bottom, rgba(0,0,0,0.8) 30%,rgba(125,185,232,0) 100%);
 }
 .ui-video {
     background-color: Transparent;
