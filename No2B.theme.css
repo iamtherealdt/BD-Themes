@@ -505,4 +505,10 @@
 .need-help-modal.deprecated .header {  
     background-color: rgba(51, 54, 66, 0.52);
 }
+.theme-dark .private-channel-call {
+    background-color: rgba(0, 0, 0, 0.8);
+}
+.ui-video {
+    background-color: Transparent;
+} 
 /*Recently implemented TBD END*/
