@@ -529,4 +529,8 @@
     color: white;
     opacity: 1;
 }
+.theme-dark .description-3MVziF, .theme-dark .labelDescriptor-1BebCl {
+    color: rgb(234, 234, 234);
+    text-shadow: 2px 2px 4px black;
+}
 /*Recently implemented TBD END*/
