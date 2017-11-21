@@ -533,4 +533,7 @@
     color: rgb(234, 234, 234);
     text-shadow: 2px 2px 4px black;
 }
+.message-group a {
+    color: #00b0f4 !Important;
+}
 /*Recently implemented TBD END*/
