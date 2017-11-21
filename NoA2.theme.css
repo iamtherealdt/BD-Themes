@@ -533,4 +533,8 @@
     color: rgb(234, 234, 234);
     text-shadow: 2px 2px 4px black;
 }
+.ui-standard-sidebar-view .content-column.default {
+    padding: 60px 40px 80px;
+    background: -webkit-linear-gradient(top, rgba(0, 0, 0, 0.61) 20%,rgba(0, 0, 0, 0.00) 80%);
+}
 /*Recently implemented TBD END*/
