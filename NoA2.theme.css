@@ -64,8 +64,7 @@
     background-size: cover;
     Background-color: Transparent;	
 }	
-#user-profile-modal .header,
-.headerNormal-1cioxU{
+#user-profile-modal .header {
     padding-left: 390px;
     }
 #user-profile-modal .header:after {
