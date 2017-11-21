@@ -86,7 +86,7 @@
 .avatar-large, .avatar-profile, .avatar-small, .avatar-xlarge, .avatar-xsmall, .avatar-xxlarge {
     background-clip: padding-box;
     background-color: transparent;
-    
+    border-radius: 10px !Important;    
 }
 .theme-dark .message-group .comment .message-send-failed .markup{
     color: red !important;
@@ -532,9 +532,5 @@
 .theme-dark .description-3MVziF, .theme-dark .labelDescriptor-1BebCl {
     color: rgb(234, 234, 234);
     text-shadow: 2px 2px 4px black;
-}
-.ui-standard-sidebar-view .content-column.default {
-    padding: 60px 40px 80px;
-    background: -webkit-linear-gradient(top, rgba(0, 0, 0, 0.61) 20%,rgba(0, 0, 0, 0.00) 80%);
 }
 /*Recently implemented TBD END*/
