@@ -258,7 +258,7 @@
   background-color: hsla(0,0%,100%,.1) !important;
 }
 .ui-standard-sidebar-view .content-region-scroller {
-    background: transparent;
+    background:-webkit-linear-gradient(top, rgba(0,0,0,0.8) 30%,rgba(125,185,232,0) 100%);
 }
 .theme-dark .inner-3if5cm {
     border-radius: 2px;
