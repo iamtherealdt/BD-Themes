@@ -95,7 +95,7 @@
 .theme-dark .message-group {
     margin-bottom: 0px;
     border-radius: 0px;
-    background-color: rgba(0,0,0,0.4);
+    background-color: Transparent;
 }
 .nameUnreadText-1pxldj, .nameUnreadVoice-QK4gxH {
     color: white !important;
