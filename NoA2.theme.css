@@ -86,7 +86,7 @@
 .avatar-large, .avatar-profile, .avatar-small, .avatar-xlarge, .avatar-xsmall, .avatar-xxlarge {
     background-clip: padding-box;
     background-color: transparent;
-    border-radius: 10px !Important;    
+    border-radius: 6px !Important;    
 }
 .theme-dark .message-group .comment .message-send-failed .markup{
     color: red !important;
@@ -169,7 +169,7 @@
     width: 10px;
 }
 .private-channels .channel .avatar-small {
-    border-radius: 0px;
+    border-radius: 0px !Important;
 }
 /*.private-channels .search-bar {
     background-color: rgba(0,0,0,1);
@@ -286,9 +286,6 @@
 .scroller-fzNley {
     background-color: transparent;
     background: -webkit-linear-gradient(top, rgba(0,0,0,0.8) 35%,rgba(125,185,232,0) 100%);
-}
-.private-channels .channel .avatar-small {
-    border-radius: 2px;
 }
 .theme-dark .message-group h2 strong {
     border-radius: 2px !important;
