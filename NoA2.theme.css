@@ -387,14 +387,15 @@
 /*Really thanks for the fix spthiel*/
 .channel-members-wrap::before{
     content: ' ';
-    min-width: 44px;
+    min-width: 32px;
     background: url(https://i.imgur.com/8Dbe7eG.png);
+    background-size: contain;
     transition-delay: 0.3s;
     transition: 0.4s;
 }
 .channel-members-wrap{
     opacity: 0.8;
-    width: 44px;
+    width: 32px;
     min-width: 0px;
     transition: 0.7s;
 }
