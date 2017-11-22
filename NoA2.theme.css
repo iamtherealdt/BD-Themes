@@ -550,4 +550,8 @@
 }
 .ui-standard-sidebar-view .bda-slist .bda-right button {
 	background: #821c33;}
+#bd-settingspane-container .scroller-wrap .scroller {
+    display: flex;
+    background: -webkit-linear-gradient(top, rgba(0,0,0,0.8) 30%,rgba(125,185,232,0) 100%);
+}
 
