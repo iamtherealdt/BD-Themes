@@ -418,8 +418,9 @@
     background: black;
 }
 .itemDefaultSelected-1UAWLe, #bd-settings-sidebar .ui-tab-bar-item.selected, .buttonBrandFilledDefault-2Rs6u5, .itemBrandSelected-3LxxzT {
-    background-color: white;
-    color: black;
+    background-color: rgb(142, 27, 53);
+    color: white;
+}
 }
 .upload-modal, .upload-modal .footer, #bd-customcss-detach-container, .CodeMirror-scroll, .CodeMirror-gutter {
     background-color: black !important;
@@ -533,3 +534,15 @@
     color: #00b0f4 !Important;
 }
 /*Recently implemented TBD END*/
+/*Super Edits by Reiny */
+.barFill-18ABna {
+    background: #821c33;
+    height: 100%;
+}
+.themeDefault-3M0dJU.valueChecked-3Bzkbm {
+    background-color: #821c33;
+}
+.buttonBrandFilledDefault-2Rs6u5:hover {
+    background-color: rgba(142, 27, 53, 0.39);
+}
+
