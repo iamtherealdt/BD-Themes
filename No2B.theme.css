@@ -435,7 +435,8 @@
 /*Typping stuff*/
 .typing span {
     background-color: rgba(0,0,0,0.6);
-    border-radius: 2px;
+    border-radius: 0px;
+    padding-top: 2px
 }
 /*Typing stuff END*/
 /* Thanks To uri#0002 For This Code */
