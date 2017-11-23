@@ -450,7 +450,7 @@
 	background-color: rgba(0,0,0,0.4) !important;
 	border-radius: 10px !important;
 	margin: 0;
-	padding: 20px 30px 20px 0;
+	padding: 20px 30px 20px 0 !important;
 	position: absolute;
 	bottom: 5px;
 	right: 10px;
