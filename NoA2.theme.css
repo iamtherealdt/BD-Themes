@@ -558,3 +558,4 @@
     background-color: #821c33 !important;
     border-color: #821c33 !important;
 }
+.avatar-uploader-inner{ background-color: rgba(0, 0, 0, 0) !Important; border-radius: 10px !Important;}
