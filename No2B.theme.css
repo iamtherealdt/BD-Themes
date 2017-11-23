@@ -449,7 +449,7 @@
 	background-color: rgba(0,0,0,0.4) !important;
 	border-radius: 10px !important;
 	margin: 0;
-	padding: 0 0 40px 0;
+	padding: 20px 30px 20px 0;
 	position: absolute;
 	bottom: 5px;
 	right: 10px;
@@ -462,7 +462,8 @@
 	box-sizing: border-box;
 }
 .channels-3g2vYe > div:last-child:hover > div:last-child:hover{
-	height: 140px;
+    height: 40px;
+    width: 130px;
 }
 .channels-3g2vYe > div:last-child > div:last-child:before{
 	content: "";
