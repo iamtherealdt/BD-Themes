@@ -538,17 +538,20 @@
 /*Super Edits by Reiny */
 .barFill-18ABna {
     background: #821c33;
-    height: 100%;
 
+}
+#bd-settingspane-container .ui-switch-item .ui-switch-wrapper .ui-switch.checked, .themeDefault-3M0dJU.valueChecked-3Bzkbm, .theme-dark .user-settings-games .not-detected, .theme-light .user-settings-games .not-detected,
+.ui-standard-sidebar-view .bda-slist .bda-right button,.bd-pfbtn{
+    background: #821c33;
+}
+.private-channels .channel.selected a {
+    background-color: #821c33;
+}
+.private-channels .channel:hover a { background-color: darkred;
 }
 .buttonBrandFilledDefault-2Rs6u5:hover {
     background-color: rgba(142, 27, 53, 0.39);
 }
-#bd-settingspane-container .ui-switch-item .ui-switch-wrapper .ui-switch.checked, .themeDefault-3M0dJU.valueChecked-3Bzkbm, .theme-dark .user-settings-games .not-detected, .theme-light .user-settings-games .not-detected{
-    background: #821c33;
-}
-.ui-standard-sidebar-view .bda-slist .bda-right button,.bd-pfbtn  {
-	background: #821c33;}
 #bd-settingspane-container .scroller-wrap .scroller {
     display: flex;
     background: -webkit-linear-gradient(top, rgba(0,0,0,0.8) 30%,rgba(125,185,232,0) 100%);
