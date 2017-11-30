@@ -557,3 +557,39 @@
 }
 .avatar-uploader-inner{ background-color: rgba(0, 0, 0, 0) !Important; border-radius: 10px !Important;}
 .header-2Lg0Oe {padding: 0px;}
+/* User Popouts Fixed */
+.userPopout-4pfA0d, .root-2sNHUF {
+    background-image: url(https://www.gamereactor.eu/media/87/nier_2078793.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;    
+}
+.root-2sNHUF .topSectionPlaying-3jAH9b,
+.root-2sNHUF .topSectionNormal-2LlRG1,
+.theme-dark .body-3rkFrF,.theme-dark .footer-2J5zqP,.body-3rkFrF,
+.headerPlaying-2eYqm9,.theme-dark .headerNormal-1cioxU{
+    background-color: transparent;
+}
+.root-2sNHUF .header-2Lg0Oe,
+.root-2sNHUF .topSectionPlaying-3jAH9b .headerFill-TTyrtz,
+.root-2sNHUF .topSectionNormal-2LlRG1 .tabBarContainer-3RVZc-,
+.root-2sNHUF .body-3_tdh6 {
+    background-color: rgba(0,0,0,.5)
+}
+.root-2sNHUF .body-3_tdh6 .scroller-fzNley::-webkit-scrollbar-thumb {
+    background-color: #7289da;
+}
+.root-2sNHUF .topSectionPlaying-3jAH9b .buttonBrandInverted-VFL7Yc {
+    background-color: #7289da;
+    color: #fff;
+}
+.root-2sNHUF .connectedAccount-3mKaTA {
+    border-color: hsla(0,0%,100%,.1);
+}
+.bodyTitle-yehI7c {
+    color: #821c33;
+    text-transform: uppercase;
+    text-shadow: 2px 2px 2px #eaeaea;
+}
+.headerText-3tKBWq {text-shadow: 1px 1px 4px rgb(0, 0, 0);}
+/*User Popouts fixed end */
