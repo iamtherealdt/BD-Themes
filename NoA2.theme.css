@@ -278,9 +278,8 @@
     margin-bottom: 120px;
 }
 .scroller-fzNley {
-    background-color: transparent;
-    background: -webkit-linear-gradient(top, rgba(0,0,0,0.8) 35%,rgba(125,185,232,0) 100%);
-}
+    background: -webkit-linear-gradient(top, rgba(0,0,0,0.5) 35%,rgba(125,185,232,0) 100%);
+}   
 .theme-dark .message-group h2 strong {
     border-radius: 2px !important;
 }
