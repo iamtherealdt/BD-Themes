@@ -2,9 +2,6 @@
     background-image: url(https://images8.alphacoders.com/838/838104.jpg) !important; 
     background-size:cover !important;
 }
-.scroller-fzNley {
-    background-color: rgba(0,0,0,0.25);
-}
 
 /*making top bars allign to theme at once */
 .private-channels .search-bar,
@@ -252,7 +249,7 @@
   background-color: hsla(0,0%,100%,.1) !important;
 }
 .ui-standard-sidebar-view .content-region-scroller {
-    -webkit-linear-gradient(top, rgba(0, 0, 0, 0.61) 20%,rgba(0, 0, 0, 0.00) 80%);
+    background: -webkit-linear-gradient(top, rgba(0,0,0,0.8) 39%,rgba(125,185,232,0) 100%);
 }
 .theme-dark .inner-3if5cm {
     border-radius: 2px;
@@ -277,15 +274,15 @@
     text-align: center;
     margin-bottom: 120px;
 }
-.scroller-fzNley {
+/*.scroller-fzNley {
     background: -webkit-linear-gradient(top, rgba(0,0,0,0.5) 35%,rgba(125,185,232,0) 100%);
-}   
+} */  
 .theme-dark .message-group h2 strong {
     border-radius: 2px !important;
 }
 .ui-standard-sidebar-view .sidebar-region .sidebar-region-scroller {
     background-color: transparent !important;
-    -webkit-linear-gradient(top, rgba(0, 0, 0, 0.61) 20%,rgba(0, 0, 0, 0.00) 80%); 
+    background: -webkit-linear-gradient(top, rgba(0,0,0,0.8) 39%,rgba(125,185,232,0) 100%); 
 }
 .guilds-wrapper .guilds {
     background-color: transparent !important;
