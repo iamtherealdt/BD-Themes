@@ -616,7 +616,7 @@
 .private-channel-recipients-invite .error-state.not-friends .btn { background: #821c33;}
 .private-channel-recipients-invite .error-state.not-friends .btn:hover { background: darkred;}
 .theme-dark .private-channel-recipients-invite .friend.selected{background-color: #821c33;}
-.theme-dark .private-channel-recipients-invite .friend:hover {gradient(90deg,rgba(40, 43, 48, 0.37) 85%,#2f3136); background-color: darkred;}
+.theme-dark .private-channel-recipients-invite .friend:hover {background: linear-gradient(90deg,rgba(40, 43, 48, 0.08) 85%,#2f3136); background-color: darkred;}
 .theme-dark .private-channel-recipients-invite .friend {
       background: linear-gradient(90deg,rgba(40, 43, 48, 0.03) 85%,rgba(47, 49, 54, 0.28));}
 .theme-dark .private-channel-recipients-invite .friend.selected {background: #821c33;} 
