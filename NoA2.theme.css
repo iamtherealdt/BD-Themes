@@ -248,7 +248,7 @@
   border-radius: 2px;
   background-color: hsla(0,0%,100%,.1) !important;
 }
-.ui-standard-sidebar-view .content-region-scroller {
+.ui-standard-sidebar-view .content-region-scroller, #bd-settingspane-container .scroller-wrap .scroller {
     background: -webkit-linear-gradient(top, rgba(0,0,0,0.8) 39%,rgba(125,185,232,0) 100%);
 }
 .theme-dark .inner-3if5cm {
@@ -542,10 +542,6 @@
 }
 .buttonBrandFilledDefault-2Rs6u5:hover {
     background-color: rgba(142, 27, 53, 0.39);
-}
-#bd-settingspane-container .scroller-wrap .scroller {
-    display: flex;
-    background: -webkit-linear-gradient(top, rgba(0,0,0,0.8) 30%,rgba(125,185,232,0) 100%);
 }
 .upload-modal,.upload-modal .footer {background-color: rgba(8, 8, 8, 0.19);}
 .cardPrimaryEditable-2IQ7-V[style*=background-color] {
