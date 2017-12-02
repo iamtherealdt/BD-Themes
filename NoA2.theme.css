@@ -630,3 +630,7 @@
 
 .theme-dark .quickswitcher-2NdiGJ {
 	background-color: rgba(32, 34, 37, 0.62);}
+.theme-dark.context-menu {
+    background: rgba(25, 25, 25, 0.8);
+    box-shadow: none;
+}
