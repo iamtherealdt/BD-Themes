@@ -593,3 +593,35 @@
 .channels-3g2vYe .scroller-fzNley {
     background: -webkit-linear-gradient(top, rgba(0,0,0,0.8) 39%,rgba(125,185,232,0) 100%);
 }
+.friend-table-add-wrapper{ background-color: rgba(0,0,0,0.8);}
+.contentSelectedText-3j5CXt {
+    background-color: #821c33;}
+.contentHoveredText-2HYGIY {
+    background-color: darkred;}
+.theme-dark .modal-3HOjGZ {
+    background-color: rgba(54, 57, 63, 0.8);}
+.theme-dark .footer-1PYmcw {
+       background-color: rgba(0, 0, 0, 0);}
+.instant-invite-modal .theme-light { background-color: rgba(0, 0, 0, 0);}
+#instant-invite-modal { background-color: rgba(0, 0, 0, 0.5);}
+.form.deprecated .form-header,.form.deprecated .form-inner,.form.deprecated .form-actions{ background: none !Important;}
+.theme-dark .themed-popout {
+    background-color: rgba(25, 25, 25, 0.8);}
+.theme-dark .messages-popout-wrap .messages-popout .message-group {
+    background-color: rgba(54, 57, 62, 0);
+    border-color: rgba(28, 36, 43, 0);}
+.theme-dark .themed-popout .header {
+    -webkit-box-shadow: 0 2px 3px 0 rgba(0,0,0,20%);
+    background-color: rgba(31, 33, 35, 0.83);}
+.private-channel-recipients-invite .error-state.not-friends .btn { background: #821c33;}
+.private-channel-recipients-invite .error-state.not-friends .btn:hover { background: darkred;}
+.theme-dark .private-channel-recipients-invite .friend.selected{background-color: #821c33;}
+.theme-dark .private-channel-recipients-invite .friend:hover {background-color: darkred;}
+.theme-dark .private-channel-recipients-invite .friend {
+      background: linear-gradient(90deg,rgba(40, 43, 48, 0.03) 85%,rgba(47, 49, 54, 0.28));}
+.theme-dark .private-channel-recipients-invite .friend.selected {background: #821c33;} 
+.private-channel-recipients-invite .footer button { background-color: #821c33;}
+.need-help-modal.deprecated .footer {
+    background-color: #2f3136;
+    border-top: 1px solid #2f3136;
+    color: #dcddde;}
