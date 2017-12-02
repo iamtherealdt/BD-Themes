@@ -634,3 +634,6 @@
     background: rgba(25, 25, 25, 0.8);
     box-shadow: none;
 }
+.messages-popout .empty-placeholder .body { white-space: pre-line;}
+.theme-dark .messages-popout-wrap .messages-popout .empty-placeholder .body {
+    color: white;}
