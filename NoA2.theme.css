@@ -643,3 +643,7 @@ background-image: url(https://images8.alphacoders.com/838/838104.jpg) !important
 .search-popout .option.selected {
     background-color: darkred;
 }
+.private-channel-recipients-invite .footer button:hover {
+    background-color: darkred;
+}
+
