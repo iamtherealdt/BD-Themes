@@ -318,6 +318,7 @@
 .typeWindows-15E0Ys, titleBar-3_fDwJ horizontalReverse-k5PqxT flex-3B1Tl4 directionRowReverse-2eZTxP justifyStart-2yIZo0 alignStretch-1hwxMa { 
     margin: 0px;
     height: 20px;
+    padding-top: 5px;
     background-color: rgba(0,0,0,0.8);
 }
 .autocompleteInner-N7OQf1 {
