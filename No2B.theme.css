@@ -57,8 +57,7 @@
     border-color: rgba(255, 255, 255, 0.51);
     padding-top: 8px;
 }
-#user-profile-modal .header,
-.headerNormal-1cioxU{
+#user-profile-modal .header {
     background-image: url(https://i.imgur.com/AkniZGA.png) !important;
     background-position: center;
     background-size: cover;
