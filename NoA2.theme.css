@@ -154,3 +154,4 @@ to{text-shadow:0 0 5px #fff,0 0 10px #fff,0 0 15px #fff,0 0 20px #228DFF,0 0 35p
 .upload-modal,.upload-modal .footer,#bd-customcss-detach-container,.CodeMirror-scroll,.CodeMirror-gutter{background-color:#000!important}
 .userPopout-4pfA0d,.root-2sNHUF{background-image:url(https://www.gamereactor.eu/media/87/nier_2078793.jpg);background-position:center;background-repeat:no-repeat;background-size:cover}
 ::-webkit-scrollbar-track-piece{background-color:rgba(54,57,62,.13)!important}
+.theme-dark #friends .tab-bar .tab-bar-item.tab-bar-item-primary:hover:not(.selected) {background-color: darkred;}
