@@ -391,6 +391,7 @@
     content: ' ';
     min-width: 44px;
     background: url(https://i.imgur.com/OUChXsg.png);
+    background-size: 43px 750px;
     transition-delay: 0.3s;
     transition: 0.4s;
 }
