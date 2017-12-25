@@ -1,0 +1,107 @@
+#voice-connection, .channel-members, .guilds-add, .theme-dark .headerBar-cxbhPD, .title-qAcLxz, .chat form, #friends,.container-2OU7Cz, .channels-3g2vYe, .friends-header, .friends-table, .guilds-wrapper, .guild-header header, .channels-wrap, .private-channels, .guild-channels, .account, .friend-table-add-header, .chat, .content, .layers, .title-wrap:not(.search-bar), .messages-wrapper, .messages .divider span, .messages .divider:before, .content, .message-group-blocked, .is-local-bot-message, .channel-members-loading, .channel-members-loading .heading, .channel-members-loading .member, .typing, .layer, .layers, .container-RYiLUQ, .theme-dark .ui-standard-sidebar-view, .theme-dark .ui-standard-sidebar-view .sidebar-region, .theme-dark .ui-standard-sidebar-view .content-region, .layer, .layers {background: transparent !Important;}
+/*
+.app {background-color:#cecdb5; background-image: url(https://cdn.discordapp.com/attachments/377516386001485836/394525402271580160/BG.png); background-size:auto !important;}
+*/
+.chat .messages, .container-iksrDt {background-color: rgba(0,0,0,0);}
+#bd-settings-sidebar .ui-tab-bar-item.selected, .side-2nYO0F .itemSelected-3XxAMf {background-color: rgba(0,0,0,0.6); color: #fff; border-radius: 0px;}
+.private-channels .channel a {color: rgba(0,0,0,0.7); transition: 0.3s;}
+.search-bar .search-bar-inner, .private-channels .channel:hover a {background-color: rgba(0,0,0,0.2); color: #fff; border-radius: 0px;}
+.contentSelectedText-3j5CXt {background-color: rgba(0,0,0,0.6); border-radius: 0px; transition:0.1s}
+.contentHoveredText-2HYGIY, .contentHoveredVoice-3qGNKh {background-color: rgba(0,0,0,0.2); border-radius: 0px; transition: 0.1s;}
+.wordmark-2L03Wr {display:none;}
+.typeWindows-15E0Ys {background-color:rgb(206, 205, 181); margin-top: 0px; padding-top: 4px;}
+.container-iksrDt .avatar-small,.container-iksrDt .status {border-radius: 0px;}
+.guilds-wrapper .guilds .guild.selected:before {background: rgba(0,0,0,0.7);}
+.chat .avatar-large {border-radius: 2px;}
+.theme-dark .inner-3if5cm {border-radius: 0px; background-color:rgba(0,0,0,0.5);}
+.private-channels .channel.selected a{background-image: url(https://cdn.discordapp.com/attachments/390677094289637388/394538310606782464/Private-channel.png) !important; background-size:contain !important; border-radius: 0px; background-color: transparent;}
+.container-2OU7Cz {background-color: #c4c2ab !important; background-image: url(https://cdn.discordapp.com/attachments/390677094289637388/394257538008350730/testing.png)!Important;}
+.theme-dark .ui-standard-sidebar-view{background-image: url(https://cdn.discordapp.com/attachments/377516386001485836/394525402271580160/BG.png)!Important;}
+.theme-dark .side-2nYO0F .itemDefault-3NDwnY:hover, .theme-dark .side-2nYO0F .itemHover-3rojsB:hover, #bd-settings-sidebar .ui-tab-bar-item:Hover {
+    background-color: hsla(216, 2%, 39%, 0.73);
+    color: #f6f6f7;
+}
+.theme-dark .itemDefault-3NDwnY, .theme-dark .itemHover-3rojsB,
+#bd-settings-sidebar .ui-tab-bar-item {
+    color: #ffffff;
+    background-color:rgba(25,25,25,0.2);}
+
+/*kill tittlebar*/:root {
+  --i-rtl-invert: 0%;
+  --i-rtl-closeimg: url(https://rawgit.com/intrnl/discordAdditions/master/revertTitlebar/assets/btn-close.svg);
+  --i-rtl-maximizeimg: url(https://rawgit.com/intrnl/discordAdditions/master/revertTitlebar/assets/btn-maximize.svg);
+  --i-rtl-minimizeimg: url(https://rawgit.com/intrnl/discordAdditions/master/revertTitlebar/assets/btn-minimize.svg); }
+
+.titleBar-3_fDwJ {
+  height: 30px;
+  width: calc(30px * 3);
+  margin: 0;
+  padding: 9px 8px;
+  position: absolute;
+  top: 0;
+  right: 0;
+  -webkit-app-region: no-drag; }
+  .titleBar-3_fDwJ:before {
+    content: ' ';
+    display: block;
+    height: 14px;
+    width: 100vw;
+    position: absolute;
+    top: 4px;
+    right: 0;
+    z-index: 3000;
+    -webkit-app-region: drag; }
+  .titleBar-3_fDwJ .winButton-U7zAqI {
+    display: block;
+    height: 30px;
+    width: 30px;
+    position: relative;
+    top: 0;
+    background-color: transparent;
+    background-size: 26px;
+    background-position: center;
+    background-repeat: no-repeat;
+    opacity: .6;
+    filter: invert(0%); }
+    .titleBar-3_fDwJ .winButton-U7zAqI:hover {
+      opacity: .8; }
+  .titleBar-3_fDwJ div:nth-of-type(2) {
+    background-image: var(--i-rtl-closeimg); }
+  .titleBar-3_fDwJ div:nth-of-type(3) {
+    background-image: var(--i-rtl-maximizeimg); }
+  .titleBar-3_fDwJ div:nth-of-type(4) {
+    background-image: var(--i-rtl-minimizeimg); }
+  .titleBar-3_fDwJ .wordmark-2L03Wr, .titleBar-3_fDwJ .winButton-U7zAqI svg {
+    display: none; }
+
+.title-qAcLxz .flex-lFgbSz.horizontal-2BEEBe, .titleCall-3X0yGQ .flex-lFgbSz.horizontal-2BEEBe, .headerBar-cxbhPD .flex-lFgbSz.horizontal-2BEEBe {
+  margin-right: 98px; }
+  .title-qAcLxz .flex-lFgbSz.horizontal-2BEEBe:after, .titleCall-3X0yGQ .flex-lFgbSz.horizontal-2BEEBe:after, .headerBar-cxbhPD .flex-lFgbSz.horizontal-2BEEBe:after {
+    content: ' ';
+    height: 22px;
+    width: 1px; }
+    .theme-dark .title-qAcLxz .flex-lFgbSz.horizontal-2BEEBe:after, .theme-dark .titleCall-3X0yGQ .flex-lFgbSz.horizontal-2BEEBe:after, .theme-dark .headerBar-cxbhPD .flex-lFgbSz.horizontal-2BEEBe:after {
+      background-color: rgba(247, 247, 248, 0.1)}
+    .theme-light .title-qAcLxz .flex-lFgbSz.horizontal-2BEEBe:after, .theme-light .titleCall-3X0yGQ .flex-lFgbSz.horizontal-2BEEBe:after, .theme-light .headerBar-cxbhPD .flex-lFgbSz.horizontal-2BEEBe:after {
+background-color: rgba(114, 118, 126, 0.3)}
+.typeWindows-15E0Ys{background-color: Transparent} /*killed titilebar*/
+.sidebar-region{ margin-top: 80px; margin-bottom: 20px} /*this is for settings left pannel */
+.theme-dark .friends-table .scroller-wrap ::-webkit-scrollbar-thumb, .theme-dark .messages-wrapper .scroller-wrap ::-webkit-scrollbar-thumb {
+    background-color: #1e2124;
+    border-color: rgba(54, 57, 62, 0);}
+.side-2nYO0F .item-3879bf,#bd-settings-sidebar .ui-tab-bar-item {
+    border-radius: 0px;
+}
+::-webkit-scrollbar-track-piece {
+    background-color: transparent !Important;
+    border-color: Transparent!Important;
+}
+
+.chat form {
+
+     margin: 0 0;
+
+}
+  .channelTextArea-os01xC {
+   margin: 0 0 0; 
+}
