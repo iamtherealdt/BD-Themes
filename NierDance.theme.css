@@ -105,3 +105,7 @@ background-color: rgba(114, 118, 126, 0.3)}
   .channelTextArea-os01xC {
    margin: 0 0 0; 
 }
+.ui-standard-sidebar-view .bda-slist li {
+    background: rgba(38, 39, 43, 0) !Important;
+    /* border-bottom: 1px solid #3f4146; */
+}
