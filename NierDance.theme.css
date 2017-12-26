@@ -120,3 +120,8 @@ background-color: rgba(114, 118, 126, 0.3)}
     margin-top: 80px;
     margin-bottom: 20px;
 }
+.ui-standard-sidebar-view .tools {
+    margin-right: 0px; 
+    padding-top: 0px;
+
+}
