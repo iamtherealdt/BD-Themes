@@ -92,36 +92,15 @@ background-color: rgba(114, 118, 126, 0.3)}
 .side-2nYO0F .item-3879bf,#bd-settings-sidebar .ui-tab-bar-item {
     border-radius: 0px;
 }
-::-webkit-scrollbar-track-piece {
-    background-color: transparent !Important;
-    border-color: Transparent!Important;
-}
-
-.chat form {
-
-     margin: 0 0;
-
-}
-  .channelTextArea-os01xC {
-   margin: 0 0 0; 
-}
+::-webkit-scrollbar-track-piece {background-color: transparent !Important; border-color: Transparent!Important;}
+.chat form {margin: 0 0;}
+  .channelTextArea-os01xC { margin: 0 0 0; }
 .ui-standard-sidebar-view .bda-slist li {
     background: rgba(38, 39, 43, 0) !Important;
     /* border-bottom: 1px solid #3f4146; */
 }
-.bda-slist .bda-name {
-    color: #000000;}
-.ui-standard-sidebar-view .bda-slist .bda-description {
-    border-top: 1px solid #000000;
-    color: #ffffff;
-    text-shadow: 1px 1px 2px black;
-}
-.ui-standard-sidebar-view .content-region {
-    margin-top: 80px;
-    margin-bottom: 20px;
-}
-.ui-standard-sidebar-view .tools {
-    margin-right: 0px; 
-    padding-top: 0px;
-
-}
+.bda-slist .bda-name { color: #000000;}
+.ui-standard-sidebar-view .bda-slist .bda-description { border-top: 1px solid #000000; color: #ffffff; text-shadow: 1px 1px 2px black;}
+.ui-standard-sidebar-view .content-region { margin-top: 80px; margin-bottom: 20px;}
+.ui-standard-sidebar-view .tools { margin-right: 0px; padding-top: 0px;}
+.ui-standard-sidebar-view .btn-close{ border-radius: 0}
