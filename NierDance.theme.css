@@ -15,7 +15,7 @@
 .chat .avatar-large {border-radius: 2px;}
 .theme-dark .inner-3if5cm {border-radius: 0px; background-color:rgba(0,0,0,0.5);}
 .private-channels .channel.selected a{background-image: url(https://cdn.discordapp.com/attachments/390677094289637388/394538310606782464/Private-channel.png) !important; background-size:cover !important; border-radius: 0px; background-color: transparent;}
-.container-2OU7Cz {background-color: #c4c2ab !important; background-image: url(https://cdn.discordapp.com/attachments/390677094289637388/394257538008350730/testing.png)!Important;background-size: cover !important;}
+.container-2OU7Cz {background-color: #c4c2ab !important; background-image: url(https://cdn.discordapp.com/attachments/390677094289637388/394257538008350730/testing.png)!Important;background-size: auto !important;}
 .theme-dark .ui-standard-sidebar-view{background-image: url(https://cdn.discordapp.com/attachments/377516386001485836/394525402271580160/BG.png)!Important;}
 .theme-dark .side-2nYO0F .itemDefault-3NDwnY:hover, .theme-dark .side-2nYO0F .itemHover-3rojsB:hover, #bd-settings-sidebar .ui-tab-bar-item:Hover {
     background-color: hsla(216, 2%, 39%, 0.73);
