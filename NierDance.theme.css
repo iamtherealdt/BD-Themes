@@ -104,4 +104,4 @@ background-color: rgba(114, 118, 126, 0.3)}
 .ui-standard-sidebar-view .content-region { margin-top: 80px; margin-bottom: 20px;}
 .ui-standard-sidebar-view .tools { margin-right: 0px; padding-top: 0px;}
 .ui-standard-sidebar-view .btn-close{ border-radius: 0}
-.theme-dark .chat form .typing {padding-bottom:  40px;}
+.theme-dark .chat form .typing {padding-bottom:  40px !important;}
