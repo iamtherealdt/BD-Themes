@@ -149,5 +149,4 @@ to{text-shadow:0 0 5px #fff,0 0 10px #fff,0 0 15px #fff,0 0 20px #228dff,0 0 35p
 ::-webkit-scrollbar-thumb{background-color:#8e1b35!Important}
 .scroller-wrap .scroller::-webkit-scrollbar{width:5px}
 .chat .user-name{text-shadow:0 0 4px #000}
-/* fix not having a background image anymore */
 .layers-20RVFW, .layer-kosS71, .container-2OU7Cz, .typing-3eiiL_ {background: transparent !important}
