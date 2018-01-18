@@ -862,3 +862,7 @@
 .chat .user-name {
     text-shadow: 0px 0px 4px black
 }
+   /* fix not having a background image anymore */
+.layers-20RVFW, .layer-kosS71, .container-2OU7Cz, .typing-3eiiL_ {
+  background: transparent !important;
+}
