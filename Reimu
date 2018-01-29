@@ -1,0 +1,43 @@
+#voice-connection,#friends,.friends-header,.friends-table,.guild-header header,.channels-wrap,.private-channels,.guild-channels,.account,.friend-table-add-header,.chat,.content,.layers,.title-wrap:not(.search-bar),.messages-wrapper,.messages .divider span,.messages .divider:before,.content,.message-group-blocked,.is-local-bot-message,.channel-members-loading,.channel-members-loading .heading,.channel-members-loading .member,.typing,.layer,.layers,.container-RYiLUQ,.theme-dark .ui-standard-sidebar-view,.theme-dark .ui-standard-sidebar-view .sidebar-region,.theme-dark .ui-standard-sidebar-view .content-region,.layer,.layers{background:transparent!important}
+.layers-20RVFW,.layer-kosS71,.container-2OU7Cz,.typing-3eiiL_{background:transparent!important}
+.app{background-image:url(https://i.imgur.com/F5SczAg.png)!important;background-size:cover!important}
+.theme-dark .title-qAcLxz{background:rgba(0,0,0,.4)!important}
+.theme-dark .chat form{background-color:Transparent;box-shadow:0 -1px 0 hsla(0,0%,100%,.06)}
+.channels-3g2vYe{-ms-flex-negative:0;background-color:rgba(0,0,0,.4);flex-shrink:0;width:240px}
+.theme-dark .headerBar-cxbhPD{background:rgba(0,0,0,.6)}
+.ui-scroller-wrap{background:rgba(0,0,0,.7)}
+.form .control-group .Select-control{border:1px solid #be4b4e}
+.form .control-group .Select-control:hover{border:1px solid #be4b4e}
+.form .control-group .is-focused:not(.is-open)>.Select-control{border:1px solid #be4b4e}
+.slider-bar{background:#393c42}
+.slider-handle,.slider-handle span{background-color:#393c42}
+.form .control-group .Select-control .Select-placeholder{color:#787a7b}
+.guilds li.active .guild-inner,.guilds li:hover .guild-inner{border-radius:15px;background:#be4b4e}
+.guild-channels .channel-voice-states li.speaking .avatar-small{background-color:#be4b4e;cursor:pointer;border:2px solid #43b581;box-shadow:inset 0 0 0 2px #2e3136}
+.guild-settings-modal-members .guild-settings-modal-members-header{border-bottom:1px solid #2e3136}
+#autocomplete-popout .empty:hover{background-color:#2e3136}
+#autocomplete-popout .empty h4{color:#be4b4e}
+#autocomplete-popout h3{color:#ececec}
+.popout.popout-bottom header:before{border-bottom-color:#be4b4e}
+.guild-settings-modal .guild-settings-modal-search{border:1px solid #2e3136}
+.guild-settings-modal .guild-settings-modal-search:focus{border:1px solid #24272b}
+.guild-settings-modal-members .guild-settings-modal-members-footer a{color:#be4b4e}
+.guild-settings-modal-members .guild-settings-modal-members-footer a:hover{color:#be4b4e}
+.guild-settings-modal-members .guild-settings-modal-members-footer{border-top:1px solid #2e3136}
+.guilds-add{color:transparent!important;background-image:url(https://i.imgur.com/1MfzLoF.png)!important;background-size:20px 20px!important;background-repeat:no-repeat!important;background-position:14px 14px!important;background-color:rgba(21,21,21,0.41)!important;opacity:.7!important}
+.channel-members{background:Transparent!important}
+.guilds-wrapper{box-shadow:inset -10px 0 20px -10px rgba(0,0,0,0.2)}
+.guild-header ul{background:#000!important;transition:transform .5s cubic-bezier(0.18,0.89,0.32,1.28)!important;padding-top:100px;top:-56px}
+.guilds-add{opacity:.5}
+.guilds-wrapper{border-right:1px solid rgba(0,0,0,0.4)}
+.guild-channels .channel.selected,.private-channels .channel.selected,.private-channels .search-result.selected,.private-channels .search-result:hover{background:-webkit-linear-gradient(left,rgba(0,0,0,0.4) 85%,rgba(46,49,54,0))!important}
+.guild-channels .channel:not(.selected):hover,.private-channels .channel:not(.selected):hover{background:-webkit-linear-gradient(left,rgba(0,0,0,0.4) 85%,rgba(46,49,54,0))!important}
+.guilds-wrapper .guilds .guild .guild-inner{border-radius:2px!important;box-shadow:0 0 8px 0 #000}
+.chat .content{background:rgba(0,0,0,0.4)!important}
+.guilds-wrapper{background:rgba(0,0,0,.4)}
+.avatar-large,.avatar-profile,.avatar-small,.avatar-xlarge,.avatar-xsmall,.avatar-xxlarge{border-radius:2px}
+::-webkit-scrollbar-thumb{background-color:#be4b4e!important;border-color:rgba(54,57,62,0.58)}
+::-webkit-scrollbar-track-piece{background-color:rgba(47,49,54,0);border-color:rgba(54,57,62,0)}
+.theme-dark .themed-popout{background-color:rgba(47,49,54,0.2)}
+.guilds-wrapper .guilds-error{border-radius:2px}
+.guilds-wrapper .guilds-add{border-radius:2px}
