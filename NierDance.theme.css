@@ -129,8 +129,8 @@ background-color: rgba(114, 118, 126, 0.3)}
 .image-EVRGPw, .status-3jUEha {border-radius: 0px !Important}
 .userPopout-4pfA0d {background-color: rgba(54, 57, 62, 0.83)}
 .theme-dark .body-3rkFrF, .theme-dark .footer-2J5zqP {background-color: transparent}
-.theme-dark .headerNormal-3Vn9nT {background-color: rgba(142, 27, 53, 0.96)}
-.headerNormal-3Vn9nT + .body-3ljq11, .headerNormal-3Vn9nT ~ .footer-2wFs91 {background-color: rgba(142, 27, 53, 0.96)}
+.theme-dark .headerNormal-3Vn9nT {background-color: rgba(165, 164, 151, .85)}
+.headerNormal-3Vn9nT + .body-3ljq11, .headerNormal-3Vn9nT ~ .footer-2wFs91 {background-color: rgba(165, 164, 151, .85)}
 .theme-dark .quickMessage-OCo-Q0 {background-color: transparent;border-color: transparent;color: hsla(0,0%,100%,.7)}
 .headerPlaying-2Q7mBy {background: rgba(76, 96, 167, 0.8)}
 .bd-blue .tab-bar.TOP .tab-bar-item.selected {border-bottom: 2px solid #3a71c1;color: #be4b4e}
