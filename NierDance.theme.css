@@ -128,4 +128,16 @@ background-color: rgba(114, 118, 126, 0.3)}
 .separator-1hpa3S { border-bottom: 1px solid rgba(79, 84, 92, 0.85)}
 .image-EVRGPw, .status-3jUEha {border-radius: 0px !Important}
 .userPopout-4pfA0d {background-color: rgba(54, 57, 62, 0.83)}
-.theme-dark .body-3rkFrF, .theme-dark .footer-2J5zqP {background-color: transparent;}
+.theme-dark .body-3rkFrF, .theme-dark .footer-2J5zqP {background-color: transparent}
+.theme-dark .headerNormal-3Vn9nT {background-color: rgba(142, 27, 53, 0.96)}
+.headerNormal-3Vn9nT + .body-3ljq11, .headerNormal-3Vn9nT ~ .footer-2wFs91 {background-color: rgba(142, 27, 53, 0.96)}
+.theme-dark .quickMessage-OCo-Q0 {background-color: transparent;border-color: transparent;color: hsla(0,0%,100%,.7)}
+.headerPlaying-2Q7mBy {background: rgba(76, 96, 167, 0.8)}
+.bd-blue .tab-bar.TOP .tab-bar-item.selected {border-bottom: 2px solid #3a71c1;color: #be4b4e}
+.theme-dark .headerPlaying-2Q7mBy + .body-3ljq11, .theme-dark .headerPlaying-2Q7mBy ~ .footer-2wFs91 {background-color:rgba(76,96,167,.8)}
+.headerFill-TTyrtz {background-color:transparent}
+.headerStreaming-lmgoma {background:rgba(89,54,149,.9)}
+.headerStreaming-lmgoma + .body-3ljq11,.headerStreaming-lmgoma ~ .footer-2wFs91 {background-color:rgba(89,54,149,.9)}
+.headerSpotify-26yUf5 {background:rgba(29,185,84,9)}
+.headerSpotify-26yUf5 + .body-3ljq11, .headerSpotify-26yUf5 ~ .footer-2wFs91 {background-color:rgba(29,185,84,.9)}
+.lookFilled-luDKDo.colorBrand-3PmwCE {background-color: #8e1b35}
