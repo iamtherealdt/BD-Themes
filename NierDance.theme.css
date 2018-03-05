@@ -145,3 +145,5 @@ background-color: rgba(114, 118, 126, 0.3)}
 .guilds-wrapper:hover + div .channels-3g2vYe, .app .channels-3g2vYe:hover {left: 70px; opacity: 1}
 .container-iksrDt{margin-bottom:21px !Important}
 .avatarHint-2ohlkz {border-radius: 0px}
+.theme-dark .channel-members h2{text-align: center}
+.theme-dark .friends-table .messages .divider:not(.red) span, .theme-dark .messages-wrapper .messages .divider:not(.red) span {color: #202225}
