@@ -174,5 +174,5 @@ background-color: rgba(114, 118, 126, 0.3)}
 .guilds-wrapper div>.guilds .guild{height:54px;margin:5px 0!important;background-color:rgba(12,12,12,.4);border-radius:14px/9%;pointer-events:none;z-index:2;box-shadow:0 2px 4px 1.4px rgba(0,0,0,.3);}
 .guilds-wrapper div>.guilds button.guild{pointer-events:auto}
 .guilds-add{color:transparent!important;background-image:url(https://i.imgur.com/1MfzLoF.png)!important;background-size:20px 20px!important;background-repeat:no-repeat!important;background-position:14px 14px!important;background-color:rgba(21,21,21,0.41)!important;opacity:.7!important}
-.DevilBro-notice {margin-top: 35px}
+#pluginNotice, .DevilBro-notice {margin-top: 35px}
 .base-3AoPqv{border-radius: 0px 0 0 0px}
