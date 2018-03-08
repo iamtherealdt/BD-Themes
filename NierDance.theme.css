@@ -210,3 +210,5 @@ background-color: rgba(114, 118, 126, 0.3)}
 .iconCollapsed-1INdMX, .iconDefault-xzclSQ, .nameCollapsed-3_ChMu, .nameDefault-Lnjrwm {color: #f04747!important}
 .container-iksrDt {background-color: rgba(20, 20, 20,1)}
 .unread-23Kvxk {background-color:#f04747 !important}
+.popout.popout-left.no-arrow {margin-right: 10px}
+.popout:not(.popout-top), #pubs-container, #voice-connection-popout, .incoming-call {outline: 90vw solid rgba(20,20,20,.6);outline-offset: -1px;animation: backdrop 160ms ease-in}
