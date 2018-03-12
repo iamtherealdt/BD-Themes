@@ -261,7 +261,7 @@ background-color: rgba(114, 118, 126, 0.3)}
 .need-help-modal.deprecated a{color:rgb(95,94,81)}
 .bda-dark #bda-qem button,.bda-dark #bda-qem,.search-bar,.emojiPicker-3g68GS .stickyHeader-3LjM5X,.emojiPicker-3g68GS{background:Transparent}
 .emojiPicker-3g68GS .category-3rCtoh{color:white}
-.bda-dark .emoji-picker .header .search-bar, .bda-dark .emojiPicker-3g68GS .header-27dQ-e .search-bar,.bda-dark .emoji-picker .category, .bda-dark .emojiPicker-3g68GS .category-3rCtoh,.bda-dark #bda-qem-favourite-container, .bda-dark #bda-qem-twitch-container {background-color: transparent}
+.bda-dark .emoji-picker, .bda-dark .emojiPicker-3g68GS,.bda-dark .emoji-picker .header .search-bar, .bda-dark .emojiPicker-3g68GS .header-27dQ-e .search-bar,.bda-dark .emoji-picker .category, .bda-dark .emojiPicker-3g68GS .category-3rCtoh,.bda-dark #bda-qem-favourite-container, .bda-dark #bda-qem-twitch-container {background-color: transparent}
  .popout.popout-top-right.no-arrow, .popout.popout-top.no-arrow {background-color: rgba(165,164,151,.85)!important}
 .bda-dark #bda-qem button:hover {background-color: rgba(0,0,0,.3)}
 .bda-dark #bda-qem button.active {background-color: rgba(165,164,151,.90)}
