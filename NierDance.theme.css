@@ -218,3 +218,51 @@ background-color: rgba(114, 118, 126, 0.3)}
 .theme-dark .item-1XYaYf:hover,.theme-dark .itemSubMenu-3ZgIw-:hover{background:rgb(105,104,91)}
 .theme-dark #friends .friends-table .friends-row:hover{background:rgba(105,104,91,.3)}
 .theme-dark #friends .tab-bar .tab-bar-item:hover:not(.selected){background:rgb(95,94,81)}
+.channel-members-wrap{width:90px;min-width:unset}
+.channel-members-wrap .channel-members{width:250px;overflow-y:scroll}
+.channel-members-wrap:hover .channel-members{padding:0 0 20px;overflow-y:scroll;}
+.channel-members-wrap .scrollerWrap-2uBjct,.channel-members-loading {
+    transition:all .4s ease;right:-150px;position:absolute;height:105%;}
+.channel-members-wrap:hover .scrollerWrap-2uBjct,.channel-members-loading:hover {right: 0}
+.channel-members h2 {
+    width:100px;
+    text-align:center;
+    word-wrap:break-word;
+    background-color:rgba(45,45,45,.5);
+    transition:all .4s ease;
+    transform:scale(.8) translateX(-20%);
+    margin:3%;
+    padding:2%;
+    border-radius:5px!important;}
+.channel-members-wrap .channel-members .member .member-inner {display:none}
+.channel-members-wrap:hover .channel-members .member .member-inner {display:block}
+.channel-members .member .member-activity {text-indent:-9999px;line-height:0px}
+.channel-members .member .member-activity strong {text-indent:0;display:block;line-height:initial}
+.channel-members:hover h2 {border-radius:50%;transform:scale(1);padding:2% 25%}
+.channel-members .avatar-small .status {border: 0;bottom: -2px;right: -4px;border-radius: 0px}
+.channel-members-wrap::before {transition: all .4s ease}
+.channel-members-wrap {width: 90px;transition: .4s}
+.channel-members-wrap:hover {width: 240px;transition:.4s}
+.theme-dark .channel-members .member:hover {background:rgba(45,45,45,.5)}
+.theme-dark .themed-popout,.theme-dark .themed-popout .header{background:rgba(165,164,151,.85)}
+.theme-dark .messages-popout-wrap .messages-popout .message-group{background:rgb(115,114,101);border:none}
+.theme-dark .messages-popout-wrap .messages-popout .message-group:hover .action-buttons{background:rgba(0,0,0,0);box-shadow:none}
+.theme-dark .messages-popout-wrap .messages-popout .message-group .action-buttons .jump-button{background:rgba(165,164,151,.85)}
+.theme-dark .themed-popout .text{color:white}
+.theme-dark .contextMenu-uoJTbz,.theme-dark .itemSubMenu-3ZgIw-{background:rgba(165,164,151,.9)}
+.theme-dark .item-1XYaYf:hover,.theme-dark .itemSubMenu-3ZgIw-:hover{background:rgba(125,124,111,.9)}
+.theme-dark .item-1XYaYf{color:white}
+.theme-dark .search-results-wrap .search-result.expanded,.theme-dark .search-results-wrap .action-buttons .jump-button,.search-results {background:rgb(125,124,111);border:none}
+.search-results-wrap,.theme-dark .search-results-wrap .search-header,.theme-dark .search-results-wrap .search-result:before,.theme-dark .search-results-wrap .search-result:after,.theme-dark .search-results-wrap .channel-separator .channel-name,.theme-dark .search-results-wrap .search-result .hit {background:rgb(145,144,131)!important;border:none!important;box-shadow: 0 0 10px rgb(75,74,61) !important}
+.menu-3BZuDT{background:rgba(30,30,30,.85);border-radius:0;font-size:100%}
+.need-help-modal.deprecated .header input[type=text]{box-shadow:0 2px 1px rgb(95,94,81)}
+.form.deprecated .form-inner{background:rgb(195,194,181)}
+.need-help-modal .header,.need-help-modal.deprecated .footer {border:none;background:rgb(145,144,131)!important;color:#3a71c1}
+.need-help-modal.deprecated a{color:rgb(95,94,81)}
+.bda-dark #bda-qem button,.bda-dark #bda-qem,.search-bar,.emojiPicker-3g68GS .stickyHeader-3LjM5X,.emojiPicker-3g68GS{background:Transparent}
+.emojiPicker-3g68GS .category-3rCtoh{color:white}
+.bda-dark .emoji-picker .header .search-bar, .bda-dark .emojiPicker-3g68GS .header-27dQ-e .search-bar,.bda-dark .emoji-picker .category, .bda-dark .emojiPicker-3g68GS .category-3rCtoh,.bda-dark #bda-qem-favourite-container, .bda-dark #bda-qem-twitch-container {background-color: transparent}
+ .popout.popout-top-right.no-arrow, .popout.popout-top.no-arrow {background-color: rgba(165,164,151,.85)!important}
+.bda-dark #bda-qem button:hover {background-color: rgba(0,0,0,.3)}
+.bda-dark #bda-qem button.active {background-color: rgba(165,164,151,.90)}
+.bda-dark .emoji-picker .scroller::-webkit-scrollbar, .bda-dark .emoji-picker .scroller::-webkit-scrollbar-track, .bda-dark .emoji-picker .scroller::-webkit-scrollbar-track-piece, .bda-dark .emojiPicker-3g68GS .scroller-2dsok0::-webkit-scrollbar, .bda-dark .emojiPicker-3g68GS .scroller-2dsok0::-webkit-scrollbar-track, .bda-dark .emojiPicker-3g68GS .scroller-2dsok0::-webkit-scrollbar-track-piece {background-color: transparent;border-color: Transparent !important}
