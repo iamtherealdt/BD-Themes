@@ -149,7 +149,7 @@ background-color: rgba(114, 118, 126, 0.3)}
 .theme-dark .channel-members h2{text-align: center}
 .theme-dark .friends-table .messages .divider:not(.red) span, .theme-dark .messages-wrapper .messages .divider:not(.red) span {color: #202225}
 .messages-popout .empty-placeholder .body{white-space:Inherit}
-.topSectionNormal-2LlRG1 {background-color: rgba(165, 164, 151, .85)}
+.topSectionNormal-2LlRG1 {background-color: rgba(165, 164, 151, .85)!Important}
 .theme-dark .body-3_tdh6 {background-color: rgba(165, 164, 151, .85)}
 .topSectionPlaying-3jAH9b {background: rgba(114, 137, 218, .85)}
 .topSectionPlaying-3jAH9b + .body-3_tdh6 {background: rgba(114, 137, 218, .85)}
