@@ -40,7 +40,7 @@ to{text-shadow:0 0 5px #fff,0 0 10px #fff,0 0 15px #fff,0 0 20px #228dff,0 0 35p
 .itemBrandSelected-3LxxzT,.theme-dark .search .search-bar{border-radius:2px}
 .ui-standard-sidebar-view .bda-slist li,.ui-standard-sidebar-view .bda-slist li:nth-child(odd){border-top:1px solid #2b2b2b;background:-webkit-linear-gradient(left,#000 80%,rgba(125,185,232,0) 100%)}
 .avatar-large{width:50px;height:50px;background-size:50px 50px;box-shadow:0 .8px .5px #fff;margin-left:9px}
-/*.channels-3g2vYe [class*=scroller-]>[class*=container-]>[class*=container]:first-of-type,.channels-3g2vYe [class*=scroller-]>[class*=container-]>div:first-of-type>[class*=container],.channels-wrap [class*=scroller-]>[class*=container-]>[class*=container]:first-of-type,.channels-wrap [class*=scroller-]>[class*=container-]>div:first-of-type>[class*=container]{padding-top:8px}*/
+.channels-3g2vYe [class*=scroller-]>[class*=container-]>[class*=container]:first-of-type,.channels-3g2vYe [class*=scroller-]>[class*=container-]>div:first-of-type>[class*=container],.channels-wrap [class*=scroller-]>[class*=container-]>[class*=container]:first-of-type,.channels-wrap [class*=scroller-]>[class*=container-]>div:first-of-type>[class*=container]{padding-top:26px}
 .container-iksrDt{border-radius:5px;background:rgba(0,3,6,.6)}
 .theme-dark .channel-members{background-color:transparent;background:-webkit-linear-gradient(top,rgba(0,0,0,.8) 35%,rgba(125,185,232,0) 100%)}
 .chat .avatar-large,.theme-dark .chat form{background-color:transparent}
