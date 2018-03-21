@@ -219,7 +219,6 @@ background-color: rgba(114, 118, 126, 0.3)}
 .theme-dark #friends .friends-table .friends-row:hover{background:rgba(105,104,91,.3)}
 .theme-dark #friends .tab-bar .tab-bar-item:hover:not(.selected){background:rgb(95,94,81)}
 .channel-members-wrap{width:90px;min-width:unset}
-.channel-members-wrap .channel-members{width:250px;overflow-y:scroll}
 .channel-members-wrap:hover .channel-members{padding:0 0 20px;overflow-y:scroll;}
 .channel-members-wrap .scrollerWrap-2uBjct,.channel-members-loading {
     transition:all .4s ease;right:-150px;position:absolute;height:105%;}
