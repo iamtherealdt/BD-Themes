@@ -1,4 +1,6 @@
 #voice-connection, .channel-members, .guilds-add, .theme-dark .headerBar-cxbhPD, .title-qAcLxz, .chat form, #friends, .friends-header, .friends-table, .guilds-wrapper, .guild-header header, .channels-wrap, .private-channels, .guild-channels, .account, .friend-table-add-header, .chat, .content, .layers, .title-wrap:not(.search-bar), .messages-wrapper, .messages .divider span, .messages .divider:before, .content, .message-group-blocked, .is-local-bot-message, .channel-members-loading, .channel-members-loading .heading, .channel-members-loading .member, .typing-3eiiL_, .layer, .layers, .container-RYiLUQ, .theme-dark .ui-standard-sidebar-view, .theme-dark .ui-standard-sidebar-view .sidebar-region, .theme-dark .ui-standard-sidebar-view .content-region, .layer, .layers {background: transparent !Important;}
+
+@import url(https://raw.githubusercontent.com/Mixter213/Memberlist-Scroller/master/NierMemberListScroller.theme.css );
 /*
 .app {background-color:#cecdb5; background-image: url(https://goo.gl/PYe8hB); background-size:auto !important;}
 */
@@ -218,31 +220,6 @@ background-color: rgba(114, 118, 126, 0.3)}
 .theme-dark .item-1XYaYf:hover,.theme-dark .itemSubMenu-3ZgIw-:hover{background:rgb(105,104,91)}
 .theme-dark #friends .friends-table .friends-row:hover{background:rgba(105,104,91,.3)}
 .theme-dark #friends .tab-bar .tab-bar-item:hover:not(.selected){background:rgb(95,94,81)}
-.channel-members-wrap{width:90px;min-width:unset}
-.channel-members-wrap:hover .channel-members{padding:0 0 20px;overflow-y:scroll;}
-.channel-members-wrap .scrollerWrap-2uBjct,.channel-members-loading {
-    transition:all .4s ease;right:-150px;position:absolute;height:105%;}
-.channel-members-wrap:hover .scrollerWrap-2uBjct,.channel-members-loading:hover {right: 0}
-.channel-members h2 {
-    width:100px;
-    text-align:center;
-    word-wrap:break-word;
-    background-color:rgba(45,45,45,.5);
-    transition:all .4s ease;
-    transform:scale(.8) translateX(-20%);
-    margin:3%;
-    padding:2%;
-    border-radius:5px!important;}
-.channel-members-wrap .channel-members .member .member-inner {display:none}
-.channel-members-wrap:hover .channel-members .member .member-inner {display:block}
-.channel-members .member .member-activity {text-indent:-9999px;line-height:0px}
-.channel-members .member .member-activity strong {text-indent:0;display:block;line-height:initial}
-.channel-members:hover h2 {border-radius:50%;transform:scale(1);padding:2% 25%}
-.channel-members .avatar-small .status {border: 0;bottom: -2px;right: -4px;border-radius: 0px}
-.channel-members-wrap::before {transition: all .4s ease}
-.channel-members-wrap {width: 90px;transition: .4s}
-.channel-members-wrap:hover {width: 240px;transition:.4s}
-.theme-dark .channel-members .member:hover {background:rgba(45,45,45,.5)}
 .theme-dark .themed-popout,.theme-dark .themed-popout .header{background:rgba(165,164,151,.85)}
 .theme-dark .messages-popout-wrap .messages-popout .message-group{background:rgb(115,114,101);border:none}
 .theme-dark .messages-popout-wrap .messages-popout .message-group:hover .action-buttons{background:rgba(0,0,0,0);box-shadow:none}
