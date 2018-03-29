@@ -208,9 +208,9 @@ background-color: rgba(114, 118, 126, 0.3)}
 .bda-dark #bda-qem button.active {background-color: rgba(165,164,151,.90)}
 .bda-dark .emoji-picker .scroller::-webkit-scrollbar, .bda-dark .emoji-picker .scroller::-webkit-scrollbar-track, .bda-dark .emoji-picker .scroller::-webkit-scrollbar-track-piece, .bda-dark .emojiPicker-3g68GS .scroller-2dsok0::-webkit-scrollbar, .bda-dark .emojiPicker-3g68GS .scroller-2dsok0::-webkit-scrollbar-track, .bda-dark .emojiPicker-3g68GS .scroller-2dsok0::-webkit-scrollbar-track-piece {background-color: transparent;border-color: Transparent !important}
 .popout.popout-left.no-arrow {margin-right: 10px;background-color: rgba(165,164,151,.85)!important}
- .small-popout-box {background:rgb(195,194,181);border:none}
- .option-popout .btn-item{color:white}
- .form header,.create-guild-container.deprecated .create-or-join .form-inner{background:rgb(165,164,151)}
+.small-popout-box {background:rgb(195,194,181);border:none}
+.option-popout .btn-item{color:white}
+.form header,.create-guild-container.deprecated .create-or-join .form-inner{background:rgb(165,164,151)}
 .create-guild-container.deprecated .action{background:rgb(195,194,181)}
 .create-guild-container.deprecated .create-or-join .actions .or {background:none;font-size:0px}
 .theme-dark .theme-light .calendarPicker-16Q6sl .react-datepicker, .theme-light .calendarPicker-16Q6sl .react-datepicker{background-color: rgba(165, 164, 151, .85)}
@@ -223,3 +223,6 @@ background-color: rgba(114, 118, 126, 0.3)}
 .date-picker{background-color:rgba(165,164,151,.1)}
 .search-popout .option:after {background: linear-gradient(90deg,hsla(0,0%,100%,0),rgba(255, 255, 255, 0.01) 80%)}
 .wrapper-31dmVW{margin:0}
+.guilds-wrapper .guilds .friends-icon {background-image: url(https://cdn.discordapp.com/attachments/390677094289637388/428727180659392513/friendiconfinal.png);background-position: 50%;background-repeat: no-repeat;background-size: 42px 40px;height: 50px;width: 50px}
+.guilds .active .guild-inner {background-color: rgba(0,0,0,0) !Important}
+.guilds-wrapper .guilds .guild:hover .guild-inner {background-color:Black !Important}
