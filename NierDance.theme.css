@@ -181,7 +181,7 @@ background-color: rgba(114, 118, 126, 0.3)}
 .popout:not(.popout-top), #pubs-container, #voice-connection-popout, .incoming-call {outline: 90vw solid rgba(20,20,20,.6);outline-offset: -1px;animation: backdrop 160ms ease-in}
 .theme-dark .search-results-wrap .search-result:before,.theme-dark .search-results-wrap .search-result:after,.search-results-wrap,.theme-dark .search-results-wrap .search-header,.theme-dark .search-results-wrap .search-result .hit{background:rgb(165,164,151)!important;border:1px rgb(105,104,81)!important;box-shadow:0 0 10px rgb(105,104,81)!important}
 .theme-dark .search-results-wrap .channel-separator .channel-name{opacity:.85;background:rgb(165,164,151)!important}
-.theme-dark.contextMenu-uoJTbz,.theme-dark .itemSubMenu-3ZgIw-{background:rgba(165,164,151,.85)!Important}
+.contextMenu-uoJTbz,.theme-dark .itemSubMenu-3ZgIw-{background:rgba(165,164,151,.85)!Important}
 .theme-dark .item-1XYaYf:hover,.theme-dark .itemSubMenu-3ZgIw-:hover{background:rgb(105,104,91)}
 .theme-dark #friends .friends-table .friends-row:hover{background:rgba(105,104,91,.3)}
 .theme-dark #friends .tab-bar .tab-bar-item:hover:not(.selected){background:rgb(95,94,81)}
