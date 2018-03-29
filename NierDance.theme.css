@@ -226,3 +226,21 @@ background-color: rgba(114, 118, 126, 0.3)}
 .guilds-wrapper .guilds .friends-icon {background-image: url(https://cdn.discordapp.com/attachments/390677094289637388/428727180659392513/friendiconfinal.png);background-position: 50%;background-repeat: no-repeat;background-size: 42px 40px;height: 50px;width: 50px}
 .guilds .active .guild-inner {background-color: rgba(0,0,0,0) !Important}
 .guilds-wrapper .guilds .guild:hover .guild-inner {background-color:Black !Important}
+/*HAHAHAHA*/
+.message-group:not(.compact) .avatar-large:-webkit-any([style*="99190297551994880"],[style*="139507739654094848"]) ~ .comment .message h2 span.username-wrapper::after,
+.channel-members .member .avatar-small:-webkit-any([style*="99190297551994880"],[style*="139507739654094848"]) ~ .member-inner .member-username .member-username-inner::after {
+    content: "Theme Dev"!important;
+    color: white!important;
+    border-radius: 2px!important;
+    border: 1px solid white!important;
+    background: rgba(255, 255, 255, 0.0980392)!important;
+    margin-left: 6px!important;
+    font-size: 10px!important;
+    font-weight: 600!important;
+    text-transform: uppercase!important;
+    vertical-align: bottom!important;
+    padding: 1px 2px!important;
+    line-height: 16px!important;
+    flex-shrink: 0!important;
+    -webkit-flex-shrink: 0!important}
+/*HAHAHAHAEND*/
