@@ -80,7 +80,7 @@
     .theme-light .title-qAcLxz .flex-lFgbSz.horizontal-2BEEBe:after, .theme-light .titleCall-3X0yGQ .flex-lFgbSz.horizontal-2BEEBe:after, .theme-light .headerBar-cxbhPD .flex-lFgbSz.horizontal-2BEEBe:after {
 background-color: rgba(114, 118, 126, 0.3)}
 .typeWindows-15E0Ys{background-color: Transparent} /*killed titilebar*/
-/*.sidebar-region{ margin-top: 80px; margin-bottom: 20px} this is for settings left pannel */
+.sidebar-region{ margin-top: 80px; margin-bottom: 20px} /*this is for settings left pannel*/
 .theme-dark .friends-table .scroller-wrap ::-webkit-scrollbar-thumb, .theme-dark .messages-wrapper .scroller-wrap ::-webkit-scrollbar-thumb {
     background-color: #1e2124;
     border-color: rgba(54, 57, 62, 0);}
