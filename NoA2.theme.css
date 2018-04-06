@@ -166,7 +166,34 @@ to{text-shadow:0 0 5px #fff,0 0 10px #fff,0 0 15px #fff,0 0 20px #228dff,0 0 35p
 .headerSpotify-26yUf5 {background:rgba(29,185,84,9)}
 .headerSpotify-26yUf5 + .body-3ljq11, .headerSpotify-26yUf5 ~ .footer-2wFs91 {background-color:rgba(29,185,84,.9)}
 .lookFilled-luDKDo.colorBrand-3PmwCE {background-color: #8e1b35}
+/*new memberlist*/
 .membersWrap-3wRngy {width: 90px !important;in-width: unset !Important;transition: all .4s ease}
 .membersWrap-3wRngy:hover {width: 240px !Important}
-
+.membersWrap-3wRngy{width:90px;min-width:unset;transition:all .4s ease}
+.membersWrap-3wRngy:hover{width:240px}
+.membersWrap-3wRngy .members-1bid1J{height:calc(100% + 400px);width:240px;padding-bottom:410px;overflow-y:scroll}
+.membersGroup-3_dP5E{
+	width:100px;
+	height:auto;
+	line-height:10px;
+	text-align:center;
+	word-wrap:break-word;
+	transition:all .4s ease;
+	transform:scale(.8) translateX(-20%) perspective(1px);
+	background:rgba(64,64,64,.3);
+	font-size: 10px;
+	word-wrap: break-word;
+	white-space:normal;
+	box-sizing: content-box;
+	margin:1% 5%;
+	padding:1% 0}
+.members-1bid1J:hover .membersGroup-3_dP5E{transform:scale(1);padding:1% 25%;}
+.members-1bid1J,.theme-dark .member-2FrNV0:hover .content-3JzEqq{background:rgba(0,0,0,.3)!Important}
+.member-2FrNV0{margin:1% 2% 1% 5%}
+.avatarWrapper-3E-a5I{margin-left:10px;}
+.membersWrap-3wRngy .members-1bid1J .memberInner-3XUq9K{display:none}
+.membersWrap-3wRngy:hover .members-1bid1J .memberInner-3XUq9K{display:block}
+.member-2FrNV0 .activityText-258pdj{text-indent:-9999px;line-height:3px}
+.member-2FrNV0 .activity-1PAe08 strong{text-indent:0;display:block;line-height:12px}
+/*newmemberlist end*/
 
