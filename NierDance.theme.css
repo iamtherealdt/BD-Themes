@@ -153,7 +153,7 @@ background-color: rgba(114, 118, 126, 0.3)}
 .message-group {padding 22px 0}
 /* guild list */
 .guilds-wrapper{width:62px}
-.guilds-wrapper .guilds{padding:0 0 0 6px}
+.guilds-wrapper .guilds{padding:0 0 55px 6px}
 .guilds-wrapper .scroller-wrap{width:76px} 
 .guilds-wrapper .guilds .guild:hover{z-index:3}
 .guilds-wrapper .guilds .guild:hover .guild-inner,.guilds-wrapper .guilds .guild.selected .guild-inner{border-radius:16px/13px!important;transition:border-radius .3s cubic-bezier(.42,.51,.62,1.7);transform:translateY(5px);}
