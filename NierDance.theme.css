@@ -176,7 +176,7 @@ background-color: rgba(114, 118, 126, 0.3)}
 .nameDefaultText-QoumjC, .nameDefaultVoice-1swZoh, .nameLockedText-2fGz07, .nameLockedVoice-wNOMNa {color: #dbdcdc;text-shadow: 1px 1px 7px black}
 .iconCollapsed-1INdMX, .iconDefault-xzclSQ, .nameCollapsed-3_ChMu, .nameDefault-Lnjrwm {color: #f04747!important}
 .container-iksrDt {background-color: rgba(20, 20, 20,1)}
-.unread-23Kvxk {background-color:#f04747 !important}
+.unread-23Kvxk {background-color:#f04747 !important;border-radius:10px;width:3px;height:30px;top:1px;margin-top:1px;left: 3px}
 .popout.popout-left.no-arrow {margin-right: 10px}
 .popout:not(.popout-top), #pubs-container, #voice-connection-popout, .incoming-call {outline: 90vw solid rgba(20,20,20,.6);outline-offset: -1px;animation: backdrop 160ms ease-in}
 .theme-dark .search-results-wrap .search-result:before,.theme-dark .search-results-wrap .search-result:after,.search-results-wrap,.theme-dark .search-results-wrap .search-header,.theme-dark .search-results-wrap .search-result .hit{background:rgb(165,164,151)!important;border:1px rgb(105,104,81)!important;box-shadow:0 0 10px rgb(105,104,81)!important}
@@ -250,3 +250,4 @@ background-color: rgba(114, 118, 126, 0.3)}
 .image-EVRGPw.mask-2vyqAW { -webkit-mask: none}
 .nameTag-26T3kW {white-space: normal}
 .member-2FrNV0 {height: auto}
+.nameCollapsed-3_ChMu, .nameDefault-Lnjrwm, .nameHovered-1YFSWq, .nameHoveredCollapsed-2c-EHI, .nameMuted-1n0LSj, .nameUnread-WKlSv-,.name-2SL4ev{text-transform: capitalize}
