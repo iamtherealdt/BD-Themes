@@ -185,7 +185,7 @@ background-color: rgba(114, 118, 126, 0.3)}
 .theme-dark .item-1XYaYf:hover,.theme-dark .itemSubMenu-3ZgIw-:hover{background:rgb(105,104,91)}
 .theme-dark #friends .friends-table .friends-row:hover{background:rgba(105,104,91,.3)}
 .theme-dark #friends .tab-bar .tab-bar-item:hover:not(.selected){background:rgb(95,94,81)}
-.theme-dark .themed-popout,.theme-dark .themed-popout .header{background:rgba(165,164,151,.85)!Importnat}
+.theme-dark .themed-popout,.theme-dark .themed-popout .header{background:rgba(165,164,151,.85)!Important}
 .theme-dark .messages-popout-wrap .messages-popout .message-group{background:rgb(115,114,101)!Important;border:none}
 .theme-dark .messages-popout-wrap .messages-popout .message-group:hover .action-buttons{background:rgba(0,0,0,0)!Important;box-shadow:none}
 .theme-dark .messages-popout-wrap .messages-popout .message-group .action-buttons .jump-button{background:rgba(165,164,151,.85)!Importnant}
