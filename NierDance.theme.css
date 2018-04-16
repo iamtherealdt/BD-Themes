@@ -213,15 +213,14 @@ background-color: rgba(114, 118, 126, 0.3)}
 .form header,.create-guild-container.deprecated .create-or-join .form-inner{background:rgb(165,164,151)}
 .create-guild-container.deprecated .action{background:rgb(195,194,181)}
 .create-guild-container.deprecated .create-or-join .actions .or {background:none;font-size:0px}
-.theme-dark .theme-light .calendarPicker-16Q6sl .react-datepicker, .theme-light .calendarPicker-16Q6sl .react-datepicker{background-color: rgba(165, 164, 151, .85)}
-.theme-dark .theme-light .calendarPicker-16Q6sl .react-datepicker__header, .theme-light .calendarPicker-16Q6sl .react-datepicker__header {background-color: rgba(165, 164, 151, .85)}
-.theme-dark .theme-light .calendarPicker-16Q6sl .react-datepicker__current-month, .theme-light .calendarPicker-16Q6sl .react-datepicker__current-month {border-bottom-color: hsla(210,3%,87%,.2);color: white}
-.theme-dark .theme-light .calendarPicker-16Q6sl .react-datepicker__day-name, .theme-light .calendarPicker-16Q6sl .react-datepicker__day-name {color: white}
-.theme-dark .theme-light .calendarPicker-16Q6sl .react-datepicker__day.react-datepicker__day--disabled, .theme-dark .theme-light .calendarPicker-16Q6sl .react-datepicker__day.react-datepicker__day--disabled:hover, .theme-light .calendarPicker-16Q6sl .react-datepicker__day.react-datepicker__day--disabled, .theme-light .calendarPicker-16Q6sl .react-datepicker__day.react-datepicker__day--disabled:hover {color: red}
-.theme-dark .theme-light .calendarPicker-16Q6sl .react-datepicker__day, .theme-light .calendarPicker-16Q6sl .react-datepicker__day {color: red}
-.theme-dark .search-popout{background-color:rgba(165,164,151,.8)}
-.date-picker{background-color:rgba(165,164,151,.1)}
-.search-popout .option:after {background: linear-gradient(90deg,hsla(0,0%,100%,0),rgba(255, 255, 255, 0.01) 80%)}
+.theme-dark .calendarPicker-16Q6sl .react-datepicker,.theme-light .calendarPicker-16Q6sl .react-datepicker{background-color: rgba(165, 164, 151, .85)}
+.theme-dark .calendarPicker-16Q6sl .react-datepicker__header,.theme-light .calendarPicker-16Q6sl .react-datepicker__header {background-color: rgba(165, 164, 151, .85)}
+.theme-dark.calendarPicker-16Q6sl .react-datepicker__current-month,.theme-light .calendarPicker-16Q6sl .react-datepicker__current-month {border-bottom-color: hsla(210,3%,87%,);color: white}
+.theme-dark .calendarPicker-16Q6sl .react-datepicker__day-name,.theme-light .calendarPicker-16Q6sl .react-datepicker__day-name {color: white}
+.theme-dark .calendarPicker-16Q6sl .react-datepicker__day.react-datepicker__day--disabled,.theme-dark .calendarPicker-16Q6sl .react-datepicker__day.react-datepicker__day--disabled:hover,.theme-light .calendarPicker-16Q6sl .react-datepicker__day.react-datepicker__day--disabled,.theme-light .calendarPicker-16Q6sl .react-datepicker__day.react-datepicker__day--disabled:hover {color: white;background: rgba(65,64,51,.4)}
+.theme-dark .calendarPicker-16Q6sl .react-datepicker__day,.theme-light .calendarPicker-16Q6sl .react-datepicker__day {color: red}
+.theme-dark .searchPopout-38pRYh{background-color:rgba(165,164,151,.8)}
+.theme-dark .option-1MvVr1.selected-_bTXUG{background: rgba(65,64,51,.6)}
 .wrapper-31dmVW{margin:0}
 .guilds-wrapper .guilds .friends-icon {background-image: url(https://cdn.discordapp.com/attachments/390677094289637388/428920861937106945/friendiconfinal.png);background-position: 50%;background-repeat: no-repeat;background-size: 42px 40px;height: 50px;width: 50px}
 .guilds .active .guild-inner {background-color: rgba(0,0,0,0) !Important}
