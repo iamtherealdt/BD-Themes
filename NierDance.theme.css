@@ -254,6 +254,8 @@ background-color: rgba(114, 118, 126, 0.3)}
 .uploadModal-2KN6Mm,.uploadModal-2KN6Mm .footer-4pOKm8{background-color:rgba(165,164,151,.65)}
 .uploadModal-2KN6Mm .inner-1-09ZV .file-XhJJS_ .icon-19bbE_.image-sUU6Oh{border-radius:0px}
 #friends .tab-bar{z-index:0}
-.theme-dark .modal-3HOjGZ,.theme-dark .footer-1PYmcw,{background-color:rgba(165,164,151,.90)}
+.theme-dark .modal-3HOjGZ,.theme-dark .footer-1PYmcw{background-color:rgba(165,164,151,.90)}
 .chat .new-messages-bar{background-color:rgb(137, 136, 124)}
 .chat .new-messages-bar:hover{background-color:black}
+.theme-dark .add-game-popout {background-color: rgb(200, 195, 171)}
+.theme-dark .message-group h2 .timestamp {color: rgba(256,256,256,.7)}
