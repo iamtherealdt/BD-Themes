@@ -259,8 +259,8 @@ background-color: rgba(114, 118, 126, 0.3)}
 .chat .new-messages-bar:hover{background-color:black}
 .theme-dark .add-game-popout {background-color: rgb(200, 195, 171)}
 .theme-dark .message-group h2 .timestamp {color: rgba(256,256,256,.7)}
-.userSettingsAccount-2WOnTW :nth-child(2) > :nth-child(2) .viewBody-14sCmR:not(:hover) {
-    filter: blur(4px);transition-delay: 0.5s;transition-duration: 1s}
+.userSettingsSecurity-1hjwAn:not(:hover), .userSettingsAccount-2WOnTW :nth-child(2) > :nth-child(2) .viewBody-14sCmR:not(:hover) {
+    filter: blur(5px)}
 .video-2vmmgZ,.video-3lOWa6,
 .theme-dark .private-channel-call {background:rgba(165,164,151,.35)}
 .header-1-f9X5, #bd-settings-sidebar .ui-tab-bar-header {text-shadow: 2px 3px rgba(65,64,56,0.3)}
