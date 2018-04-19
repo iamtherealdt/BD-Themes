@@ -251,3 +251,6 @@ background-color: rgba(114, 118, 126, 0.3)}
 .member-2FrNV0 {height: auto}
 .nameCollapsed-3_ChMu, .nameDefault-Lnjrwm, .nameHovered-1YFSWq, .nameHoveredCollapsed-2c-EHI, .nameMuted-1n0LSj, .nameUnread-WKlSv-,.name-2SL4ev{text-transform: capitalize}
 .theme-dark .autocomplete-1TnWNR{background-color:rgba(165,164,151,.85)}
+.uploadModal-2KN6Mm,.uploadModal-2KN6Mm .footer-4pOKm8{background-color:rgba(165,164,151,.65)}
+.uploadModal-2KN6Mm .inner-1-09ZV .file-XhJJS_ .icon-19bbE_.image-sUU6Oh{border-radius:0px}
+#friends .tab-bar{z-index:0}
