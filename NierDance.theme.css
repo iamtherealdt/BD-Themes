@@ -116,7 +116,8 @@ background-color: rgba(114, 118, 126, 0.3)}
     background-color: none;
     background-position: 50%;
     border-radius: 0px;}
-.maskProfile-MeBve8 {-webkit-mask: none !Important;}
+/*.maskProfile-MeBve8 {-webkit-mask: none !Important;}*/
+.mask-3OgeRz{-webkit-mask: none !Important;}
 .theme-dark .themed-popout {box-shadow: 8px 5px 20px 0px #36393f}
 .menu-3BZuDT {background: rgba(79, 84, 92, 0.85)}
 .ui-standard-sidebar-view .content-column.default {padding: 0px 40px 80px !Important}
