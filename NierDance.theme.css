@@ -1,7 +1,7 @@
 #voice-connection,.channel-members,.guilds-add,.theme-dark .headerBar-UHpsPw,.title-3qD0b-,#friends,.friends-header,.friends-table,.guilds-wrapper,.guild-header header,.channels-wrap,.private-channels,.guild-channels,.account,.friend-table-add-header,.chat,.chat form,.content,.title-wrap:not(.search-bar),.messages-wrapper,.messages .divider span,.messages .divider:before,.message-group-blocked,.is-local-bot-message,.channel-members-loading .heading,.channel-members-loading .member,.channel-members-loading,.typing-2GQL18,.layer,.layers,.container-PNkimc,.theme-dark .ui-standard-sidebar-view,.theme-dark .ui-standard-sidebar-view .sidebar-region,.theme-dark .ui-standard-sidebar-view .content-region{background: transparent !important}
-/*#voice-connection, .channel-members, .guilds-add, .theme-dark .headerBar-cxbhPD, .title-qAcLxz, .chat form, #friends, .friends-header, .friends-table, .guilds-wrapper, .guild-header header, .channels-wrap, .private-channels, .guild-channels, .account, .friend-table-add-header, .chat, .content, .layers, .title-wrap:not(.search-bar), .messages-wrapper, .messages .divider span, .messages .divider:before, .content, .message-group-blocked, .is-local-bot-message, .channel-members-loading, .channel-members-loading .heading, .channel-members-loading .member, .typing-3eiiL_, .layer, .layers, .container-RYiLUQ, .theme-dark .ui-standard-sidebar-view, .theme-dark .ui-standard-sidebar-view .sidebar-region, .theme-dark .ui-standard-sidebar-view .content-region, .layer, .layers {background: transparent !Important;}
+/*#voice-connection, .channel-members, .guilds-add, .theme-dark .headerBar-UHpsPw, .title-qAcLxz, .chat form, #friends, .friends-header, .friends-table, .guilds-wrapper, .guild-header header, .channels-wrap, .private-channels, .guild-channels, .account, .friend-table-add-header, .chat, .content, .layers, .title-wrap:not(.search-bar), .messages-wrapper, .messages .divider span, .messages .divider:before, .content, .message-group-blocked, .is-local-bot-message, .channel-members-loading, .channel-members-loading .heading, .channel-members-loading .member, .typing-3eiiL_, .layer, .layers, .container-RYiLUQ, .theme-dark .ui-standard-sidebar-view, .theme-dark .ui-standard-sidebar-view .sidebar-region, .theme-dark .ui-standard-sidebar-view .content-region, .layer, .layers {background: transparent !Important;}
 /*.app {background-color:#cecdb5; background-image: url(https://goo.gl/PYe8hB); background-size:auto !important;}*/
-.channels-3g2vYe {background: transparent !Important;}
+.channels-Ie2l6A {background: transparent !Important;}
 .chat .messages, .container-iksrDt {background-color: rgba(0,0,0,0);}
 #bd-settings-sidebar .ui-tab-bar-item.selected, .side-2nYO0F .itemSelected-3XxAMf {background-color: rgba(0,0,0,0.6); color: #fff; border-radius: 0px;}
 .private-channels .channel a {color: rgba(0,0,0,0.7); transition: 0.3s;}
@@ -13,7 +13,7 @@
 .container-iksrDt .avatar-small,.container-iksrDt .status {border-radius: 0px;}
 .guilds-wrapper .guilds .guild.selected:before {background: rgba(0,0,0,.4)}
 .chat .avatar-large {border-radius: 2px;}
-.theme-dark .inner-3if5cm {border-radius: 0px; background-color:rgba(0,0,0,0.4)}
+.theme-dark .inner-zqa7da {border-radius: 0px; background-color:rgba(0,0,0,0.4)}
 .private-channels .channel.selected a{background-image: url(https://goo.gl/mXGFRM) !important; background-size:contain !important; border-radius: 0px; background-color: transparent;}
 .container-2lgZY8 {background-color: #c4c2ab !important; background-image: url(https://goo.gl/sDkBYC)!Important; background-size:cover !important;}
 .theme-dark .ui-standard-sidebar-view{background-image: url(https://goo.gl/PYe8hB)!Important; background-size:cover !important;}
@@ -23,7 +23,8 @@
 /*.theme-dark .itemDefault-3NDwnY, .theme-dark .itemHover-3rojsB,
 #bd-settings-sidebar .ui-tab-bar-item {color: #ffffff;background-color:rgba(25,25,25,.2)} */
 
-/*kill tittlebar*/:root {
+/*kill tittlebar*/
+/*:root {
   --i-rtl-invert: 0%;
   --i-rtl-closeimg: url(https://rawgit.com/intrnl/discordAdditions/master/revertTitlebar/assets/btn-close.svg);
   --i-rtl-maximizeimg: url(https://rawgit.com/intrnl/discordAdditions/master/revertTitlebar/assets/btn-maximize.svg);
@@ -70,17 +71,17 @@
     background-image: var(--i-rtl-minimizeimg); }
   .titleBar-3_fDwJ .wordmark-2L03Wr, .titleBar-3_fDwJ .winButton-U7zAqI svg {display: none}
 
-.title-qAcLxz .flex-lFgbSz.horizontal-2BEEBe, .titleCall-3X0yGQ .flex-lFgbSz.horizontal-2BEEBe, .headerBar-cxbhPD .flex-lFgbSz.horizontal-2BEEBe {
+.title-qAcLxz .flex-lFgbSz.horizontal-2BEEBe, .titleCall-3X0yGQ .flex-lFgbSz.horizontal-2BEEBe, .headerBar-UHpsPw .flex-lFgbSz.horizontal-2BEEBe {
   margin-right: 98px; }
-  .title-qAcLxz .flex-lFgbSz.horizontal-2BEEBe:after, .titleCall-3X0yGQ .flex-lFgbSz.horizontal-2BEEBe:after, .headerBar-cxbhPD .flex-lFgbSz.horizontal-2BEEBe:after {
+  .title-qAcLxz .flex-lFgbSz.horizontal-2BEEBe:after, .titleCall-3X0yGQ .flex-lFgbSz.horizontal-2BEEBe:after, .headerBar-UHpsPw .flex-lFgbSz.horizontal-2BEEBe:after {
     content: ' ';
     height: 22px;
     width: 1px; }
-    .theme-dark .title-qAcLxz .flex-lFgbSz.horizontal-2BEEBe:after, .theme-dark .titleCall-3X0yGQ .flex-lFgbSz.horizontal-2BEEBe:after, .theme-dark .headerBar-cxbhPD .flex-lFgbSz.horizontal-2BEEBe:after {
+    .theme-dark .title-qAcLxz .flex-lFgbSz.horizontal-2BEEBe:after, .theme-dark .titleCall-3X0yGQ .flex-lFgbSz.horizontal-2BEEBe:after, .theme-dark .headerBar-UHpsPw .flex-lFgbSz.horizontal-2BEEBe:after {
       background-color: rgba(247, 247, 248, 0.1)}
-    .theme-light .title-qAcLxz .flex-lFgbSz.horizontal-2BEEBe:after, .theme-light .titleCall-3X0yGQ .flex-lFgbSz.horizontal-2BEEBe:after, .theme-light .headerBar-cxbhPD .flex-lFgbSz.horizontal-2BEEBe:after {
+    .theme-light .title-qAcLxz .flex-lFgbSz.horizontal-2BEEBe:after, .theme-light .titleCall-3X0yGQ .flex-lFgbSz.horizontal-2BEEBe:after, .theme-light .headerBar-UHpsPw .flex-lFgbSz.horizontal-2BEEBe:after {
 background-color: rgba(114, 118, 126, 0.3)}
-.typeWindows-15E0Ys{background-color: Transparent} /*killed titilebar*/
+.typeWindows-15E0Ys{background-color: Transparent}*/ /*killed titilebar*/
 .sidebar-region{ margin-top: 80px; margin-bottom: 20px} /*this is for settings left pannel*/
 .theme-dark .friends-table .scroller-wrap ::-webkit-scrollbar-thumb, .theme-dark .messages-wrapper .scroller-wrap ::-webkit-scrollbar-thumb {
     background-color: #1e2124;
@@ -90,7 +91,7 @@ background-color: rgba(114, 118, 126, 0.3)}
 } */
 ::-webkit-scrollbar-track-piece {background-color: transparent !Important; border-color: Transparent!Important;}
 .chat form {margin: 0 0;}
-  .channelTextArea-os01xC { margin: 0 0 0; }
+  .channelTextArea-1LDbYG { margin: 0 0 0; }
 .ui-standard-sidebar-view .bda-slist li {
     background: rgba(38, 39, 43, 0) !Important;
     /* border-bottom: 1px solid #3f4146; */
@@ -100,11 +101,11 @@ background-color: rgba(114, 118, 126, 0.3)}
 .ui-standard-sidebar-view .content-region { margin-top: 80px; margin-bottom: 20px;}
 .ui-standard-sidebar-view .tools { margin-right: 0px; padding-top: 0px;}
 .ui-standard-sidebar-view .btn-close{ border-radius: 0}
-.theme-dark .chat form .typing-3eiiL_ {margin-bottom:  40px !important;}
+.theme-dark .chat form .typing-2GQL18 {margin-bottom:  40px !important;}
 .theme-dark .message-group .comment .markup {color: hsl(0, 0%, 100%); text-shadow: -1px -2px 7px black;}
 .theme-dark .message-group h2 strong {text-shadow: -1px -1px 1px rgba(0,0,0,.58)}
 .mention {color: #4b69d4; font-weight: 0;}
-.channels-3g2vYe {background: -webkit-linear-gradient(left, rgba(0, 0, 0, 0.8) 0.1%,rgba(0, 0, 0, 0.4) 100%) !important;}
+.channels-Ie2l6A {background: -webkit-linear-gradient(left, rgba(0, 0, 0, 0.8) 0.1%,rgba(0, 0, 0, 0.4) 100%) !important;}
 .guilds-wrapper .guilds {background: rgba(0,0,0,.4)}
 .private-channels .channel .channel-name {opacity: .8}
 .chat .messages{background-color: rgba(0,0,0,.2) !important}
@@ -136,8 +137,8 @@ background-color: rgba(114, 118, 126, 0.3)}
 .headerSpotify-26yUf5 + .body-3ljq11, .headerSpotify-26yUf5 ~ .footer-2wFs91 {background-color:rgba(29,185,84,.9)}
 .lookFilled-luDKDo.colorBrand-3PmwCE {background-color: #8e1b35}
 .guilds-wrapper { z-index: 2; }.chat { z-index: 0}
-.channels-3g2vYe { z-index: 1;position: absolute;opacity: 0;left: -170px;height: 100%;transition: all .2s ease}
-.guilds-wrapper:hover + div .channels-3g2vYe, .app .channels-3g2vYe:hover {left: 62px; opacity: 1}
+.channels-Ie2l6A { z-index: 1;position: absolute;opacity: 0;left: -170px;height: 98%;transition: all .2s ease}
+.guilds-wrapper:hover + div .channels-Ie2l6A, .app .channels-Ie2l6A:hover {left: 62px; opacity: 1}
 .container-iksrDt{margin-bottom:21px !Important}
 .avatarHint-2ohlkz {border-radius: 0px}
 .theme-dark .channel-members h2{text-align: center}
@@ -172,7 +173,7 @@ background-color: rgba(114, 118, 126, 0.3)}
 .guilds-add{color:transparent!important;background-image:url(https://i.imgur.com/1MfzLoF.png)!important;background-size:20px 20px!important;background-repeat:no-repeat!important;background-position:14px 14px!important;background-color:rgba(21,21,21,0.41)!important;opacity:.7!important}
 #pluginNotice, .DevilBro-notice {margin-top: 35px}
 .base-3AoPqv{border-radius: 0px 0 0 0px}
-.channels-3g2vYe {transition: 300ms !important;background: -webkit-linear-gradient(left, rgba(25, 25, 25, .9) 0.9%,rgba(25, 25, 25, .7) 100%) !important; box-shadow:-61px 0 rgba(10,10,10,.66)}
+.channels-Ie2l6A {transition: 300ms !important;background: -webkit-linear-gradient(left, rgba(25, 25, 25, .9) 0.9%,rgba(25, 25, 25, .7) 100%) !important; box-shadow:-61px 0 rgba(10,10,10,.66)}
 .icon-3tVJnl {display: block; margin-right: -10px; opacity: 0}
 .nameDefaultText-QoumjC, .nameDefaultVoice-1swZoh, .nameLockedText-2fGz07, .nameLockedVoice-wNOMNa {color: #dbdcdc;text-shadow: 1px 1px 7px black}
 .iconCollapsed-1INdMX, .iconDefault-xzclSQ, .nameCollapsed-3_ChMu, .nameDefault-Lnjrwm {color: #f04747!important}
@@ -254,7 +255,7 @@ background-color: rgba(114, 118, 126, 0.3)}
 .theme-dark .autocomplete-1TnWNR{background-color:rgba(165,164,151,.85)}
 .uploadModal-2KN6Mm,.uploadModal-2KN6Mm .footer-4pOKm8{background-color:rgba(165,164,151,.65)}
 .uploadModal-2KN6Mm .inner-1-09ZV .file-XhJJS_ .icon-19bbE_.image-sUU6Oh{border-radius:0px}
-#friends .tab-bar,.headerBar-cxbhPD{z-index:0}
+#friends .tab-bar,.headerBar-UHpsPw{z-index:0}
 .theme-dark .modal-3HOjGZ,.theme-dark .footer-1PYmcw{background-color:rgba(165,164,151,.90)}
 .chat .new-messages-bar{background-color:rgb(137, 136, 124)}
 .chat .new-messages-bar:hover{background-color:black}
@@ -296,3 +297,13 @@ a{color:rgb(212,205,186);text-shadow:0px 0px 5px black;font-size: 13px!important
 .private-channel-recipients-invite .friend {background:rgba(165,164,151,.65)!important}
 .search-bar-tag,.themed-popout .footer{background-color: rgba(165,164,151,.65)!important}
 /*fix GroupDM List END*/
+/*TITLEBAT*/
+.titleBar-AC4pGV:before {content: ' ';display: block;height: 14px;width: 100vw;position: absolute;top:-1px;right:0;z-index:3000;-webkit-app-region: drag}
+.titleBar-AC4pGV{padding:9px 8px;position:absolute;top:0;right:0;-webkit-app-region:no-drag}
+.titleBar-AC4pGV .winButton-iRh8-Z{height:30px;width:30px;background:transparent no-repeat center;background-size:26px;}
+.titleBar-AC4pGV div:nth-of-type(2){background-image:url("https://cdn.discordapp.com/attachments/406778960484237322/406779041270464522/btn-close.svg")}
+.titleBar-AC4pGV div:nth-of-type(3){background-image:url("https://cdn.discordapp.com/attachments/406778960484237322/406779041064943617/btn-maximize.svg")}
+.titleBar-AC4pGV div:nth-of-type(4){background-image:url("https://cdn.discordapp.com/attachments/406778960484237322/406779041409138688/btn-minimize.svg")}
+.titleBar-AC4pGV .wordmark-2iDDfm,.titleBar-AC4pGV .winButton-iRh8-Z svg{display:none}
+.title-3qD0b- .flex-1xMQg5.horizontal-1ae9ci,.titleCall-_b9o8P .flex-1xMQg5.horizontal-1ae9ci,.headerBar-UHpsPw .flex-1xMQg5.horizontal-1ae9ci{margin-right:95px}
+.title-3qD0b- .flex-1xMQg5.horizontal-1ae9ci:after,.titleCall-_b9o8P .flex-1xMQg5.horizontal-1ae9ci:after,.headerBar-UHpsPw .flex-lFgbSz.horizontal-1ae9ci:after{content:' ';height:22px;width:1px;background-color:rgba(247,247,248,0.1)}
