@@ -14,7 +14,7 @@
 }
 /*making the topbars allign to theme at once end*/
 /* little user profile main changes*/
-.avatar-1BXaQj {
+.avatar-16XVId {
   -web-flex-negative: 0;
 }
 .mask-3OgeRz {
@@ -27,7 +27,7 @@ mask-type: luminance;
 }
 /* Little user profile main changes end */
 /* setting all border-radius to 10px at once */
-.avatar-profile, .avatar-large, .avatar-xlarge, .avatar-xsmall, .avatar-xxlarge, .avatar-1BXaQj,
+.avatar-profile, .avatar-large, .avatar-xlarge, .avatar-xsmall, .avatar-xxlarge, .avatar-16XVId,
 .avatarHint-2i5XWK, .container-1UB9sr,guilds-wrapper .guilds .guild .guild-inner a, .image-33JSyf, .channels-Ie2l6A > div:last-child > div:last-child {
   background-clip: padding-box;
   background-color: transparent;
@@ -316,17 +316,17 @@ background-color: hsla(0,0%,100%,.1) !important;
   height: 40px;
   width: 50px;
 }
-.typeWindows-1za-n7, titleBar-AC4pGV horizontalReverse-3tRjY7 flex-1O1GKY directionRowReverse-m8IjIq justifyStart-2NDFzi alignStretch-1hwxMa { 
+.typeWindows-1za-n7, titleBar-AC4pGV horizontalReverse-3tRjY7 flex-1O1GKY directionRowReverse-m8IjIq justifyStart-2NDFzi alignStretch-DpGPf3 { 
   margin: 0px;
   height: 20px;
   background-color: rgba(0,0,0,0.8);
 }
-.autocompleteInner-N7OQf1 {
+.autocompleteInner-zh20B_ {
   background: rgba(35, 35, 35,1);
   border: 1px solid var(--M-Colour);
 }
-.theme-dark .autocomplete-1TnWNR,
-.autocomplete-1TnWNR {
+.theme-dark .autocomplete-1vrmpx,
+.autocomplete-1vrmpx {
   background: rgba(0, 0, 0, 0.23);
 }
 .theme-dark .message-group .comment .markup code.inline,
