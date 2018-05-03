@@ -9,8 +9,8 @@
 .theme-dark .ui-standard-sidebar-view{background-image: url(https://goo.gl/PYe8hB)!Important; background-size:cover !important;}
 
 /* title bar */
-.titleBar-AC4pGV:before {content: ' ';display: block;height: 14px;width: 100vw;position: absolute;top:-1px;right:0;z-index:3000;-webkit-app-region: drag}
-.titleBar-AC4pGV{padding:9px 8px;position:absolute;top:0;right:0;-webkit-app-region:no-drag}
+.titleBar-AC4pGV:before {content: ' ';display: block;height: 14px;width: 100vw;position: absolute;top:-1px;right:0;-webkit-app-region: drag}
+.titleBar-AC4pGV{padding:9px 8px;position:absolute;top:0;right:0;-webkit-app-region:no-drag;z-index:2}
 .titleBar-AC4pGV .winButton-iRh8-Z{height:30px;width:30px;background:transparent no-repeat center;background-size:26px;}
 .titleBar-AC4pGV div:nth-of-type(2){background-image:url("https://cdn.discordapp.com/attachments/406778960484237322/406779041270464522/btn-close.svg")}
 .titleBar-AC4pGV div:nth-of-type(3){background-image:url("https://cdn.discordapp.com/attachments/406778960484237322/406779041064943617/btn-maximize.svg")}
@@ -18,9 +18,6 @@
 .titleBar-AC4pGV .wordmark-2iDDfm,.titleBar-AC4pGV .winButton-iRh8-Z svg{display:none}
 .title-3qD0b- .flex-1xMQg5.horizontal-1ae9ci,.titleCall-_b9o8P .flex-1xMQg5.horizontal-1ae9ci,.headerBar-UHpsPw .flex-1xMQg5.horizontal-1ae9ci{margin-right:95px}
 .title-3qD0b- .flex-1xMQg5.horizontal-1ae9ci:after,.titleCall-_b9o8P .flex-1xMQg5.horizontal-1ae9ci:after,.headerBar-UHpsPw .flex-lFgbSz.horizontal-1ae9ci:after{content:' ';height:22px;width:1px;background-color:rgba(247,247,248,0.1)}
-
-/*header bar z-index fix */
-.headerBar-UHpsPw{z-index:0}
 
 /* scrollbar */
 .theme-dark .friends-table .scroller-wrap ::-webkit-scrollbar-thumb, .theme-dark .messages-wrapper .scroller-wrap ::-webkit-scrollbar-thumb {
@@ -65,10 +62,10 @@
 /* guild list */
 .guilds-wrapper div>.guilds .guild{height:54px;margin:5px 0!important;background-color:rgba(12,12,12,.4);border-radius:14px/9%;pointer-events:none;z-index:2;box-shadow:0 2px 4px 1.4px rgba(0,0,0,.3);}
 .guilds-wrapper div>.guilds button.guild{pointer-events:auto}
-.guilds-wrapper{width:62px;z-index: 2; }.chat { z-index: 0}
+.guilds-wrapper{width:62px;z-index: 3; }.chat { z-index: 1}
 .guilds-wrapper .scroller-wrap{width:76px} 
 .guilds-wrapper .guilds{padding:0 0 55px 6px;background: rgba(0,0,0,.4)}
-.guilds-wrapper .guilds .guild:hover{z-index:3}
+.guilds-wrapper .guilds .guild:hover{z-index:4}
 .guilds-wrapper .guilds .guild:hover .guild-inner {background-color:Black !Important}
 .guilds-wrapper .guilds .guild:hover .guild-inner,.guilds-wrapper .guilds .guild.selected .guild-inner{border-radius:16px/13px!important;transition:border-radius .3s cubic-bezier(.42,.51,.62,1.7);transform:translateY(5px);}
 .guilds-wrapper .guilds .guild:hover .guild-inner a,.guilds-wrapper .guilds .guild.selected .guild-inner a{height:44px;line-height:44px}
@@ -92,7 +89,7 @@
     transition: 300ms !important;
     background: -webkit-linear-gradient(left, rgba(25, 25, 25, .9) 0.9%,rgba(25, 25, 25, .7) 100%) !important;
     box-shadow:-61px 0 rgba(10,10,10,.66);
-    z-index: 1;
+    z-index: 2;
     position: absolute;
     opacity: 0;
     left: -170px;
