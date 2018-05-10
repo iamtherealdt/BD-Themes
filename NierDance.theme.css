@@ -37,7 +37,7 @@
 .mask-3OgeRz{-webkit-mask: none !important}
 
 /* popout shadow effect */
-.popout-3sVMXz:not(.popoutTop-3uu9vG), #pubs-container, #voice-connection-popout, .incoming-call {outline: 90vw solid rgba(20,20,20,.6);outline-offset: -1px;animation: backdrop 160ms ease-in}
+.popout-3sVMXz:not(.popouts-3dRSmE) {outline: 90vw solid hsla(180,3%,0%,.6)}
 
 /* popout , menu & mic menu */
 .theme-dark .menu-Sp6bN1{background:rgb(165,164,151)}
