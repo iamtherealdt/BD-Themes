@@ -37,6 +37,13 @@
 }
 #app-mount .mask-3OgeRz{-webkit-mask:none;mask:none}
 
+/* tooltips */
+#app-mount .tooltip{background: rgb(65,64,56);color:rgb(212,205,186)}
+.tooltip.tooltip-black.tooltip-top:after{border-top-color:rgb(65,64,56)}
+.tooltip.tooltip-black.tooltip-right:after{border-right-color:rgb(65,64,56)}
+.tooltip.tooltip-black.tooltip-bottom:after{border-bottom-color:rgb(65,64,56)}
+.tooltip.tooltip-black.tooltip-left:after{border-left-color:rgb(65,64,56)}
+
 /* popout shadow effect */
 .popout-3sVMXz:not(.popouts-3dRSmE) {outline: 90vw solid hsla(180,3%,0%,.6)}
 
