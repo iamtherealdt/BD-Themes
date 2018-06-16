@@ -154,18 +154,18 @@
 .avatarHint-1qgaV3 {border-radius: 0px}
 
 /* emoji */
-.emojiPicker-3m1S-j{background:rgba(195,194,181,.8)}
-.search-bar.search-bar-light, .emojiPicker-3m1S-j .stickyHeader-1SS0JU{background: transparent}
-.emojiPicker-3m1S-j .scroller-3vODG7 .emojiItem-109bjA.selected-39BZ4S{background: rgba(95,94,81,.8)}
-.bda-dark #bda-qem-favourite-container, .bda-dark #bda-qem-twitch-container{background: rgba(195,194,181,.8)}
-.emojiPicker-3m1S-j .category-2U57w6{color:rgb(105,104,81)}
-.bda-dark #bda-qem{background: rgba(195,194,181,.8);border-color:rgba(95,94,81,.8)}
-.bda-dark #bda-qem button{background:rgba(195,194,181,.8);border-radius:0;border-color:rgba(95,94,81,.8)}
-.bda-dark #bda-qem button:hover{background: rgba(145,144,131,.8)}
-.bda-dark #bda-qem button.active{background: rgba(125,124,111,.8)}
+#app-mount #bda-qem-favourite-container, #app-mount #bda-qem-twitch-container,#app-mount .emojiPicker-3m1S-j{background: rgba(195,194,181,.8)}
+#app-mount .emojiPicker-3m1S-j .header-1nkwgG .search-bar{background: transparent}
+.emojiPicker-3m1S-j .stickyHeader-1SS0JU{background: transparent}
+#app-mount .emojiPicker-3m1S-j .category-2U57w6{background:rgb(65,64,56)}
 
-.scrollerThemed-2oenus.themeLight-1_DWyY .scroller-2FKFPG::-webkit-scrollbar-thumb, .theme-dark .scrollerThemed-2oenus.themeLight-1_DWyY .scroller-2FKFPG::-webkit-scrollbar-thumb, .theme-light .scrollerWrap-2lJEkd .scroller-2FKFPG::-webkit-scrollbar-thumb{background:black}
-.scrollerThemed-2oenus.themeLight-1_DWyY.scrollerTrack-1ZIpsv>.scroller-2FKFPG::-webkit-scrollbar-track, .theme-dark .scrollerThemed-2oenus.themeLight-1_DWyY.scrollerTrack-1ZIpsv>.scroller-2FKFPG::-webkit-scrollbar-track, .theme-light .scrollerWrap-2lJEkd.scrollerTrack-1ZIpsv>.scroller-2FKFPG::-webkit-scrollbar-track{background: transparent}
+#app-mount #bda-qem{background: rgba(195,194,181,.8);border-color:rgba(95,94,81,.8)}
+#app-mount #bda-qem button{background:rgba(195,194,181,.8);border-radius:0;border-color:rgba(95,94,81,.8)}
+#app-mount #bda-qem button:hover{background: rgba(145,144,131,.8)}
+#app-mount #bda-qem button.active{background: rgba(125,124,111,.8)}
+
+#app-mount #bda-qem-twitch-container .scroller::-webkit-scrollbar,#app-mount #bda-qem-twitch-container .scroller::-webkit-scrollbar-track,#app-mount #bda-qem-twitch-container .scroller::-webkit-scrollbar-track-piece,#app-mount #bda-qem-favourite-container::-webkit-scrollbar,#app-mount #bda-qem-favourite-container::-webkit-scrollbar-track,#app-mount #bda-qem-favourite-container::-webkit-scrollbar-track-piece,#app-mount .emojiPicker-3m1S-j .scroller-3vODG7::-webkit-scrollbar,#app-mount .emojiPicker-3m1S-j .scroller-3vODG7::-webkit-scrollbar-track,#app-mount .emojiPicker-3m1S-j .scroller-3vODG7::-webkit-scrollbar-track-piece{background: transparent!Important;border:none!Important}
+#app-mount #bda-qem-twitch-container .scroller::-webkit-scrollbar-thumb,.#app-mount #bda-qem-favourite-container .scroller::-webkit-scrollbar-thumb,#app-mount .scrollerThemed-2oenus.themeLight-1_DWyY .scroller-2FKFPG::-webkit-scrollbar-thumb{background: rgb(65,64,56)!Important}
 
 /* friend */
 .theme-dark #friends .friends-table .friends-row:hover{background:rgba(105,104,91,.3)}
