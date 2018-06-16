@@ -173,15 +173,11 @@
 .theme-dark #friends .tab-bar .tab-bar-item:hover:not(.selected){background:rgb(95,94,81)}
 
 /* recent mentions & pinned messages */
-.theme-dark .messagesPopoutWrap-1MQ1bW .header-ykumBX,
-.theme-dark .messagesPopoutWrap-1MQ1bW .messagesPopout-24nkyi .message-group {
-    border-radius:0;background-color: rgb(145,144,131)
-}
+.theme-dark .messagesPopoutWrap-1MQ1bW .header-ykumBX,.theme-dark .messagesPopoutWrap-1MQ1bW .messagesPopout-24nkyi .message-group {border-radius:0;background-color: rgb(145,144,131)}
 .theme-dark .messagesPopoutWrap-1MQ1bW{border-radius:0;background:rgba(195,194,181,.8)}
-
+.theme-dark .messagesPopoutWrap-1MQ1bW .messagesPopout-24nkyi .message-group .actionButtons-1sUUug .jumpButton-3DTcS_,.theme-dark .messagesPopoutWrap-1MQ1bW .messagesPopout-24nkyi .message-group:hover .actionButtons-1sUUug{background:rgb(65,64,56);color:rgb(165,164,151);box-shadow:none}
 .theme-dark .searchPopout-1vUlP3{background-color:rgba(165,164,151,.8)}
 .theme-dark .option-96V44q.selected-rZcOL-{background: rgba(65,64,51,.6)}
-
 
 .theme-dark .calendarPicker-2yf6Ci .react-datepicker,.theme-light .calendarPicker-2yf6Ci .react-datepicker{background-color: rgba(165, 164, 151, .85)}
 .theme-dark .calendarPicker-2yf6Ci .react-datepicker__header,.theme-light .calendarPicker-2yf6Ci .react-datepicker__header {background-color: rgba(165, 164, 151, .85)}
