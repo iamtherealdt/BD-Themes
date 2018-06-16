@@ -35,7 +35,7 @@
     background-position: 50%;
     border-radius: 0px
 }
-.mask-3OgeRz{-webkit-mask: none !important}
+#app-mount .mask-3OgeRz{-webkit-mask:none;mask:none}
 
 /* popout shadow effect */
 .popout-3sVMXz:not(.popouts-3dRSmE) {outline: 90vw solid hsla(180,3%,0%,.6)}
