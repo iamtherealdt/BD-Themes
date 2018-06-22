@@ -225,3 +225,13 @@ img[src="/assets/edbbf6107b2cd4334d582b26e1ac786d.png"] + div:before {content:""
 img[src="/assets/5be6cc17e596c02e7506f2776cfb1622.png"] + div:before {content:"";height:46px;width:262px;background:hsl(205, 70%, 40%);position:absolute;margin-left:-38px}
 img[src="/assets/f0655521c19c08c4ea4e508044ec7d8c.png"] + div:before {content:"";height:46px;width:262px;background:hsl(140, 75%, 35%);position:absolute;margin-left:-38px}
 img[src="/assets/8d8f815f3d81a33b1e70ec7c22e1b6fe.png"] + div:before {content:"";height:46px;width:262px;background:hsl(235, 75%, 25%);position:absolute;margin-left:-38px}
+
+/*discord home*/
+.theme-dark .activityFeed-28jde9{background: transparent}
+.theme-dark .card-7JP0BX{background: rgba(0,0,0,.2)}
+.theme-dark .discriminator-pIKHPn, .theme-dark .playTime-1laRtO,
+.theme-dark .playTime-2SuPqW,
+.theme-dark .dockItemText-3qYREY,
+.theme-dark .headerText-2niCs_{color:rgb(65,64,56)}
+.theme-dark .lookFilled-1Gx00P.colorPrimary-3b3xI6{background: rgb(65,64,56)}
+.theme-dark .lookFilled-1Gx00P.hoverBrand-1_Fxlk.hasHover-3X1-zV:hover, .theme-light .lookFilled-1Gx00P.hoverBrand-1_Fxlk.hasHover-3X1-zV:hover{background: rgb(200,101,101)}
