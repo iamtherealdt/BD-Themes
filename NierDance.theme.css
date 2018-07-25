@@ -68,28 +68,20 @@
 
 
 /* guild list */
-.guilds-wrapper div>.guilds .guild{height:54px;margin:5px 0!important;background-color:rgba(12,12,12,.4);border-radius:14px/9%;pointer-events:none;z-index:2;box-shadow:0 2px 4px 1.4px rgba(0,0,0,.3);}
-.guilds-wrapper div>.guilds button.guild{pointer-events:auto}
-.guilds-wrapper{width:62px;z-index: 3; }.chat { z-index: 1}
-.guilds-wrapper .scroller-wrap{width:76px} 
-.guilds-wrapper .guilds{padding:0 0 55px 6px;background: rgba(0,0,0,.4)}
+.guilds-wrapper{width:62px;z-index: 3}
+.guilds-wrapper .guilds{background: rgba(0,0,0,.4)}
 .guilds-wrapper .guilds .guild:hover{z-index:4}
-.guilds-wrapper .guilds .guild:hover .guild-inner {background-color:Black !Important}
-.guilds-wrapper .guilds .guild:hover .guild-inner,.guilds-wrapper .guilds .guild.selected .guild-inner{border-radius:16px/13px!important;transition:border-radius .3s cubic-bezier(.42,.51,.62,1.7);transform:translateY(5px);}
-.guilds-wrapper .guilds .guild:hover .guild-inner a,.guilds-wrapper .guilds .guild.selected .guild-inner a{height:44px;line-height:44px}
-.guilds-wrapper .guilds .guild .guild-inner{border-radius:20px/14px!important;transform:translateY(2px);transition:border-radius .25s cubic-bezier(.42,.51,.62,1.8);pointer-events:auto;display:flex;flex-flow:column;justify-content:center;}
-.guilds-wrapper .guilds .guild .guild-inner a{width:60px;transform:translateX(-5px);box-shadow:inset 0 0 14px 3px rgba(0,0,0,.3);display:flex;justify-content:center;}
-.guilds-wrapper .guilds .guild.unread:before{background:#8c8da0}
-.guilds-wrapper .guilds .guild.active,.guilds-wrapper .guilds .guild.selected:before{background:rgba(255,255,255,.2)}
-.guilds-wrapper .guilds .guild.selected:before {background: rgba(0,0,0,.4)}
-.guilds-wrapper .guilds .guild.selected:before, .guilds-wrapper .guilds .guild.unread:before{left:0;top:0;width:100%;margin-top:0;height:100%;border-radius:0;z-index:-1;border-radius:24px/9%;margin-top:0}
-.guilds-wrapper .guilds .guild .badge{left:0;right:0;bottom:unset;top:27px;height:27px;padding:0;z-index:-1;text-align:center;line-height:37px;border-radius:14px/9%;transition:padding-top .1s}
-.guilds-wrapper .guilds .guild:hover .badge{padding-top:16px;transition:padding-top .2s cubic-bezier(.34,.49,.62,1.48);}
-.guilds-add{color:transparent!important;background-image:url(https://i.imgur.com/1MfzLoF.png)!important;background-size:20px 20px!important;background-repeat:no-repeat!important;background-position:14px 14px!important;background-color:rgba(21,21,21,0.41)!important;opacity:.7!important}
+.guilds-wrapper .guilds .guild+.guild{margin:8px 0}
+.guilds-wrapper .guilds .guild .guild-inner{border-radius:16px!important;transition:.2s}
+.guilds-wrapper .guilds .guild:hover .guild-inner{border-radius:10px!important;transition:.2s}
+.guilds-wrapper .guilds .guild.selected:before,.guilds-wrapper .guilds .guild.active{background:rgba(255,255,255,.2)}
+.guilds-wrapper .guilds .guild.selected:before, .guilds-wrapper .guilds .guild.unread:before{width:50px;height:56px;left:0;top:-3px;margin:0;border-radius:8px;z-index:-1}
+.guilds-wrapper .guilds .guild .badge{width:50px;height:28px;left:0;top:25px;padding:0;border-radius:8px;text-align:center;line-height:40px;transition:.2s;z-index:-1;}
+.guilds-wrapper .guilds .guild:hover .badge{padding-top:14px    ;transition:.2s}
+.guilds-wrapper .guilds-add{background:rgba(0,0,0,.2) url("https://i.imgur.com/1MfzLoF.png") no-repeat center/14px;color:transparent}
 .guilds-wrapper .guilds .home-icon g {display:none}
-.guilds-wrapper .guilds .home-icon {background-image: url(https://cdn.discordapp.com/attachments/390677094289637388/428920861937106945/friendiconfinal.png);background-position: 50%;background-repeat: no-repeat;background-size: 42px 40px;height: 50px;width: 50px}
-.guilds-wrapper .guilds .home-icon {height:100%}
-.guilds .active .guild-inner {background-color: rgba(0,0,0,0) !Important}
+.guilds-wrapper .guilds .home-icon{background:transparent url("https://cdn.discordapp.com/attachments/390677094289637388/428920861937106945/friendiconfinal.png") no-repeat center/42px 40px}
+
 
 /* channel */
 .guilds-wrapper:hover + div .channels-Ie2l6A, .app .channels-Ie2l6A:hover {left: 62px; opacity: 1}
