@@ -114,24 +114,23 @@
 .contentSelectedText-3wUhMi {background-color: rgba(0,0,0,0.6); border-radius: 0px; transition:0.1s}
 
 /* chat */
-.chat form {margin:0}
-.channelTextArea-1LDbYG {margin:0}
 .base-3dtUhz{border-radius:0}
-.chat .new-messages-bar{background-color:rgb(137, 136, 124)}
-.chat .new-messages-bar:hover{background-color:black}
-.chat .messages, .container-iksrDt {background-color: rgba(0,0,0,0);}
-.chat .avatar-large {border-radius: 2px;}
+.chat form{margin:0}
+.channelTextArea-rNsIhG{margin:0}
+.theme-dark .markup-2BOw-j{color: hsl(0, 0%, 100%); text-shadow: -1px -2px 7px black}
+.theme-dark .inner-zqa7da{background:rgba(0,0,0,.4);border-radius:0}
+.theme-dark .username-_4ZSMR{text-shadow: -1px -1px 1px rgba(0,0,0,.6)}
+.theme-dark .wrapper-3WhCwL{background:transparent;color:#f04747}
+.theme-dark .wrapperHover-1GktnT:hover{background: transparent;color:rgb(200,101,101);text-shadow:-1px -2px 7px #f04747}
+#app-mount .chat .divider.divider-red>span{color: #202225}
+.chat .new-messages-bar{background:rgb(137, 136, 124)}
+.chat .new-messages-bar:hover{background:rgb(27, 26, 14)}
+.chat .new-messages-bar button:last-child{color:white}
+.containerCozy-jafyvG .divider-32i8lo{display:none}
 .theme-dark .typing-2GQL18{bottom:100%;width:auto}
-.theme-dark .inner-zqa7da {border-radius: 0px; background-color:rgba(0,0,0,0.4)}
-.theme-dark .friends-table .messages .divider:not(.red) span, .theme-dark .messages-wrapper .messages .divider:not(.red) span {color: #202225}
-.theme-dark .autocomplete-1vrmpx{background-color:rgba(165,164,151,.8)}
+.theme-dark .autocomplete-1vrmpx{background-color:rgba(165,164,151,.8);text-shadow:-1px -1px 3px black}
 .theme-dark .selectorSelected-1_M1WV{background:rgba(105,104,91,.3)}
-.theme-dark .message-group .comment .markup {color: hsl(0, 0%, 100%); text-shadow: -1px -2px 7px black}
-.theme-dark .message-group h2 strong {text-shadow: -1px -1px 1px rgba(0,0,0,.58)}
-.theme-dark .message-group .comment .markup .mention{background:transparent;color:#f04747}
-.theme-dark .message-group .comment .markup .mention:hover{background:transparent;color:rgb(200,101,101); text-shadow: -1px -2px 7px #f04747}
-.theme-dark .markup-2BOw-j {color: #ffffff} 
-.theme-dark .dividerEnabled-2TTlcf {border-bottom-color: Transparent !Important} 
+.theme-dark .contentTitle-2tG_sM{color:white}
 
 /*profile popout*/
 .theme-dark .quickMessage-1yeL4E {background-color: transparent;border-color: transparent;color: hsla(0,0%,100%,.7)}
