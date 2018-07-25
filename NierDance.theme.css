@@ -131,6 +131,7 @@
 .theme-dark .message-group .comment .markup .mention{background:transparent;color:#f04747}
 .theme-dark .message-group .comment .markup .mention:hover{background:transparent;color:rgb(200,101,101); text-shadow: -1px -2px 7px #f04747}
 .theme-dark .markup-2BOw-j {color: #ffffff} 
+.theme-dark .dividerEnabled-2TTlcf {border-bottom-color: Transparent !Important} 
 
 /*profile popout*/
 .theme-dark .quickMessage-1yeL4E {background-color: transparent;border-color: transparent;color: hsla(0,0%,100%,.7)}
