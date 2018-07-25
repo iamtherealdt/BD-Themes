@@ -130,6 +130,7 @@
 .theme-dark .message-group h2 strong {text-shadow: -1px -1px 1px rgba(0,0,0,.58)}
 .theme-dark .message-group .comment .markup .mention{background:transparent;color:#f04747}
 .theme-dark .message-group .comment .markup .mention:hover{background:transparent;color:rgb(200,101,101); text-shadow: -1px -2px 7px #f04747}
+.theme-dark .markup-2BOw-j {color: #ffffff} 
 
 /*profile popout*/
 .theme-dark .quickMessage-1yeL4E {background-color: transparent;border-color: transparent;color: hsla(0,0%,100%,.7)}
@@ -237,3 +238,9 @@ img[src="/assets/8d8f815f3d81a33b1e70ec7c22e1b6fe.png"] + div:before {content:""
 .theme-dark .header-1RC2Wb:hover {background-color: rgba(0,0,0,.4)}
 .carousel-JbsNzL,.news-2GDtLJ,.paginationItem-3-MBTL:hover,.selectedPage-2JQS2s,.theme-dark .dockItem-2kQDqg:hover,.theme-dark .header-1RC2Wb {background-color: rgba(0,0,0,.6)}
 .article-FleDq5 {background-color: transparent}
+
+/*IncallUI & Videocalls*/
+.callAvatar-v-u4BM.voice-2D-tt_ {border-radius: 12%}
+.callAvatarBorder-1D_KaE.voice-2D-tt_.speaking-oCqYMI {border-radius: 12%}
+.video-1FfuMD {background-color: rgba(48, 47, 48, 0.35)}
+.theme-dark .wrapper-29NfPK {background-color: transparent}
