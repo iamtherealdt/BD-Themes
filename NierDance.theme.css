@@ -200,6 +200,7 @@
 .need-help-modal.deprecated a{color:rgb(95,94,81)}
 
 /* settings */
+.ui-standard-sidebar-view .content-column.default {padding: 5px  20px 20px !Important; position: relative;}
 .ui-standard-sidebar-view,.chat {z-index:1}
 .theme-dark .side-8zPYf6 .itemDefault-3Jdr52 {background: rgba(152,145,126,.5);font-weight: 600;color: rgb(75,74,66);border-radius: 0px}
 .theme-dark .side-8zPYf6 .itemDefault-3Jdr52:hover{width: 103%;background: rgba(65,64,56,.8)!Important;color: rgb(212,205,186)!Important}
