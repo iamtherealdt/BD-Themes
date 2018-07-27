@@ -245,3 +245,34 @@ img[src="/assets/8d8f815f3d81a33b1e70ec7c22e1b6fe.png"] + div:before {content:""
 .callAvatarBorder-1D_KaE.voice-2D-tt_.speaking-oCqYMI {border-radius: 12%}
 .video-1FfuMD {background-color: rgba(48, 47, 48, 0.35)}
 .theme-dark .wrapper-29NfPK {background-color: transparent}
+
+
+
+/* Setting Icons */
+#bd-settings-sidebar .ui-tab-bar-item,.ui-standard-sidebar-view .sidebar-region .sidebar .side-8zPYf6 .item-PXvHYJ{padding-left:30px}
+#bd-settings-sidebar .ui-tab-bar-item:before,.ui-standard-sidebar-view .sidebar-region .sidebar .side-8zPYf6 .item-PXvHYJ:before {content:"";position: absolute;left:0;top:4px;height:24px;width:24px;}
+.ui-standard-sidebar-view .sidebar-region .sidebar .side-8zPYf6 .item-PXvHYJ:nth-child(2):before{background:url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/person.svg)}
+.ui-standard-sidebar-view .sidebar-region .sidebar .side-8zPYf6 .item-PXvHYJ:nth-child(3):before{background:url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/security.svg)}
+.ui-standard-sidebar-view .sidebar-region .sidebar .side-8zPYf6 .item-PXvHYJ:nth-child(4):before{background:url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/apps.svg)}
+.ui-standard-sidebar-view .sidebar-region .sidebar .side-8zPYf6 .item-PXvHYJ:nth-child(5):before{background:url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/link.svg)}
+.ui-standard-sidebar-view .sidebar-region .sidebar .side-8zPYf6 .item-PXvHYJ:nth-child(7):before{background:url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/speed.svg)}
+.ui-standard-sidebar-view .sidebar-region .sidebar .side-8zPYf6 .item-PXvHYJ:nth-child(10):before{background:url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/mic.svg)}
+.ui-standard-sidebar-view .sidebar-region .sidebar .side-8zPYf6 .item-PXvHYJ:nth-child(11):before{background:url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/desktop_windows.svg)}
+.ui-standard-sidebar-view .sidebar-region .sidebar .side-8zPYf6 .item-PXvHYJ:nth-child(12):before{background:url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/notifications.svg)}
+.ui-standard-sidebar-view .sidebar-region .sidebar .side-8zPYf6 .item-PXvHYJ:nth-child(13):before{background:url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/keyboard.svg)}
+.ui-standard-sidebar-view .sidebar-region .sidebar .side-8zPYf6 .item-PXvHYJ:nth-child(14):before{background:url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/games.svg)}
+.ui-standard-sidebar-view .sidebar-region .sidebar .side-8zPYf6 .item-PXvHYJ:nth-child(15):before{background:url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/chat.svg)}
+.ui-standard-sidebar-view .sidebar-region .sidebar .side-8zPYf6 .item-PXvHYJ:nth-child(16):before{background:url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/camera.svg)}
+.ui-standard-sidebar-view .sidebar-region .sidebar .side-8zPYf6 .item-PXvHYJ:nth-child(17):before{background:url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/videocam.svg)}
+.ui-standard-sidebar-view .sidebar-region .sidebar .side-8zPYf6 .item-PXvHYJ:nth-child(18):before{background:url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/language.svg)}
+.ui-standard-sidebar-view .sidebar-region .sidebar .side-8zPYf6 .item-PXvHYJ:nth-child(19):before{background:url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/desktop_windows.svg)}
+.ui-standard-sidebar-view .sidebar-region .sidebar .side-8zPYf6 .item-PXvHYJ:nth-child(21):before{background:url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/history.svg)}
+.ui-standard-sidebar-view .sidebar-region .sidebar .side-8zPYf6 .item-PXvHYJ:nth-child(24):before{background:url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/exit.svg)}
+
+#bd-settings-sidebar .ui-tab-bar-item:nth-child(3):before{background:url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/betterdiscord.svg)}
+#bd-settings-sidebar .ui-tab-bar-item:nth-child(4):before{background: url(https://cdn.rawgit.com/OmgDani/ClearVisionFixes/6c6aaf1a/Icons/bandage.svg)}
+#bd-settings-sidebar .ui-tab-bar-item:nth-child(5):before{background:url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/emote.svg)}
+#bd-settings-sidebar .ui-tab-bar-item:nth-child(6):before{background:url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/code.svg)}
+#bd-settings-sidebar .ui-tab-bar-item:nth-child(7):before{background:url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/puzzle.svg)}
+#bd-settings-sidebar .ui-tab-bar-item:nth-child(8):before{background:url(https://cdn.rawgit.com/Zerthox/ClearVision/master/icons/palette.svg)}
+
