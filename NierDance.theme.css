@@ -156,6 +156,12 @@
 
 .avatarHint-1qgaV3 {border-radius: 0px}
 
+/* profile popout color fixes*/
+
+.guildNick-3uAm3i, .listName-3w10cx {color: white}
+.theme-dark .note-3kmerW textarea {color: white}
+.note-QfFU8y textarea, .note-QfFU8y textarea::-webkit-input-placeholder {color: white}
+
 /* emoji */
 #app-mount #bda-qem-favourite-container, #app-mount #bda-qem-twitch-container,#app-mount .emojiPicker-3m1S-j{background: rgba(195,194,181,.8)}
 #app-mount .emojiPicker-3m1S-j .header-1nkwgG .search-bar{background: transparent}
