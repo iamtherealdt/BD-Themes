@@ -67,22 +67,21 @@
 .lookFilled-1Gx00P.colorBrand-3pXr91{background-color: #8e1b35}
 
 /* guild list */
-#app-mount .guildsWrapper-5TJh6A{width:62px;z-index: 3}
-#app-mount .guildsWrapper-5TJh6A .guilds{background: rgba(0,0,0,.4)}
-#app-mount .guildsWrapper-5TJh6A .guilds .guild:hover{z-index:4}
-#app-mount .guildsWrapper-5TJh6A .guilds .guild+.guild{margin:8px 0}
-#app-mount .guildsWrapper-5TJh6A .guilds .guild .guild-inner{border-radius:16px!important;transition:.2s}
-#app-mount .guildsWrapper-5TJh6A .guilds .guild:hover .guild-inner{border-radius:10px!important;transition:.2s}
-#app-mount .guildsWrapper-5TJh6A .guilds .guild.active{background:rgba(255,255,255,.2);height:55px;padding-top:3px;border-radius:8px}
-#app-mount .guildsWrapper-5TJh6A .guilds .guild.selected:before, #app-mount .guildsWrapper-5TJh6A .guilds .guild.unread:before{background: rgba(255,255,255,.2);width:50px;height:56px;left:0;top:-3px;margin:0;border-radius:8px;z-index:-1}
-#app-mount .guildsWrapper-5TJh6A .guilds .guild .badge{width:50px;height:28px;left:0;top:25px;padding:0;border-radius:8px;text-align:center;line-height:40px;transition:.2s;z-index:-1;}
-#app-mount .guildsWrapper-5TJh6A .guilds .guild:hover .badge{padding-top:14px    ;transition:.2s}
-#app-mount .guildsWrapper-5TJh6A .guilds-add{background: rgba(0,0,0,.2);border: 1px dashed #2ecc71;border-radius: 12px}
-#app-mount .guildsWrapper-5TJh6A .guilds-add:hover{border-color:#22aa5a}
-#app-mount .guildsWrapper-5TJh6A .guilds-add-inner {background: url("https://i.imgur.com/1MfzLoF.png") no-repeat center/14px;color: transparent}
-#app-mount .guildsWrapper-5TJh6A .guilds .home-icon{background:transparent url("https://cdn.discordapp.com/attachments/390677094289637388/428920861937106945/friendiconfinal.png") no-repeat center/42px 40px}
-#app-mount .guildsWrapper-5TJh6A .guilds .home-icon g {display:none}
-#app-mount .guildsWrapper-5TJh6A .guilds .home-icon{background:transparent url("https://cdn.discordapp.com/attachments/390677094289637388/428920861937106945/friendiconfinal.png") no-repeat center/42px 40px}
+.guildsWrapper-5TJh6A{width:62px;z-index: 3}
+.guildsWrapper-5TJh6A .guilds-1q_RqH{background: rgba(0,0,0,.4);padding:10px 0 10px 6px}
+.guildsWrapper-5TJh6A .guilds-1q_RqH .guild-1EfMGQ:hover{z-index:4}
+.guildsWrapper-5TJh6A .guilds-1q_RqH .guild-1EfMGQ .guildInner-3DSoA4{border-radius:16px!important;transition:.2s}
+.guildsWrapper-5TJh6A .guilds-1q_RqH .guild-1EfMGQ:hover .guildInner-3DSoA4{border-radius:10px!important;transition:.2s}
+.guildsWrapper-5TJh6A .guilds-1q_RqH .guild-1EfMGQ.selected-ML3OIq:before{background: rgba(100,100,100,.8);width:50px;height:56px;left:0;top:-3px;margin:0;border-radius:8px;z-index:-1}
+.guildsWrapper-5TJh6A .guilds-1q_RqH .guild-1EfMGQ.unread-qLkInr:before{background: rgba(255,255,255,.4);width:50px;height:56px;left:0;top:-3px;margin:0;border-radius:8px;z-index:-1}
+.guildsWrapper-5TJh6A .guilds-1q_RqH .guild-1EfMGQ .badge-1GsMF2{width:50px;height:28px;left:0;top:25px;padding:0;border-radius:8px;text-align:center;line-height:40px;transition:.2s;z-index:-1;}
+.guildsWrapper-5TJh6A .guilds-1q_RqH .guild-1EfMGQ:hover .badge-1GsMF2{padding-top:14px;transition:.2s}
+.guildsWrapper-5TJh6A .guildsAdd-21_IdK{background: rgba(0,0,0,.2);border: 1px dashed #2ecc71;border-radius: 12px}
+.guildsWrapper-5TJh6A .guildsAdd-21_IdK:hover{border-color:#22aa5a}
+.guildsWrapper-5TJh6A .guildsAddInner-1KMFy- {background: url("https://i.imgur.com/1MfzLoF.png") no-repeat center/14px;color: transparent}
+.guildsWrapper-5TJh6A .guilds-1q_RqH .homeIcon-1FoKUJ{background:transparent url("https://cdn.discordapp.com/attachments/390677094289637388/428920861937106945/friendiconfinal.png") no-repeat center/42px 40px}
+.guildsWrapper-5TJh6A .guilds-1q_RqH .homeIcon-1FoKUJ g {display:none}
+.guildsWrapper-5TJh6A .guilds-1q_RqH .homeIcon-1FoKUJ{background:transparent url("https://cdn.discordapp.com/attachments/390677094289637388/428920861937106945/friendiconfinal.png") no-repeat center/42px 40px}
 
 
 /* channel */
