@@ -125,6 +125,9 @@
 .theme-dark .autocomplete-1vrmpx{background-color:rgba(165,164,151,.8);text-shadow:-1px -1px 3px black}
 .theme-dark .selectorSelected-1_M1WV{background:rgba(105,104,91,.3)}
 .theme-dark .contentTitle-2tG_sM{color:white}
+.theme-dark .messagesWrapper-3lZDfY,.theme-dark .chat-3bRxxu, .theme-dark .chat-3bRxxu form, .theme-dark .content-yTz4x3 {background-color: Transparent !Important}
+.chat-3bRxxu form {margin-left: 0px !Important;margin-right: 0px !Important}
+
 
 /*profile popout*/
 .theme-dark .quickMessage-1yeL4E {background-color: transparent;border-color: transparent;color: hsla(0,0%,100%,.7)}
