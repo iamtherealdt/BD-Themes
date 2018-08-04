@@ -137,6 +137,9 @@
 .headerPlaying-j0WQBV,
 .headerPlaying-j0WQBV + .body-3iLsc4,
 .headerPlaying-j0WQBV ~ .footer-1fjuF6{background:rgba(114,137,218,.85)}
+.headerXbox-3G-4PF,
+.headerXbox-3G-4PF + .body-3iLsc4,
+.headerXbox-3G-4PF ~ .footer-1fjuF6{background: #107c10}
 .headerStreaming-2FjmGz,
 .headerStreaming-2FjmGz  + .body-3iLsc4,
 .headerStreaming-2FjmGz ~ .footer-1fjuF6{background:rgba(89,54,149,.85)}
@@ -150,6 +153,7 @@
 .topSectionPlaying-1J5E4n,
 .topSectionPlaying-1J5E4n + .body-3ND3kc{background: rgba(114,137,218,.85)}
 .topSectionStreaming-1Tpf5X + .body-3ND3kc{background: rgba(89, 54, 149, .8)}
+.topSectionXbox-3fWLjS + .body-3ND3kc{background: #107c10}
 
 .avatarHint-1qgaV3 {border-radius: 0px}
 
