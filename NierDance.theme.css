@@ -11,7 +11,7 @@
 /* title bar */
 .wordmark-2iDDfm,.winButton-iRh8-Z svg{display:none}
 .titleBar-AC4pGV:before {position:absolute;content:"";height:15px;width:100vw;top:-3px;right:0;-webkit-app-region:drag}
-.titleBar-AC4pGV{position:absolute;padding:9px;top:0;right:0;-webkit-app-region:no-drag;z-index:2}
+.titleBar-AC4pGV{position:absolute;padding:9px;top:0;right:0;-webkit-app-region:no-drag}
 .titleBar-AC4pGV .winButton-iRh8-Z{height:30px;width:30px;background:transparent center}
 .titleBar-AC4pGV div:nth-of-type(2){background-image:url("https://cdn.discordapp.com/attachments/406778960484237322/406779041270464522/btn-close.svg")}
 .titleBar-AC4pGV div:nth-of-type(3){background-image:url("https://cdn.discordapp.com/attachments/406778960484237322/406779041064943617/btn-maximize.svg")}
