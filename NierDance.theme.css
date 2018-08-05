@@ -121,7 +121,7 @@
 .chat .new-messages-bar:hover{background:rgb(27, 26, 14)}
 .chat .new-messages-bar button:last-child{color:white}
 .containerCozy-jafyvG .divider-32i8lo{display:none}
-.theme-dark .typing-2GQL18{bottom:100%;width:auto}
+.theme-dark .typing-2GQL18{bottom:100%;width:auto; top:0px}
 .theme-dark .autocomplete-1vrmpx{background-color:rgba(165,164,151,.8);text-shadow:-1px -1px 3px black}
 .theme-dark .selectorSelected-1_M1WV{background:rgba(105,104,91,.3)}
 .theme-dark .contentTitle-2tG_sM{color:white}
