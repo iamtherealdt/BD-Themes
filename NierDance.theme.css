@@ -211,7 +211,7 @@
 .ui-standard-sidebar-view,.chat {z-index:1}
 .theme-dark .side-8zPYf6 .itemDefault-3Jdr52 {background: rgba(152,145,126,.5);font-weight: 600;color: rgb(75,74,66);border-radius: 0px}
 .theme-dark .side-8zPYf6 .itemDefault-3Jdr52:hover{width: 103%;background: rgba(65,64,56,.8)!Important;color: rgb(212,205,186)!Important}
-.theme-dark .header-2RyJ0Y,#bd-settings-sidebar .ui-tab-bar-header{display:inline-table;width:auto;transform:translateX(-45%);font-weight:700;font-size:20px;color:rgb(65,64,56)!Important;text-shadow: 2px 3px rgba(65,64,56,.3)}
+.theme-dark .header-2RyJ0Y,#bd-settings-sidebar .ui-tab-bar-header{display:inline-table;width:auto;transform:translateX(-20%);font-weight:700;font-size:16px;color:rgb(65,64,56)!Important;text-shadow: 2px 3px rgba(65,64,56,.3)}
 .side-8zPYf6 .item-PXvHYJ,#bd-settings-sidebar .ui-tab-bar-item{background:rgba(152,145,126,.5);font-weight:600;color:rgb(75,74,66);border-radius:0px}
 .side-8zPYf6 .item-PXvHYJ:hover,.side-8zPYf6 .itemSelected-1qLhcL,#bd-settings-sidebar .ui-tab-bar-item:hover{width:103%;background:rgba(65,64,56,.8)!Important;color:rgb(212,205,186)!Important}
 .ui-standard-sidebar-view .bda-slist .bda-description { border-top: 1px solid #000000; color: #ffffff; text-shadow: 1px 1px 2px black;}
