@@ -85,7 +85,7 @@
 
 
 /* channel */
-#app-mount .guildsWrapper-5TJh6A:hover + div .channels-Ie2l6A, .app .channels-Ie2l6A:hover {left: 62px; opacity: 1}.container-iksrDt {background-color: rgba(20, 20, 20,1);margin-bottom:21px !Important}
+#app-mount .guildsWrapper-5TJh6A:hover + div .channels-Ie2l6A, .app .channels-Ie2l6A:hover {left: 62px; opacity: 1; z-index: 200}.container-iksrDt {background-color: rgba(20, 20, 20,1);margin-bottom:21px !Important}
 .container-iksrDt {background-color: rgba(20, 20, 20,1);margin-bottom:21px !Important}
 .channels-Ie2l6A {
     transition: 300ms !important;
@@ -251,7 +251,7 @@ img[src="/assets/8d8f815f3d81a33b1e70ec7c22e1b6fe.png"] + div:before {content:""
 .callAvatar-v-u4BM.voice-2D-tt_ {border-radius: 12%}
 .callAvatarBorder-1D_KaE.voice-2D-tt_.speaking-oCqYMI {border-radius: 12%}
 .video-1FfuMD {background-color: rgba(48, 47, 48, 0.35)}
-.theme-dark .wrapper-29NfPK {background-color: transparent;z-index:0 !Important}
+.theme-dark .wrapper-29NfPK {background-color: transparent}
 
 
 /* Setting Icons */
