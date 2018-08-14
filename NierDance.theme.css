@@ -18,7 +18,7 @@
 .titleBar-AC4pGV div:nth-of-type(4){background-image:url("https://cdn.discordapp.com/attachments/406778960484237322/406779041409138688/btn-minimize.svg")}
 .title-3qD0b- .flex-1xMQg5.horizontal-1ae9ci,.titleCall-_b9o8P .flex-1xMQg5.horizontal-1ae9ci,.headerBar-UHpsPw .flex-1xMQg5.horizontal-1ae9ci{margin-right:98px}
 .title-3qD0b- .flex-1xMQg5.horizontal-1ae9ci:after,.titleCall-_b9o8P .flex-1xMQg5.horizontal-1ae9ci:after,.headerBar-UHpsPw .flex-1xMQg5.horizontal-1ae9ci:after{background-color:hsla(0, 0%, 100%, 0.1);content:"";height:22px;width:1px}
-.titleWrapper-1l0xT9{z-index:0}
+.titleWrapper-1l0xT9{z-index:100}
 
 /* scrollbar */
 .theme-dark .friends-table .scroller-wrap ::-webkit-scrollbar-thumb, .theme-dark .messages-wrapper .scroller-wrap ::-webkit-scrollbar-thumb {
@@ -67,7 +67,7 @@
 .lookFilled-1Gx00P.colorBrand-3pXr91{background-color: #8e1b35}
 
 /* guild list */
-.guildsWrapper-5TJh6A{width:62px;z-index: 3}
+.guildsWrapper-5TJh6A{width:62px;z-index: 300}
 .guildsWrapper-5TJh6A .guilds-1q_RqH{background: rgba(0,0,0,.4);padding:10px 0 10px 6px}
 .guildsWrapper-5TJh6A .guilds-1q_RqH .guild-1EfMGQ:hover{z-index:4}
 .guildsWrapper-5TJh6A .guilds-1q_RqH .guild-1EfMGQ .guildInner-3DSoA4{border-radius:16px!important;transition:.2s}
