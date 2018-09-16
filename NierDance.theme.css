@@ -222,7 +222,7 @@
 /* Setting Icons */
 .ui-standard-sidebar-view .item-PXvHYJ,#bd-settings-sidebar .ui-tab-bar-item{padding-left:30px}
 .ui-standard-sidebar-view .item-PXvHYJ:before,#bd-settings-sidebar .ui-tab-bar-item:before{content:"";position: absolute;left:0;top:4px;height:24px;width:24px;background:#4b4a42}
-.ui-standard-sidebar-view .item-PXvHYJ:hover:before,.ui-standard-sidebar-view .itemSelected-1qLhcL:before,#bd-settings-sidebar .ui-tab-bar-item:before{background:rgb(202, 195, 176)}
+.ui-standard-sidebar-view .item-PXvHYJ:hover:before,.ui-standard-sidebar-view .itemSelected-1qLhcL:before,#bd-settings-sidebar .ui-tab-bar-item:hover:before{background:rgb(202, 195, 176)}
 #user-settings .item-PXvHYJ:nth-child(2):before{-webkit-mask:url(https://cdn.rawgit.com/Mixter213/Discord-Themes/master/Icons/Account.svg);mask:none;}
 #user-settings .item-PXvHYJ:nth-child(3):before{-webkit-mask:url(https://cdn.rawgit.com/Mixter213/Discord-Themes/master/Icons/PrivacySafety.svg);mask:non}
 #user-settings .item-PXvHYJ:nth-child(4):before{-webkit-mask:url(https://cdn.rawgit.com/Mixter213/Discord-Themes/master/Icons/AuthorizedApps.svg);mask:non}
