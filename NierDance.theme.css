@@ -1,5 +1,4 @@
 
-
 /* transparency */
 #voice-connection,.channel-members,.guilds-add,.theme-dark .headerBar-UHpsPw,.title-3qD0b-,#friends,.friends-header,.friends-table,#app-mount .guildsWrapper-5TJh6A,.guild-header header,.channels-wrap,.private-channels,.guild-channels,.account,.friend-table-add-header,.chat,.chat form,.content,.title-wrap:not(.search-bar),.messages-wrapper,.messages .divider span,.messages .divider:before,.message-group-blocked,.is-local-bot-message,.channel-members-loading .heading,.channel-members-loading .member,.channel-members-loading,.typing-2GQL18,.layer,.layers,.container-PNkimc,.theme-dark .ui-standard-sidebar-view,.theme-dark .ui-standard-sidebar-view .sidebar-region,.theme-dark .ui-standard-sidebar-view .content-region,.theme-dark .noChannel-Z1DQK7{background: transparent !important}
 
@@ -29,8 +28,7 @@
 
 /* scrollbar */
 .theme-dark .friends-table .scroller-wrap ::-webkit-scrollbar-thumb, .theme-dark .messages-wrapper .scroller-wrap ::-webkit-scrollbar-thumb {
-    background-color: #1e2124;
-    border-color: rgba(54, 57, 62, 0);}
+    background-color: #1e2124; border-color: rgba(54, 57, 62, 0)}
 ::-webkit-scrollbar-track-piece {background-color: transparent !Important; border-color: Transparent!important}
 
 /* Avatar and status */
@@ -40,8 +38,8 @@
     background-clip: padding-box;
     background-color: none;
     background-position: 50%;
-    border-radius: 0px
-}
+    border-radius: 0px}
+
 #app-mount .mask-3OgeRz{-webkit-mask:none;mask:none}
 
 /* tooltips */
