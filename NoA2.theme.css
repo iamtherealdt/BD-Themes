@@ -2,6 +2,11 @@
 /* transparency */
 .appMount-3VJmYg,#app-mount .layers-3iHuyZ,#app-mount .layer-3QrUeG,.container-2lgZY8,#app-mount .guildsWrapper-5TJh6A,.channels-Ie2l6A,.container-PNkimc,#app-mount .chat-3bRxxu ,#app-mount .noChannel-Z1DQK7 ,#app-mount .chat-3bRxxu  form,#app-mount .content-yTz4x3,#app-mount .title-3qD0b-,#app-mount .members-1998pB,#app-mount .messagesWrapper-3lZDfY,#app-mount .headerBar-UHpsPw,#app-mount .activityFeed-28jde9,#app-mount .card-7JP0BX,#app-mount .header-1RC2Wb,#app-mount .ui-standard-sidebar-view,#app-mount .ui-standard-sidebar-view .content-region,#app-mount .ui-standard-sidebar-view .sidebar-region,#app-mount #friends{background:transparent}
 
+/*:root {
+  --animated-bg: url(https://j.gifs.com/kZ8Dpr.gif);
+  --static-bg: url(https://i.imgur.com/462bubR.jpg);
+}*/
+
 /* Main Bg */
 .appMount-3VJmYg{background: url("https://images8.alphacoders.com/838/838104.jpg") center/cover;font-family:Helvetica}
 .appMount-3VJmYg:before{content:"";position: absolute;height:100vh;width:100vw;background:linear-gradient(rgba(0,0,0,.9)50%,rgba(0,0,0,.2))}
