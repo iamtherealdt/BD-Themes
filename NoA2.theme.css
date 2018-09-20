@@ -9,7 +9,7 @@
 
 /* Main Bg */
 .appMount-3VJmYg{background: url("https://images8.alphacoders.com/838/838104.jpg") center/cover;font-family:Helvetica}
-.appMount-3VJmYg:before{content:"";position: absolute;height:100vh;width:100vw;background:linear-gradient(rgba(0,0,0,.9)50%,rgba(0,0,0,.2))}
+.appMount-3VJmYg:before{content:"";position: absolute;height:100vh;width:100vw;background:linear-gradient(rgba(0,0,0,.8)50%,rgba(0,0,0,.2))}
 
 /* Title Bar */
 .typeWindows-1za-n7{margin:0;height:20px;background:rgba(0,0,0,.3)}
@@ -44,8 +44,7 @@
     transition:.8s;
     background:rgba(64,64,64,.3);
     margin:4px 3px;
-    padding:4px 2px
-}
+    padding:4px 2px}
 .members-1998pB:hover .membersGroup-v9BXpm{padding:4px 74px}
 .memberInner-2CPc3V{width:140px;display:none}
 .membersWrap-2h-GB4:hover .memberInner-2CPc3V{display:block}
@@ -295,4 +294,3 @@ img[src="/assets/0d44ba28e39303de3832db580a252456.png"] + div:before {content:""
 #bd-settings-sidebar .ui-tab-bar-item:nth-child(6):before{-webkit-mask:url(https://cdn.rawgit.com/Mixter213/Discord-Themes/master/Icons/CCSS.svg);mask:none}
 #bd-settings-sidebar .ui-tab-bar-item:nth-child(7):before{-webkit-mask:url(https://cdn.rawgit.com/Mixter213/Discord-Themes/master/Icons/Plugins.svg);mask:none}
 #bd-settings-sidebar .ui-tab-bar-item:nth-child(8):before{-webkit-mask:url(https://cdn.rawgit.com/Mixter213/Discord-Themes/master/Icons/Themes.svg);mask:none}
-
