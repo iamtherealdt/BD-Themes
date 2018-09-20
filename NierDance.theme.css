@@ -20,6 +20,9 @@
 .title-3qD0b-:after,.titleCall-_b9o8P:after,.headerBar-UHpsPw:after{content:"";background-color:hsla(0,0%,85%,.1);height:22px;width:1px}
 .iconBadge-2dji3k {left:12px}
 
+/* Streamer mode*/
+.notice-2FJMB4{position: absolute;right:430px;top:25px}
+
 /* scrollbar */
 .theme-dark .friends-table .scroller-wrap ::-webkit-scrollbar-thumb, .theme-dark .messages-wrapper .scroller-wrap ::-webkit-scrollbar-thumb {
     background-color: #1e2124;
