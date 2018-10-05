@@ -22,12 +22,14 @@
 .searchBar-6Kv8R2 .search-bar,.button-1w5pas,.topic-2QX7LI{-webkit-app-region:no-drag}
 
 
-/* Streamer mode*/
-.notice-2FJMB4:before{content:"";position:absolute;height:28px;width:28px;right:3px;top:4px;background:rgb(100,0,150);-webkit-mask:url("https://cdn.rawgit.com/Mixter213/Discord-Themes/master/Icons/Streamer.svg");mask:none}
-.notice-2FJMB4{position: absolute;top:28px;right:28%;width:80px;height:30px;text-indent:1000px;overflow:hidden;background:transparent;box-shadow:none}
-.dismiss-SCAH9H{position:absolute;right:0;display:none}
-.button-1MICoQ{position: absolute;display:none}
-.notice-2FJMB4:hover .button-1MICoQ{display:block}
+/* Notice */
+.notice-2FJMB4{position: absolute;font-size:0;top:70px;left:50%}
+/* Streamer */
+.noticeStreamerMode-2TSQpg{background:transparent;box-shadow:none}
+.noticeStreamerMode-2TSQpg:before{content:"";position:absolute;height:30px;width:30px;background:url("https://cdn.rawgit.com/Mixter213/Discord-Themes/master/Icons/Streamer.svg")}
+.noticeStreamerMode-2TSQpg .dismiss-SCAH9H{display:none}
+.noticeStreamerMode-2TSQpg .button-1MICoQ{position: absolute;right:25px;top:3px;display:none}
+.noticeStreamerMode-2TSQpg:hover .button-1MICoQ{display:block}
 
 /* scrollbar */
 .theme-dark .friends-table .scroller-wrap ::-webkit-scrollbar-thumb, .theme-dark .messages-wrapper .scroller-wrap ::-webkit-scrollbar-thumb {
