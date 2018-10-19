@@ -176,7 +176,7 @@ img[src="/assets/8d8f815f3d81a33b1e70ec7c22e1b6fe.png"] + div:before {content:""
 .iconCollapsed-3hFp_8, .iconDefault-3Gr8d2, .nameCollapsed-34uFWo, .nameDefault-2DI02H {color: #f04747!important}
 .private-channels .channel:hover a,.contentHoveredText-2D9B-x{background-color: rgba(0,0,0,.2); border-radius: 0px; transition: 0.1s}
 .contentSelectedText-3wUhMi {background-color: rgba(0,0,0,0.6); border-radius: 0px; transition:0.1s}
-.theme-dark .gameLibrary-TTDw4Y,.theme-dark .applicationStore-1pNvnv {background-color: transparent}
+.theme-dark .gameLibrary-TTDw4Y,.theme-dark .applicationStore-1pNvnv,.theme-dark .header-39GIC8 {background-color: transparent}
 
 /* Chat */
 .channelTextArea-rNsIhG,.chat-3bRxxu form{margin:0}
