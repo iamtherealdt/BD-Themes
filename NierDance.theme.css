@@ -1,9 +1,9 @@
 /* transparency */
-.appMount-3VJmYg,#app-mount .layers-3iHuyZ,#app-mount .layer-3QrUeG,#app-mount .guildsWrapper-5TJh6A,.channels-Ie2l6A,.container-PNkimc,#app-mount .chat-3bRxxu ,#app-mount .noChannel-Z1DQK7 ,#app-mount .chat-3bRxxu  form,#app-mount .content-yTz4x3,#app-mount .title-3qD0b-,#app-mount .members-1998pB,#app-mount .messagesWrapper-3lZDfY,#app-mount .headerBar-UHpsPw,#app-mount .activityFeed-28jde9,#app-mount .card-7JP0BX,#app-mount .header-1RC2Wb,.theme-dark .gameLibrary-TTDw4Y,#app-mount .applicationStore-1pNvnv,#app-mount .ui-standard-sidebar-view .content-region,#app-mount .ui-standard-sidebar-view .sidebar-region,#app-mount #friends{background:transparent}
+.appMount-3VJmYg,#app-mount .layers-3iHuyZ,#app-mount .layer-3QrUeG,#app-mount .guildsWrapper-5TJh6A,.channels-Ie2l6A,.container-PNkimc,#app-mount .chat-3bRxxu ,#app-mount .noChannel-Z1DQK7 ,#app-mount .chat-3bRxxu  form,#app-mount .content-yTz4x3,#app-mount .title-3qD0b-,#app-mount .members-1998pB,#app-mount .messagesWrapper-3lZDfY,#app-mount .headerBar-UHpsPw,#app-mount .activityFeed-28jde9,#app-mount .card-7JP0BX,#app-mount .header-1RC2Wb,.theme-dark .gameLibrary-TTDw4Y,#app-mount .applicationStore-1pNvnv,#app-mount .contentRegion-3nDuYy,#app-mount .sidebarRegion-VFTUkN,#app-mount #friends{background:transparent}
 
 /* main backgrounds */
 #app-mount .container-2lgZY8 {background: transparent url(https://i.imgur.com/LdKlGhN.jpg) center/cover}
-#app-mount .ui-standard-sidebar-view{background: transparent url(https://goo.gl/PYe8hB) center/cover}
+#app-mount .standardSidebarView-3F1I7i{background: transparent url(https://goo.gl/PYe8hB) center/cover}
 
 /* Titlebar */
 .wordmark-2iDDfm,.winButton-iRh8-Z svg {display:none}
@@ -14,7 +14,7 @@
 .winButtonMinMax-PBQ2gm:last-child {background: url("https://cdn.discordapp.com/attachments/406778960484237322/406779041409138688/btn-minimize.svg") center}
 .title-3qD0b-:after,.titleCall-_b9o8P:after,.headerBar-UHpsPw:after{content:"";background:hsla(0,0%,85%,.1);height:22px;width:1px}
 .title-3qD0b-,.headerBar-UHpsPw{width:94.15%}
-#app-mount .ui-standard-sidebar-view:after{content:"";position: absolute;top:0;left:0;height:48px;width:94.4%;box-shadow:0 1px 0 rgba(0,0,0,.2), 0 2px 0 rgba(0,0,0,.06);-webkit-app-region:drag;z-index:1;background:transparent}
+#app-mount .standardSidebarView-3F1I7i:after{content:"";position: absolute;top:0;left:0;height:48px;width:94.4%;box-shadow:0 1px 0 rgba(0,0,0,.2), 0 2px 0 rgba(0,0,0,.06);-webkit-app-region:drag;z-index:1;background:transparent}
 #pluginNotice {margin-top: 48px}
 #app-mount .headerBar-UHpsPw:hover,#app-mount .title-3qD0b-:hover{-webkit-app-region:drag}
 .searchBar-6Kv8R2 .search-bar,.button-1w5pas,.topic-2QX7LI{-webkit-app-region:no-drag}
@@ -273,19 +273,19 @@ img[src="/assets/8d8f815f3d81a33b1e70ec7c22e1b6fe.png"] + div:before {content:""
 .theme-dark .rowWrapperActive-2L7i9f .nameCellInfo-11WjkQ,.theme-dark .rowWrapperActive-2L7i9f .icon-1IKq3C,.theme-dark .rowWrapperActive-2L7i9f .textCell-1aBIUP{color:rgb(212,205,186)}
 
 /* settings */
-.ui-standard-sidebar-view .content-column.default {padding: 5px  20px 20px !important; position: relative;}
-.ui-standard-sidebar-view,.chat {z-index:1}
+.standardSidebarView-3F1I7i .content-column.default {padding: 5px  20px 20px !important; position: relative;}
+.standardSidebarView-3F1I7i,.chat {z-index:1}
 #app-mount .side-8zPYf6 .itemDefault-3Jdr52 {background: rgba(152,145,126,.5);font-weight: 600;font-size:14px;color: rgb(75,74,66)!important;border-radius: 0px}
 #app-mount .side-8zPYf6 .itemDefault-3Jdr52:hover{width: 103%;background: rgba(65,64,56,.8)!important;color: rgb(212,205,186)!important}
 #app-mount .header-2RyJ0Y,#app-mount #bd-settings-sidebar .ui-tab-bar-header{display:inline-table;width:auto;transform:translateX(-20%);font-weight:700;font-size:16px;color:rgb(65,64,56)!important;text-shadow: 2px 3px rgba(65,64,56,.3)}
 .side-8zPYf6 .item-PXvHYJ,#app-mount #bd-settings-sidebar .ui-tab-bar-item{background:rgba(152,145,126,.5);font-weight:600;color:rgb(75,74,66);border-radius:0px}
 .side-8zPYf6 .item-PXvHYJ:hover,.side-8zPYf6 .itemSelected-1qLhcL,#bd-settings-sidebar .ui-tab-bar-item:hover{width:103%;background:rgba(65,64,56,.8)!important;color:rgb(212,205,186)!important}
-.ui-standard-sidebar-view .bda-slist .bda-description { border-top: 1px solid black; color: white; text-shadow: 1px 1px 2px black;}
-.ui-standard-sidebar-view .content-region { margin-top: 80px; margin-bottom: 20px;}
-.ui-standard-sidebar-view .tools { margin-right: 0px; padding-top: 0px;}
-.ui-standard-sidebar-view .btn-close{ border-radius: 0}
+.standardSidebarView-3F1I7i .bda-slist .bda-description { border-top: 1px solid black; color: white; text-shadow: 1px 1px 2px black;}
+.contentRegion-3nDuYy { margin-top: 80px; margin-bottom: 20px;}
+.standardSidebarView-3F1I7i .tools { margin-right: 0px; padding-top: 0px;}
+.standardSidebarView-3F1I7i .btn-close{ border-radius: 0}
 
-.ui-standard-sidebar-view .content-region-scroller .tools{position: absolute}
+.contentRegion-3nDuYy-scroller .tools{position: absolute}
 #app-mount .closeButton-1tv5uR{border:1px solid rgba(0,0,0,.2);border-radius:10px;background:rgba(65,64,56,.8);z-index:1}
 #app-mount .closeButton-1tv5uR .fill{fill:rgb(212,205,186)}
 #app-mount .keybind-KpFkfr{display:none}
