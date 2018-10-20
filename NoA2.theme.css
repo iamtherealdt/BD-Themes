@@ -89,12 +89,16 @@
 /* Chat */
 #app-mount *::selection{background-color:#f04747}
 .chat-3bRxxu .large-3ChYtB{filter:drop-shadow(6px 6px 10px rgba(250,0,0,.4));border:1px solid rgba(250,250,250,.9)}
-#app-mount .divider-3gKybi>span,#app-mount .divider-3gKybi:before,#app-mount .divider-3gKybi>div{background:white;border-radius:2px;color:black;font-weight:600;line-height:18px}
 .containerCozy-jafyvG .divider-32i8lo{display:none}
 #app-mount .timestampCozy-2hLAPV{color:rgb(200,201,202);text-shadow:-1px -2px 7px black}
 #app-mount .markup-2BOw-j{color: rgb(245,245,245); text-shadow: -1px -2px 7px black}
 .chat-3bRxxu .usernameWrapper-1S-G5O{text-shadow: -1px -2px 7px black}
-
+#app-mount .dividerContent-2L12VI{color:white}
+.dividerContent-2L12VI{white-space: nowrap;padding:0 10px 0 10px}
+.dividerContent-2L12VI:before,.dividerContent-2L12VI:after{display:none}
+.divider-3gKybi{display:flex}
+#app-mount .divider-3gKybi:before{content:"";height:1px;width:50%;top:7px;position: relative;background:white}
+#app-mount .divider-3gKybi:after{content:"";height:1px;width:50%;top:7px;position: relative;background:white}
 #app-mount .containerCozy-jafyvG .markup-2BOw-j code.inline,
 #app-mount .containerCozy-jafyvG .markup-2BOw-j pre code{background:rgba(0,0,0,.2);border-radius:2px}
 #app-mount .markup-2BOw-j pre{background:#232323;border-color:#cdcdcd;border-radius:2px}
