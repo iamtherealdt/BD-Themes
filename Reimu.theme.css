@@ -52,7 +52,12 @@
 
 /* Chat */
 #app-mount *::selection{background-color:rgba(1, 66, 131,.8)}
-#app-mount .divider-3gKybi>span,#app-mount .divider-3gKybi:before,#app-mount .divider-3gKybi>div{background:#0357ac;color:white}
+#app-mount .dividerContent-2L12VI{background:#023568;color:#dbdcdc}
+.dividerContent-2L12VI{white-space: nowrap;padding:0 10px 0 10px}
+.dividerContent-2L12VI:before,.dividerContent-2L12VI:after{display:none}
+.divider-3gKybi{display:flex}
+#app-mount .divider-3gKybi:before{content:"";height:1px;width:50%;top:9px;position: relative;background:#dbdcdc}
+#app-mount .divider-3gKybi:after{content:"";height:1px;width:50%;top:9px;position: relative;background:#dbdcdc}
 .containerCozy-jafyvG .divider-32i8lo{display:none}
 #app-mount .timestampCozy-2hLAPV{color:rgb(200,201,202);text-shadow:-1px -2px 7px black}
 #app-mount .markup-2BOw-j{color: rgb(245,245,245);text-shadow:-1px -2px 7px black}
