@@ -1,7 +1,7 @@
 //META{"name":"NieRDance","description":"Everything that lives is designed to end. In peace we should Dance and enjoy.","author":"Bastion_and_TjRen","version":"0.5"}*//{}
 
  @import url(https://rawgit.com/ImBastion/BD-Themes/master/NierDance.theme.css);
- @import url(https://rawgit.com/Mixter213/Memberlist-Scroller/master/MemberListScroller.theme.css);
+ @import url("https://mixter213.github.io/Memberlist-Scroller/MemberListScroller.theme.css");
 /*OPTIONAL*/
 .platform-win .container-2oOGIt{
     background: rgba(0,0,0,0.6);
