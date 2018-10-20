@@ -167,9 +167,7 @@ img[src="/assets/8d8f815f3d81a33b1e70ec7c22e1b6fe.png"] + div:before {content:""
 
 /* Channel */
 .guildsWrapper-5TJh6A:hover + div .channels-Ie2l6A,.channels-Ie2l6A:hover{width:240px}
-.channels-Ie2l6A{width:0;transition:.3s;background:rgba(0, 0, 0, .7)}
-.container-2Rl01u, .header-2o-2hj,.container-35XQWE,.container-2Thooq{display:none}
-.guildsWrapper-5TJh6A:hover + div .container-2Thooq,.channels-Ie2l6A:hover .container-2Thooq{display:flex}
+.channels-Ie2l6A{width:0;transition:.3s;background:rgba(0, 0, 0, .7);overflow:hidden}
 .iconCollapsed-3hFp_8, .iconDefault-3Gr8d2, .nameCollapsed-34uFWo, .nameDefault-2DI02H{color:#f04747}
 .iconHovered-2L3-fB, .iconHoveredCollapsed-3caIIZ, .nameHovered-1gxhWH, .nameHoveredCollapsed-2orEWB{color:#bb3636}
 .unread-1Dp-OI{height:100%;width:100%;margin:0;top:0;left:0;border-left:5px solid #f04747;background:transparent}
