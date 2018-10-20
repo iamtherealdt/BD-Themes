@@ -207,8 +207,14 @@ img[src="/assets/8d8f815f3d81a33b1e70ec7c22e1b6fe.png"] + div:before {content:""
 #app-mount .selectorSelected-1_M1WV{background:rgb(65,64,56)}
 #app-mount .selectorSelected-1_M1WV div{color:rgb(212,205,186)}
 
+#app-mount .dividerContent-2L12VI{background:rgb(65,64,56);color:rgb(212,205,186)}
+.dividerContent-2L12VI{white-space: nowrap;padding:0 10px 0 10px}
+.dividerContent-2L12VI:before,.dividerContent-2L12VI:after{display:none}
+.divider-3gKybi{display:flex}
+#app-mount .divider-3gKybi:before{content:"";height:1px;width:50%;top:9px;position: relative;background:rgb(65,64,56)}
+#app-mount .divider-3gKybi:after{content:"";height:1px;width:50%;top:9px;position: relative;background:rgb(65,64,56)}
+
 #app-mount .dividerEnabled-2TTlcf{display:none}
-#app-mount .divider-3gKybi .dividerContent-2L12VI{color:rgb(65,64,56);font-weight: bold}
 .newMessagesBar-mujexs{background:rgba(65,64,56,.8)}
 #app-mount .newMessagesBar-mujexs button{color:rgb(212,205,186);font-weight:bold}
 .newMessagesBar-mujexs:hover{background:rgba(212,205,186,.8)}
