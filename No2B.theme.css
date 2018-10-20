@@ -85,7 +85,11 @@
 .chat-3bRxxu .large-3ChYtB{filter:drop-shadow(6px 6px 10px rgba(150,151,152,.4));border:1px solid rgba(250,250,250,.9)}
 
 #app-mount .dividerContent-2L12VI{color:white}
-#app-mount .dividerContent-2L12VI:before{border-color:rgba(150,151,152,.4)}
+.dividerContent-2L12VI{white-space: nowrap;padding:0 10px 0 10px}
+.dividerContent-2L12VI:before,.dividerContent-2L12VI:after{display:none}
+.divider-3gKybi{display:flex}
+#app-mount .divider-3gKybi:before{content:"";height:1px;width:50%;top:7px;position: relative;background:white}
+#app-mount .divider-3gKybi:after{content:"";height:1px;width:50%;top:7px;position: relative;background:white}
 
 .containerCozy-jafyvG .divider-32i8lo{display:none}
 
