@@ -19,6 +19,14 @@
 #app-mount .headerBar-UHpsPw:hover,#app-mount .title-3qD0b-:hover{-webkit-app-region:drag}
 .searchBar-6Kv8R2 .search-bar,.button-1w5pas,.topic-2QX7LI{-webkit-app-region:no-drag}
 
+/* Login */
+.rightSplit-2US0xy,.canvas-3XuBXe{opacity:0}
+.wrapper-3Q5DdO{background:url("https://goo.gl/PYe8hB") center/cover}
+.authBox-hW6HRx{background:rgba(65,64,56,.6);color:rgb(212,205,186)}
+#app-mount .wrapper-3Q5DdO .h5-18_1nd,.title-jXR8lp,.subTitle-3TUjmF{color:rgb(212,205,186);font-weight:bold}
+.lookLink-9FtZy-.colorBrand-3pXr91{color:rgb(65,64,56)}
+.platform-win .splashBackground-1FRCko:before{height:48px;width:94.4%;left:0;top:0;box-shadow:0 1px 0 rgba(0,0,0,.2), 0 2px 0 rgba(0,0,0,.06);background:transparent;-webkit-app-region:drag;position: absolute;}
+
 /* Notice */
 .notice-2FJMB4{position: absolute;font-size:0;top:70px;left:50%}
 
