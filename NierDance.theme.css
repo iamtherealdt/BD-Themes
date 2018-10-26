@@ -144,7 +144,7 @@
 .topSectionPlaying-1J5E4n,#app-mount .headerPlaying-j0WQBV,.topSectionPlaying-1J5E4n ~ .body-3ND3kc,#app-mount .headerPlaying-j0WQBV ~ .body-3iLsc4,#app-mount .headerPlaying-j0WQBV ~ .footer-1fjuF6{background:hsla(227,80%,65%,.6)}
 .topSectionStreaming-1Tpf5X,#app-mount .headerStreaming-2FjmGz,.topSectionStreaming-1Tpf5X ~ .body-3ND3kc,#app-mount .headerStreaming-2FjmGz ~ .body-3iLsc4,#app-mount .headerStreaming-2FjmGz ~ .footer-1fjuF6{background:hsla(262,80%,40%,.6)}
 .topSectionSpotify-1lI0-P,#app-mount .headerSpotify-zpWxgT,.topSectionSpotify-1lI0-P ~ .body-3ND3kc,#app-mount .headerSpotify-zpWxgT ~ .body-3iLsc4,#app-mount .headerSpotify-zpWxgT ~ .footer-1fjuF6{background:hsla(141,80%,42%,.6)}
-.topSectionXbox-3fWLjS,#app-mount .headerXbox-3G-4PF,.topSectionXbox-3fWLjS ~ .body-3ND3kc,#app-mount .topSectionXbox-3fWLjS ~.body-3iLsc4,#app-mount .headerXbox-3G-4PF ~ .footer-1fjuF6{background: rgba(16, 124, 16, .6)}
+.topSectionXbox-3fWLjS,#app-mount .headerXbox-3G-4PF,.topSectionXbox-3fWLjS ~ .body-3ND3kc,#app-mount .headerXbox-3G-4PF~.body-3iLsc4,#app-mount .headerXbox-3G-4PF ~ .footer-1fjuF6{background: rgba(16, 124, 16, .6)}
 
 .connectedAccount-36nQx7{position: relative}
 .connectedAccountIcon-3P3V6F,.connectedAccountName-f8AEe2,.connectedAccountVerifiedIcon-3aZz_K, .body-3ND3kc a {z-index:1;color:white;border-color:transparent}
