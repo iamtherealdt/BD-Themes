@@ -323,6 +323,13 @@ img[src="/assets/8d8f815f3d81a33b1e70ec7c22e1b6fe.png"] + div:before {content:""
 .uploadModal-2ifh8j .inner-3nWsbo .file-34mY5K .icon-kyxXVr.image-2yrs5j{border: 2px rgba(182,175,156,.8)}
 .uploadModal-2ifh8j .inner-3nWsbo {border:none}
 
+/*quickswitcher */
+#app-mount .quickswitcher-3JagVE{ background: hsla(44,40%,80%,.6)}
+#app-mount .input-2VB9rf{background: hsla(44,40%,80%,1)}
+
+/*cant call call*/
+#app-mount .modal-3HD5ck, .theme-dark .footer-2yfCgX{ background-color: hsla(44,40%,80%,1)}
+
 /* Setting Icons */
 #user-settings .item-PXvHYJ,#bd-settings-sidebar .ui-tab-bar-item{padding-left:34px}
 #user-settings .item-PXvHYJ:before,#bd-settings-sidebar .ui-tab-bar-item:before{content:"";position: absolute;left:4px;top:4px;height:24px;width:24px;background:#4b4a42}
