@@ -6,18 +6,15 @@
 #app-mount .standardSidebarView-3F1I7i{background: transparent url(https://goo.gl/PYe8hB) center/cover}
 
 /* Titlebar */
-.wordmark-2iDDfm,.winButton-iRh8-Z svg {display:none}
-.titleBar-AC4pGV{position: absolute;top:0;right:0;height:48px;margin:0;padding:0;-webkit-app-region:no-drag;box-shadow:0 1px 0 rgba(0,0,0,.2), 0 2px 0 rgba(0,0,0,.06);background:transparent}
-.winButton-iRh8-Z{top:25%}
-.winButtonClose-1HsbF- {background: url("https://cdn.discordapp.com/attachments/406778960484237322/406779041270464522/btn-close.svg") center}
-.winButtonMinMax-PBQ2gm {background: url("https://cdn.discordapp.com/attachments/406778960484237322/406779041064943617/btn-maximize.svg") center}
-.winButtonMinMax-PBQ2gm:last-child {background: url("https://cdn.discordapp.com/attachments/406778960484237322/406779041409138688/btn-minimize.svg") center}
-.title-3qD0b-:after,.titleCall-_b9o8P:after,.headerBar-UHpsPw:after{content:"";background:hsla(0,0%,85%,.1);height:22px;width:1px}
-.title-3qD0b-,.headerBar-UHpsPw{width:94.15%}
-#app-mount .standardSidebarView-3F1I7i:after{content:"";position: absolute;top:0;left:0;height:48px;width:94.4%;box-shadow:0 1px 0 rgba(0,0,0,.2), 0 2px 0 rgba(0,0,0,.06);-webkit-app-region:drag;z-index:1;background:transparent}
+.typeWindows-1za-n7{position: absolute;height:48px;width:100px;right:0;margin:0;box-shadow:0 1px 0 rgba(32,34,37,.7), 0 2px 0 rgba(0,0,0,.06)}
+.wordmark-2iDDfm{display:none}
+.winButton-iRh8-Z{height:32px;width:32px;top:8px;right:8px;background:#36393f}
+.winButton-iRh8-Z svg{height:16px;width:16px}
+.headerBar-UHpsPw{width:unset;margin-right:100px;-webkit-app-region:drag}
+.headerBar-UHpsPw div{-webkit-app-region:no-drag}
+.headerBar-UHpsPw:after{content:"";height:22px;width:1px;margin:0 2px;background:hsla(0,0%,84.7%,.1)}
+#app-mount .standardSidebarView-3F1I7i:after{content:"";position: absolute;background:#36393f;height:48px;width:93.4vw;top:0;left:0;z-index:1;box-shadow:0 1px 0 rgba(32,34,37,.7), 0 2px 0 rgba(0,0,0,.06)}
 #pluginNotice {margin-top: 48px}
-#app-mount .headerBar-UHpsPw:hover,#app-mount .title-3qD0b-:hover{-webkit-app-region:drag}
-.searchBar-6Kv8R2 .search-bar,.button-1w5pas,.topic-2QX7LI{-webkit-app-region:no-drag}
 
 /* Login */
 .rightSplit-2US0xy,.canvas-3XuBXe{opacity:0}
