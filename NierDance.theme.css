@@ -6,14 +6,14 @@
 #app-mount .standardSidebarView-3F1I7i{background: transparent url(https://goo.gl/PYe8hB) center/cover}
 
 /* Titlebar */
-.typeWindows-1za-n7{position: absolute;height:48px;width:100px;right:0;margin:0;box-shadow:0 1px 0 rgba(32,34,37,.02), 0 2px 0 rgba(0,0,0,.06)}
+.typeWindows-1za-n7{position: absolute;height:48px;width:100px;right:0;margin:0;box-shadow:0 1px 0 rgba(32,34,37,.2), 0 2px 0 rgba(0,0,0,.06)}
 .wordmark-2iDDfm{display:none}
 .winButton-iRh8-Z{height:32px;width:32px;top:8px;right:8px}
 .winButton-iRh8-Z svg{height:16px;width:16px}
 .headerBar-UHpsPw{width:unset;margin-right:100px;-webkit-app-region:drag}
 .headerBar-UHpsPw div{-webkit-app-region:no-drag}
 .headerBar-UHpsPw:after{content:"";height:22px;width:1px;margin:0 2px;background:hsla(0,0%,84.7%,.1)}
-#app-mount .standardSidebarView-3F1I7i:after{content:"";position: absolute;height:48px;width:93.4vw;top:0;left:0;z-index:1;box-shadow:0 1px 0 rgba(32,34,37,.02), 0 2px 0 rgba(0,0,0,.06);-webkit-app-region:drag}
+#app-mount .standardSidebarView-3F1I7i:after{content:"";position: absolute;height:48px;width:93.4vw;top:0;left:0;z-index:1;box-shadow:0 1px 0 rgba(32,34,37,.2), 0 2px 0 rgba(0,0,0,.06);-webkit-app-region:drag}
 #pluginNotice {margin-top: 48px}
 
 /* Login */
