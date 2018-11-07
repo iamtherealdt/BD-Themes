@@ -170,6 +170,7 @@ img[src="/assets/8d8f815f3d81a33b1e70ec7c22e1b6fe.png"] + div:before {content:""
 .guildsWrapper-5TJh6A .guildsAddInner-1KMFy- {background: url("https://i.imgur.com/1MfzLoF.png") no-repeat center/14px;color: transparent}
 .guildsWrapper-5TJh6A .homeIcon-1FoKUJ{background:transparent url("https://cdn.discordapp.com/attachments/390677094289637388/428920861937106945/friendiconfinal.png") no-repeat center/42px 40px}
 .guildsWrapper-5TJh6A .homeIcon-1FoKUJ g {display:none}
+.guild-1EfMGQ:hover + .guild-1EfMGQ{z-index:-1}
 
 /* Channel */
 .guildsWrapper-5TJh6A:hover ~ div .channels-Ie2l6A,.channels-Ie2l6A:hover{width:240px}
