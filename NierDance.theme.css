@@ -204,7 +204,7 @@ img[src="/assets/8d8f815f3d81a33b1e70ec7c22e1b6fe.png"] + div:before {content:""
 #app-mount .markup-2BOw-j a{color:#f04747;font-weight:bold;text-shadow:-1px -1px 4px black}
 /*#app-mount .markup-2BOw-j a:hover{text-decoration: line-through}*/
 #app-mount .wrapper-3WhCwL{background:transparent;color:#d63e3e;font-weight:bold;text-shadow:-1px -1px 4px black}
-#app-mount .wrapper-3WhCwL:hover{color:#f04747;background:transparent;text-decoration: line-through}
+#app-mount .wrapper-3WhCwL:hover{color:#f04747;background:transparent;text-decoration: underline}
 .isMentionedCozy-3isp7y:after{background:#c86565;border-color:#d63e3e}
 #app-mount .isMentioned-N-h9aa{background:rgba(214, 62, 62,.2)}
 
