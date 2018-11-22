@@ -156,125 +156,22 @@ img[src="/assets/5be6cc17e596c02e7506f2776cfb1622.png"] + div:before {content:""
 img[src="/assets/f0655521c19c08c4ea4e508044ec7d8c.png"] + div:before {content:"";height:46px;width:262px;background:#169c42;position:absolute;margin-left:-38px}
 img[src="/assets/8d8f815f3d81a33b1e70ec7c22e1b6fe.png"] + div:before {content:"";height:46px;width:262px;background:#0f176f;position:absolute;margin-left:-38px}
 
-/* Guild List */
-.guildsWrapper-5TJh6A{z-index:102;width:62px;border-radius:0}
-.guildsWrapper-5TJh6A .guilds-1q_RqH{background: rgba(0,0,0,.4);padding:6px}
-.guildsWrapper-5TJh6A .guildInner-3DSoA4{border-radius:16px!important;transition:.2s;background:rgb(55,54,46)!important}
-.guildsWrapper-5TJh6A .guild-1EfMGQ:hover .guildInner-3DSoA4{border-radius:10px!important;transition:.2s}
-.guildsWrapper-5TJh6A .guild-1EfMGQ.selected-ML3OIq:before{background: rgba(100,100,100,.8);width:50px;height:56px;left:0;top:-3px;margin:0;border-radius:8px;z-index:-1}
-.guildsWrapper-5TJh6A .guild-1EfMGQ.unread-qLkInr:before{background: rgba(255,255,255,.4);width:50px;height:56px;left:0;top:-3px;margin:0;border-radius:8px;z-index:-1}
-.guildsWrapper-5TJh6A .badge-1GsMF2{width:50px;height:28px;left:0;top:25px;padding:0;border-radius:8px;text-align:center;line-height:40px;transition:.2s;z-index:-1;}
-.guildsWrapper-5TJh6A .guild-1EfMGQ:hover .badge-1GsMF2{padding-top:14px;transition:.2s}
-.guildsWrapper-5TJh6A .guildsAdd-21_IdK{background: rgba(0,0,0,.2);border: 1px dashed #2ecc71;border-radius: 12px}
+/* Guild */
+.guildsWrapper-5TJh6A{width:62px;border-radius:0}
+.guildsWrapper-5TJh6A .guilds-1q_RqH{background:rgba(0,0,0,.4);padding:6px}
+.guildsWrapper-5TJh6A .guild-1EfMGQ:hover{z-index:2}
+.guildsWrapper-5TJh6A .guildInner-3DSoA4{background:rgb(45,44,36)!important;border-radius:16px !important;transition:.2s linear}
+.guildsWrapper-5TJh6A .guild-1EfMGQ:hover .guildInner-3DSoA4{border-radius:10px !important}
+.guildsWrapper-5TJh6A .guildsAdd-21_IdK{background:rgba(0,0,0,.2);border:1px dashed #2ecc71;border-radius:12px}
 .guildsWrapper-5TJh6A .guildsAdd-21_IdK:hover{border-color:#22aa5a}
-.guildsWrapper-5TJh6A .guildsAddInner-1KMFy- {background: url("https://i.imgur.com/1MfzLoF.png") no-repeat center/14px;color: transparent}
+.guildsWrapper-5TJh6A .guildsAddInner-1KMFy-{background:url("https://i.imgur.com/1MfzLoF.png") no-repeat center/14px;color:transparent}
 .guildsWrapper-5TJh6A .homeIcon-1FoKUJ{background:transparent url("https://cdn.discordapp.com/attachments/390677094289637388/428920861937106945/friendiconfinal.png") no-repeat center/42px 40px}
-.guildsWrapper-5TJh6A .homeIcon-1FoKUJ g {display:none}
-
-/*GuildList mention/badges superfix by Square*/
-.guildsWrapper-5TJh6A .guild-1EfMGQ:nth-child(1) { z-index: 100; }
-.guildsWrapper-5TJh6A .guild-1EfMGQ:nth-child(2) { z-index: 99; }
-.guildsWrapper-5TJh6A .guild-1EfMGQ:nth-child(3) { z-index: 98; }
-.guildsWrapper-5TJh6A .guild-1EfMGQ:nth-child(4) { z-index: 97; }
-.guildsWrapper-5TJh6A .guild-1EfMGQ:nth-child(5) { z-index: 96; }
-.guildsWrapper-5TJh6A .guild-1EfMGQ:nth-child(6) { z-index: 95; }
-.guildsWrapper-5TJh6A .guild-1EfMGQ:nth-child(7) { z-index: 94; }
-.guildsWrapper-5TJh6A .guild-1EfMGQ:nth-child(8) { z-index: 93; }
-.guildsWrapper-5TJh6A .guild-1EfMGQ:nth-child(9) { z-index: 92; }
-.guildsWrapper-5TJh6A .guild-1EfMGQ:nth-child(10) { z-index: 91; }
-.guildsWrapper-5TJh6A .guild-1EfMGQ:nth-child(11) { z-index: 90; }
-.guildsWrapper-5TJh6A .guild-1EfMGQ:nth-child(12) { z-index: 89; }
-.guildsWrapper-5TJh6A .guild-1EfMGQ:nth-child(13) { z-index: 88; }
-.guildsWrapper-5TJh6A .guild-1EfMGQ:nth-child(14) { z-index: 87; }
-.guildsWrapper-5TJh6A .guild-1EfMGQ:nth-child(15) { z-index: 86; }
-.guildsWrapper-5TJh6A .guild-1EfMGQ:nth-child(16) { z-index: 85; }
-.guildsWrapper-5TJh6A .guild-1EfMGQ:nth-child(17) { z-index: 84; }
-.guildsWrapper-5TJh6A .guild-1EfMGQ:nth-child(18) { z-index: 83; }
-.guildsWrapper-5TJh6A .guild-1EfMGQ:nth-child(19) { z-index: 82; }
-.guildsWrapper-5TJh6A .guild-1EfMGQ:nth-child(20) { z-index: 81; }
-.guildsWrapper-5TJh6A .guild-1EfMGQ:nth-child(21) { z-index: 80; }
-.guildsWrapper-5TJh6A .guild-1EfMGQ:nth-child(22) { z-index: 79; }
-.guildsWrapper-5TJh6A .guild-1EfMGQ:nth-child(23) { z-index: 78; }
-.guildsWrapper-5TJh6A .guild-1EfMGQ:nth-child(24) { z-index: 77; }
-.guildsWrapper-5TJh6A .guild-1EfMGQ:nth-child(25) { z-index: 76; }
-.guildsWrapper-5TJh6A .guild-1EfMGQ:nth-child(26) { z-index: 75; }
-.guildsWrapper-5TJh6A .guild-1EfMGQ:nth-child(27) { z-index: 74; }
-.guildsWrapper-5TJh6A .guild-1EfMGQ:nth-child(28) { z-index: 73; }
-.guildsWrapper-5TJh6A .guild-1EfMGQ:nth-child(29) { z-index: 72; }
-.guildsWrapper-5TJh6A .guild-1EfMGQ:nth-child(30) { z-index: 71; }
-.guildsWrapper-5TJh6A .guild-1EfMGQ:nth-child(31) { z-index: 70; }
-.guildsWrapper-5TJh6A .guild-1EfMGQ:nth-child(32) { z-index: 69; }
-.guildsWrapper-5TJh6A .guild-1EfMGQ:nth-child(33) { z-index: 68; }
-.guildsWrapper-5TJh6A .guild-1EfMGQ:nth-child(34) { z-index: 67; }
-.guildsWrapper-5TJh6A .guild-1EfMGQ:nth-child(35) { z-index: 66; }
-.guildsWrapper-5TJh6A .guild-1EfMGQ:nth-child(36) { z-index: 65; }
-.guildsWrapper-5TJh6A .guild-1EfMGQ:nth-child(37) { z-index: 64; }
-.guildsWrapper-5TJh6A .guild-1EfMGQ:nth-child(38) { z-index: 63; }
-.guildsWrapper-5TJh6A .guild-1EfMGQ:nth-child(39) { z-index: 62; }
-.guildsWrapper-5TJh6A .guild-1EfMGQ:nth-child(40) { z-index: 61; }
-.guildsWrapper-5TJh6A .guild-1EfMGQ:nth-child(41) { z-index: 60; }
-.guildsWrapper-5TJh6A .guild-1EfMGQ:nth-child(42) { z-index: 59; }
-.guildsWrapper-5TJh6A .guild-1EfMGQ:nth-child(43) { z-index: 58; }
-.guildsWrapper-5TJh6A .guild-1EfMGQ:nth-child(44) { z-index: 57; }
-.guildsWrapper-5TJh6A .guild-1EfMGQ:nth-child(45) { z-index: 56; }
-.guildsWrapper-5TJh6A .guild-1EfMGQ:nth-child(46) { z-index: 55; }
-.guildsWrapper-5TJh6A .guild-1EfMGQ:nth-child(47) { z-index: 54; }
-.guildsWrapper-5TJh6A .guild-1EfMGQ:nth-child(48) { z-index: 53; }
-.guildsWrapper-5TJh6A .guild-1EfMGQ:nth-child(49) { z-index: 52; }
-.guildsWrapper-5TJh6A .guild-1EfMGQ:nth-child(50) { z-index: 51; }
-.guildsWrapper-5TJh6A .guild-1EfMGQ:nth-child(51) { z-index: 50; }
-.guildsWrapper-5TJh6A .guild-1EfMGQ:nth-child(52) { z-index: 49; }
-.guildsWrapper-5TJh6A .guild-1EfMGQ:nth-child(53) { z-index: 48; }
-.guildsWrapper-5TJh6A .guild-1EfMGQ:nth-child(54) { z-index: 47; }
-.guildsWrapper-5TJh6A .guild-1EfMGQ:nth-child(55) { z-index: 46; }
-.guildsWrapper-5TJh6A .guild-1EfMGQ:nth-child(56) { z-index: 45; }
-.guildsWrapper-5TJh6A .guild-1EfMGQ:nth-child(57) { z-index: 44; }
-.guildsWrapper-5TJh6A .guild-1EfMGQ:nth-child(58) { z-index: 43; }
-.guildsWrapper-5TJh6A .guild-1EfMGQ:nth-child(59) { z-index: 42; }
-.guildsWrapper-5TJh6A .guild-1EfMGQ:nth-child(60) { z-index: 41; }
-.guildsWrapper-5TJh6A .guild-1EfMGQ:nth-child(61) { z-index: 40; }
-.guildsWrapper-5TJh6A .guild-1EfMGQ:nth-child(62) { z-index: 39; }
-.guildsWrapper-5TJh6A .guild-1EfMGQ:nth-child(63) { z-index: 38; }
-.guildsWrapper-5TJh6A .guild-1EfMGQ:nth-child(64) { z-index: 37; }
-.guildsWrapper-5TJh6A .guild-1EfMGQ:nth-child(65) { z-index: 36; }
-.guildsWrapper-5TJh6A .guild-1EfMGQ:nth-child(66) { z-index: 35; }
-.guildsWrapper-5TJh6A .guild-1EfMGQ:nth-child(67) { z-index: 34; }
-.guildsWrapper-5TJh6A .guild-1EfMGQ:nth-child(68) { z-index: 33; }
-.guildsWrapper-5TJh6A .guild-1EfMGQ:nth-child(69) { z-index: 32; }
-.guildsWrapper-5TJh6A .guild-1EfMGQ:nth-child(70) { z-index: 31; }
-.guildsWrapper-5TJh6A .guild-1EfMGQ:nth-child(71) { z-index: 30; }
-.guildsWrapper-5TJh6A .guild-1EfMGQ:nth-child(72) { z-index: 29; }
-.guildsWrapper-5TJh6A .guild-1EfMGQ:nth-child(73) { z-index: 28; }
-.guildsWrapper-5TJh6A .guild-1EfMGQ:nth-child(74) { z-index: 27; }
-.guildsWrapper-5TJh6A .guild-1EfMGQ:nth-child(75) { z-index: 26; }
-.guildsWrapper-5TJh6A .guild-1EfMGQ:nth-child(76) { z-index: 25; }
-.guildsWrapper-5TJh6A .guild-1EfMGQ:nth-child(77) { z-index: 24; }
-.guildsWrapper-5TJh6A .guild-1EfMGQ:nth-child(78) { z-index: 23; }
-.guildsWrapper-5TJh6A .guild-1EfMGQ:nth-child(79) { z-index: 22; }
-.guildsWrapper-5TJh6A .guild-1EfMGQ:nth-child(80) { z-index: 21; }
-.guildsWrapper-5TJh6A .guild-1EfMGQ:nth-child(81) { z-index: 20; }
-.guildsWrapper-5TJh6A .guild-1EfMGQ:nth-child(82) { z-index: 19; }
-.guildsWrapper-5TJh6A .guild-1EfMGQ:nth-child(83) { z-index: 18; }
-.guildsWrapper-5TJh6A .guild-1EfMGQ:nth-child(84) { z-index: 17; }
-.guildsWrapper-5TJh6A .guild-1EfMGQ:nth-child(85) { z-index: 16; }
-.guildsWrapper-5TJh6A .guild-1EfMGQ:nth-child(86) { z-index: 15; }
-.guildsWrapper-5TJh6A .guild-1EfMGQ:nth-child(87) { z-index: 14; }
-.guildsWrapper-5TJh6A .guild-1EfMGQ:nth-child(88) { z-index: 13; }
-.guildsWrapper-5TJh6A .guild-1EfMGQ:nth-child(89) { z-index: 12; }
-.guildsWrapper-5TJh6A .guild-1EfMGQ:nth-child(90) { z-index: 11; }
-.guildsWrapper-5TJh6A .guild-1EfMGQ:nth-child(91) { z-index: 10; }
-.guildsWrapper-5TJh6A .guild-1EfMGQ:nth-child(92) { z-index: 9; }
-.guildsWrapper-5TJh6A .guild-1EfMGQ:nth-child(93) { z-index: 8; }
-.guildsWrapper-5TJh6A .guild-1EfMGQ:nth-child(94) { z-index: 7; }
-.guildsWrapper-5TJh6A .guild-1EfMGQ:nth-child(95) { z-index: 6; }
-.guildsWrapper-5TJh6A .guild-1EfMGQ:nth-child(96) { z-index: 5; }
-.guildsWrapper-5TJh6A .guild-1EfMGQ:nth-child(97) { z-index: 4; }
-.guildsWrapper-5TJh6A .guild-1EfMGQ:nth-child(98) { z-index: 3; }
-.guildsWrapper-5TJh6A .guild-1EfMGQ:nth-child(99) { z-index: 2; }
-.guildsWrapper-5TJh6A .guild-1EfMGQ:nth-child(100) { z-index: 1; }
-
-/*new mentions fix */
-.unreadMentionsIndicatorBottom-BXS58x, .unreadMentionsIndicatorTop-gA6RCh {z-index: 1000 !Important}
+.guildsWrapper-5TJh6A .homeIcon-1FoKUJ g{display:none}
+.guild-1EfMGQ.selected-ML3OIq:before,.guild-1EfMGQ.unread-qLkInr:before{height:56px;width:50px;top:-3px;left:0;margin:0;border-radius:8px;z-index:-1}
+.guildsWrapper-5TJh6A .guild-1EfMGQ.selected-ML3OIq:before{background:rgba(100,100,100,.8)}
+.guildsWrapper-5TJh6A .guild-1EfMGQ.unread-qLkInr:before{background:rgba(255,255,255,.4)}
+.guildsWrapper-5TJh6A .guild-1EfMGQ .wrapper-232cHJ{width:50px;height:25px;top:28px;right:0;padding:0;line-height:35px;border-radius:0 0 8px 8px;text-align:center;transition:.2s linear;z-index:-1}
+.guildsWrapper-5TJh6A .guild-1EfMGQ:hover .wrapper-232cHJ{top:40px}
 
 /* Channel */
 .guildsWrapper-5TJh6A:hover ~ div .channels-Ie2l6A,.channels-Ie2l6A:hover{width:240px}
