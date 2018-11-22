@@ -273,6 +273,8 @@ img[src="/assets/8d8f815f3d81a33b1e70ec7c22e1b6fe.png"] + div:before {content:""
 .guildsWrapper-5TJh6A .guild-1EfMGQ:nth-child(99) { z-index: 2; }
 .guildsWrapper-5TJh6A .guild-1EfMGQ:nth-child(100) { z-index: 1; }
 
+/*new mentions fix */
+.unreadMentionsIndicatorBottom-BXS58x, .unreadMentionsIndicatorTop-gA6RCh {z-index: 1000 !Important}
 
 /* Channel */
 .guildsWrapper-5TJh6A:hover ~ div .channels-Ie2l6A,.channels-Ie2l6A:hover{width:240px}
