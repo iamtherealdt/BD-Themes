@@ -29,9 +29,9 @@
 
 /* Streamer */
 .noticeStreamerMode-2TSQpg{background:transparent;box-shadow:none}
-.noticeStreamerMode-2TSQpg:before{content:"";position:absolute;height:30px;width:30px;background:url("https://cdn.rawgit.com/Mixter213/Discord-Themes/master/Icons/Streamer.svg")}
+/*.noticeStreamerMode-2TSQpg:before{content:"";position:absolute;height:30px;width:30px;background:url("https://cdn.rawgit.com/Mixter213/Discord-Themes/master/Icons/Streamer.svg")}*/
 .noticeStreamerMode-2TSQpg .dismiss-SCAH9H{display:none}
-.noticeStreamerMode-2TSQpg .button-1MICoQ{position: absolute;right:25px;top:3px;display:none}
+.noticeStreamerMode-2TSQpg .button-1MICoQ{position: absolute;right:-80px;top:3px;display:none}
 .noticeStreamerMode-2TSQpg:hover .button-1MICoQ{display:block}
 
 /* scrollbar */
