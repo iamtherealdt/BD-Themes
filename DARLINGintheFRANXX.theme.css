@@ -75,8 +75,8 @@
 #app-mount .item-2J1YMK:hover{background:rgb(65,64,56);color:rgb(212,205,186)}
 
 #app-mount .messagesPopoutWrap-1MQ1bW{background:transparent;border-radius:0}
-#app-mount .header-ykumBX{background:rgb(65,64,56);border-radius:0}
-#app-mount .messagesPopoutWrap-1MQ1bW .messageGroupWrapper-o-Zw7G{background:rgb(212,205,186);border:1px solid rgba(0,0,0,.2)}
+#app-mount .header-ykumBX{background:rgb(30,37,58);border-radius:0}
+#app-mount .messagesPopoutWrap-1MQ1bW .messageGroupWrapper-o-Zw7G{background:rgb(80,186,239,.65);border:1px solid rgba(0,0,0,.2)}
 #app-mount .messageGroupWrapper-o-Zw7G:hover .actionButtons-1sUUug{box-shadow:none;background:transparent}
 #app-mount .jumpButton-3DTcS_{background:rgb(65,64,56);color:rgb(212,205,186)}
 .messageGroupWrapper-o-Zw7G:hover .actionButtons-1sUUug .closeButton-17RIVZ{opacity:1}
@@ -145,7 +145,7 @@
 .topSectionPlaying-1J5E4n,#app-mount .headerPlaying-j0WQBV,.topSectionPlaying-1J5E4n ~ .body-3ND3kc,#app-mount .headerPlaying-j0WQBV ~ .body-3iLsc4,#app-mount .headerPlaying-j0WQBV ~ .footer-1fjuF6{background:hsla(227,80%,65%,.6)}
 .topSectionStreaming-1Tpf5X,#app-mount .headerStreaming-2FjmGz,.topSectionStreaming-1Tpf5X ~ .body-3ND3kc,#app-mount .headerStreaming-2FjmGz ~ .body-3iLsc4,#app-mount .headerStreaming-2FjmGz ~ .footer-1fjuF6{background:hsla(262,80%,40%,.6)}
 .topSectionSpotify-1lI0-P,#app-mount .headerSpotify-zpWxgT,.topSectionSpotify-1lI0-P ~ .body-3ND3kc,#app-mount .headerSpotify-zpWxgT ~ .body-3iLsc4,#app-mount .headerSpotify-zpWxgT ~ .footer-1fjuF6{background:hsla(141,80%,42%,.6)}
-.topSectionXbox-3fWLjS,#app-mount .headerXbox-3G-4PF,.topSectionXbox-3fWLjS ~ .body-3ND3kc,#app-mount .headerXbox-3G-4PF~.body-3iLsc4,#app-mount .headerXbox-3G-4PF ~ .footer-1fjuF6{background: rgba(16, 124, 16, .6)}
+.topSectionXbox-3fWLjS,#app-mount .headerXbox-3G-4PF,.topSectionXbox-3fWLjS ~ .body-3ND3kc,#app-mount .headerXbox-3G-4PF~.body-3iLsc4,#app-mount .headerXbox-3G-4PF ~ .footer-1fjuF6{background: rgba(185,187,190,.3)}
 
 .connectedAccount-36nQx7{position: relative}
 .connectedAccountIcon-3P3V6F,.connectedAccountName-f8AEe2,.connectedAccountVerifiedIcon-3aZz_K, .body-3ND3kc a {z-index:1;color:white;border-color:transparent}
