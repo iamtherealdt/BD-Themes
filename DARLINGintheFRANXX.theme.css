@@ -19,6 +19,7 @@
 .headerBar-UHpsPw:after{content:"";height:22px;width:1px;margin:0 2px;background:hsla(0,0%,84.7%,.1)}
 #app-mount .standardSidebarView-3F1I7i:after{content:"";position: absolute;height:48px;width:93.4vw;top:0;left:0;z-index:1;box-shadow:0 1px 0 rgba(32,34,37,.2), 0 2px 0 rgba(0,0,0,.06);-webkit-app-region:drag}
 #pluginNotice {margin-top: 48px}
+.titleWrapper-1l0xT9 {background-color: rgba(0,0,0,.4)}
 
 /* Login */
 .rightSplit-2US0xy,.canvas-3XuBXe{opacity:0}
@@ -199,7 +200,7 @@ img[src="/assets/8d8f815f3d81a33b1e70ec7c22e1b6fe.png"] + div:before {content:""
 /* Chat */
 .channelTextArea-rNsIhG,.chat-3bRxxu form{margin:0}
 .base-3dtUhz{border-radius:0}
-#app-mount .inner-zqa7da{background:rgba(0,0,0,.4);border-radius:0}
+#app-mount .inner-zqa7da{background:rgba(0,0,0,0);border-radius:0}
 #app-mount .typing-2GQL18{background:transparent;width:auto;top:-2px}
 #app-mount .markup-2BOw-j,#app-mount .username-_4ZSMR{text-shadow: -1px -1px 7px black;color:white}
 #app-mount .timestampCozy-2hLAPV{color:rgba(85,84,76,.6);font-weight:bold}
@@ -237,6 +238,7 @@ img[src="/assets/8d8f815f3d81a33b1e70ec7c22e1b6fe.png"] + div:before {content:""
 #app-mount .jumpToPresentBar-9P20AM button{text-align:center;color:white}
 #app-mount .hasMore-3e72_v button{background:rgba(65,64,56,.8);color:white;border:none}
 #app-mount .embedInner-1-fpTo{background:rgba(0,0,0,.4);border:1px solid rgb(65,64,56)}
+.flex-spacer {background-color: rgba(0,0,0,.4)}
 
 /* Memberlist */
 #app-mount .members-1998pB,#app-mount .content-OzHfo4:hover,#app-mount .member-3W1lQa.popout-open .content-OzHfo4{background:hsla(0, 0%, 0%, 0.4)}
