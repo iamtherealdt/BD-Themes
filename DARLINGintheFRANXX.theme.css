@@ -201,7 +201,7 @@ img[src="/assets/8d8f815f3d81a33b1e70ec7c22e1b6fe.png"] + div:before{content:"";
 
 /* Chat */
 .messages-3amgkR {background-color:rgba(0,0,0,.4)}
-.channelTextArea-rNsIhG,.chat-3bRxxu form{margin:0}
+.channelTextArea-rNsIhG,.chat-3bRxxu form{margin:0;background-color:rgba(0,0,0,.25)!important}
 .base-3dtUhz{border-radius:0}
 #app-mount .inner-zqa7da{background:transparent;border-radius:0;background-color:0,0,0,.3}
 #app-mount .typing-2GQL18{background:transparent;width:auto;top:-2px}
