@@ -165,7 +165,7 @@ img[src="/assets/8d8f815f3d81a33b1e70ec7c22e1b6fe.png"] + div:before{content:"";
 
 /* Guild */
 .guildsWrapper-5TJh6A{width:62px;border-radius:0}
-.guildsWrapper-5TJh6A .guilds-1q_RqH{background:rgba(0,0,0,.6);padding:6px}
+.guildsWrapper-5TJh6A .guilds-1q_RqH{background:rgba(0,0,0,.4);padding:6px}
 .guildsWrapper-5TJh6A .guild-1EfMGQ:hover{z-index:2}
 .guildsWrapper-5TJh6A .guildInner-3DSoA4{background:rgba(0,50,100,.8)!important;border-radius:16px !important;transition:.2s linear}
 .guildsWrapper-5TJh6A .guild-1EfMGQ:hover .guildInner-3DSoA4{border-radius:10px !important}
