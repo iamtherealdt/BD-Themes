@@ -1,4 +1,3 @@
-
 /*Main */
 .appMount-3lHmkl {background: transparent url("https://i.imgur.com/LdKlGhN.jpg") center/cover}
 .theme-dark .layers-3iHuyZ {background: transparent}
@@ -164,7 +163,7 @@
 .channels-Ie2l6A {background: transparent}
 .container-PNkimc {background: transparent}
 .wrapper-1Rf91z:hover~div .channels-Ie2l6A,.channels-Ie2l6A:hover {width: 240px}
-.channels-Ie2l6A {background: rgba(0, 0, 0, .8);width: 240px;transition: .2s linear;overflow: hidden}
+.channels-Ie2l6A {background: rgba(0, 0, 0, .8);width: 0px;transition: .2s linear;overflow: hidden}
 .iconCollapsed-3hFp_8,.iconDefault-3Gr8d2,.nameCollapsed-34uFWo,.nameDefault-2DI02H {color: #f04747}
 .iconHovered-2L3-fB,.iconHoveredCollapsed-3caIIZ,.nameHovered-1gxhWH,.nameHoveredCollapsed-2orEWB {color: #bb3636}
 .theme-dark .icon-1_QxNX {display: none}
