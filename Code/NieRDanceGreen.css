@@ -1,5 +1,6 @@
 /*Main */
-.appMount-3lHmkl {background:transparent url("https://cdn.discordapp.com/attachments/390677094289637388/519955453929717815/3_42.jpg") bottom/cover}
+/*.appMount-3lHmkl {background:transparent url("https://cdn.discordapp.com/attachments/390677094289637388/519955453929717815/3_42.jpg") bottom/cover}*/
+.appMount-3lHmkl {background:transparent}
 .appMount-3lHmkl:before{content:"";position:absolute;height:22px;width:100vw;top:0;left:0;background:rgba(0, 0, 0, .8)}
 .theme-dark .layers-3iHuyZ {background: transparent}
 .theme-dark .layer-3QrUeG {background: transparent}
