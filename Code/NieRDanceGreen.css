@@ -5,6 +5,9 @@
 .theme-dark .layer-3QrUeG {background: transparent}
 .theme-dark .container-2lgZY8 {background:rgba(0, 0, 0, .2)}
 
+/* Titlebar */
+.titleBar-AC4pGV {margin:0;padding-top:4px}
+
 /*Scrollbars */
 #app-mount *::-webkit-scrollbar,#app-mount *::-webkit-scrollbar-track,#app-mount *::-webkit-scrollbar-track-piece,#app-mount .emojiPicker-3m1S-j .scroller-3vODG7::-webkit-scrollbar,#app-mount .emojiPicker-3m1S-j .scroller-3vODG7::-webkit-scrollbar-track,#app-mount .emojiPicker-3m1S-j .scroller-3vODG7::-webkit-scrollbar-track-piece,#app-mount #bda-qem-favourite-container .scroller::-webkit-scrollbar,#app-mount #bda-qem-favourite-container .scroller::-webkit-scrollbar-track,#app-mount #bda-qem-favourite-container .scroller::-webkit-scrollbar-track-piece,#app-mount #bda-qem-twitch-container .scroller::-webkit-scrollbar,#app-mount #bda-qem-twitch-container .scroller::-webkit-scrollbar-track,#app-mount #bda-qem-twitch-container .scroller::-webkit-scrollbar-track-piece {background: transparent !important;border-color: transparent !important}
 #app-mount *::-webkit-scrollbar-thumb,#app-mount .emojiPicker-3m1S-j .scroller-3vODG7::-webkit-scrollbar-thumb,#app-mount #bda-qem-twitch-container .scroller::-webkit-scrollbar-thumb,#app-mount #bda-qem-favourite-container .scroller::-webkit-scrollbar-thumb {background: rgba(0, 0, 0, .6) !important;border-color: transparent !important}
