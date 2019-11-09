@@ -2,4 +2,9 @@
 
  @import url("https://imbastion.github.io/BD-Themes/Code/symphogear.css");
 
+:root{
+    --background1: url("https://i.imgur.com/QPjLkaN.png");
+    --background2: url("http://www.anime-evo.net/wp-content/uploads/2015/09/SymphogearGX_13_2.jpg")
+}
+
 /* this is the File to load the Theme */
