@@ -1,6 +1,6 @@
 
 /*** Main ***/
-.appMount-3lHmkl {background: transparent url("https://i.imgur.com/QPjLkaN.png") center/cover;font: Helvetica}
+.appMount-3lHmkl {background: transparent var(--background1) center/cover;font: Helvetica}
 
 .theme-dark .layer-3QrUeG {background: transparent}
 .theme-dark .app-2rEoOp {background: rgba(0,0,0,.4)}
@@ -425,7 +425,7 @@
 
 /***Settings ***/
 /** Settings - Main **/
-.theme-dark .standardSidebarView-3F1I7i {background: transparent url("http://www.anime-evo.net/wp-content/uploads/2015/09/SymphogearGX_13_2.jpg") center/cover ;padding:8vh 0 4vh 40px}
+.theme-dark .standardSidebarView-3F1I7i {background: transparent var(--background2) center/cover ;padding:8vh 0 4vh 40px}
 .theme-dark .standardSidebarView-3F1I7i::before{content:"";position:absolute;top:0;left:0;bottom:0;right:0;background:rgba(0,0,0,.4)}
 
 /** Settings - Sidebar **/
