@@ -119,9 +119,11 @@
 .chat-3bRxxu {background: transparent}
 .messages-3amgkR {background: transparent}
 
-.chat-3bRxxu .form-2fGMdU {margin: 0}
+.chat-3bRxxu .form-2fGMdU {margin: 0;padding:0}
 .channelTextArea-rNsIhG {margin: 0;padding:20px 0 0 0;border-top: none}
 .inner-zqa7da {background: rgba(0,0,0,.4);border-radius: 0}
+.channelTextArea-rNsIhG {background: rgb(0,0,0,.4);}
+.scrollableContainer-2NUZem {background:transparent}
 
 .textArea-2Spzkt {margin: 6px 2px 2px 0;color:white;font-weight:500}
 .textArea-2Spzkt::placeholder {color: rgb(200,200,200);font-weight:500}
@@ -250,6 +252,7 @@
 
 /** Memberlist **/
 .members-1998pB {background: rgba(0,0,0,.4)}
+.members-1998pB>div {background: transparent}
 .selected-aXhQR6 .layout-2DM8Md {background:rgba(0,0,0,.4)}
 .clickable-1JJAn8:hover .layout-2DM8Md {background:rgba(0,0,0,.2)}
 
